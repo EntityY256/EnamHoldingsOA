@@ -124,11 +124,57 @@ export type FeedItem = {
 
 const GENERIC = /^announcement under regulation 30 ?\(lodr\)\s*-?\s*/i;
 
+// "Intimation under Regulation 30 of SEBI (LODR) Regulations, 2015 - Capacity expansion at Dahej" → "Capacity expansion at Dahej"
+const LODR_PREFIX = /^.*?(?:regulation\s*30|lodr|listing obligations)[^-–:]*?(?:regulations?,?\s*20\d\d\)?)?\s*(?:[-–:]|\bregarding\b|\bpertaining to\b|\bin respect of\b)\s+(?=\S.{8,})/i;
+const USELESS = /^(announcement as attached|intimation attached\.?|disclosure attached\.?|general|press release \/ media release|updates?|intimation|disclosure|.{0,12})$/i;
+
+/** Indian filing letters almost always carry a "Sub:" line with the real subject. */
+function subjectLine(id: string): string | null {
+  const p = path.join(DATA, "snapshot", "texts", `${id}.txt`);
+  if (!fs.existsSync(p)) return null;
+  const raw = fs.readFileSync(p, "utf8");
+  const text = raw.replace(/\s+/g, " ");
+  // Press releases have no "Sub:" line; their headline is the first real sentence-like line.
+  if (!/\bSub(?:ject)?\s*[:.\-–]/i.test(text)) {
+    const line = raw
+      .split("\n")
+      .map((l) => l.trim())
+      .find(
+        (l) =>
+          l.length >= 30 &&
+          l.length <= 170 &&
+          l.split(" ").length >= 5 &&
+          !/limited|ltd\b|\bcin\b|regd|registered|e-?mail|website|tel\b|phone|www\.|@|\[page|\b\d{6}\b|press release|media release|for immediate|dalal street|bandra/i.test(l),
+      );
+    return line ?? null;
+  }
+  const m = text.match(/\bSub(?:ject)?\s*[:.\-–]\s*(.{12,220}?)(?=\s+(?:Dear|Ref\b|Ref\.|Sir|Madam|Pursuant|In terms|With reference|This is to|We wish|We hereby|Further to)|\s{2}|$)/i);
+  if (!m) return null;
+  return m[1].replace(LODR_PREFIX, "").replace(/^(intimation|disclosure|submission)\s+(of|under|regarding)\s+/i, "").trim();
+}
+
 function smartTitle(f: Filing): string {
   let t = f.subject.replace(GENERIC, "").trim();
+  for (const cand of [t, f.headline]) {
+    const stripped = cand.replace(LODR_PREFIX, "");
+    if (stripped !== cand && stripped.length > 8) {
+      t = stripped;
+      break;
+    }
+  }
   const generic = !t || /^(general|change in directorate|change in management|acquisition|credit rating|scheme of arrangement|joint venture|updates on acquisition|award_of_order_receipt_of_order|analyst \/ investor meet - intimation|newspaper publication|cessation|resignation of director|disclosure under regulation 30.*|intimation under regulation 30.*)$/i.test(t);
-  if (generic && f.headline && f.headline.length > 12) t = f.headline;
+  if (generic && f.headline && f.headline.length > 12) {
+    t = f.headline;
+    // Keep BSE's specific label when the headline is vague ("Joint Venture: Outcome of the Board Meeting…").
+    const sub = f.bseSub.replace(/_/g, " ");
+    if (sub && !/^(general|none|others?)$/i.test(sub) && !t.toLowerCase().includes(sub.toLowerCase().slice(0, 8)) && /outcome|intimation|disclosure|update/i.test(t))
+      t = `${sub}: ${t}`;
+  }
   t = t.replace(/_/g, " ").replace(/\s+/g, " ").trim();
+  if (USELESS.test(t)) {
+    const s = subjectLine(f.id);
+    if (s && s.length > 10) t = s;
+  }
   // Sentence-case shouty Title Case From BSE ("Appointment Of Shri X As Director")
   if (/^([A-Z][a-z'’]*\s?){5,}/.test(t)) t = t.replace(/\b(Of|The|And|As|To|For|In|On|With|By|At|From|Under|An|A)\b/g, (w) => w.toLowerCase());
   return t.length > 160 ? t.slice(0, 157) + "…" : t;
@@ -161,13 +207,19 @@ export function buildFeed(): FeedItem[] {
     const prev = open.get(key);
     const within72h = prev && new Date(f.ts).getTime() - new Date(prev.ts).getTime() < 72 * 3600e3;
     if (prev && within72h && GROUPABLE.includes(f.cat) && f.cat !== "management_change") {
-      // Fold into the existing card; promote if this filing is more important.
-      prev.related.push({ id: f.id, title: smartTitle(f), pdfUrl: f.pdfUrl, ts: f.ts });
-      if (TIER_RANK[f.tier] < TIER_RANK[prev.tier] || (f.cat === "results" && /financial results/i.test(f.bseSub + f.subject))) {
+      // Fold into the existing card. The newest filing becomes the face of the card (the story
+      // moved on), except on results days, where the results filing itself stays primary.
+      const isResultsDoc = f.cat === "results" && /financial results/i.test(f.bseSub + f.subject);
+      const prevIsResultsDoc = prev.cat === "results" && /financial results/i.test(prev.title);
+      const promote = TIER_RANK[f.tier] <= TIER_RANK[prev.tier] && (f.cat !== "results" || isResultsDoc || !prevIsResultsDoc);
+      if (promote) {
         prev.related.push({ id: prev.id, title: prev.title, pdfUrl: prev.pdfUrl, ts: prev.ts });
-        prev.related = prev.related.filter((r) => r.id !== f.id);
-        Object.assign(prev, { id: f.id, ts: f.ts, title: smartTitle(f), pdfUrl: f.pdfUrl, tier: TIER_RANK[f.tier] < TIER_RANK[prev.tier] ? f.tier : prev.tier, why: f.why });
+        Object.assign(prev, { id: f.id, title: smartTitle(f), pdfUrl: f.pdfUrl, why: f.why });
+      } else {
+        prev.related.push({ id: f.id, title: smartTitle(f), pdfUrl: f.pdfUrl, ts: f.ts });
       }
+      if (TIER_RANK[f.tier] < TIER_RANK[prev.tier]) prev.tier = f.tier;
+      prev.ts = f.ts > prev.ts ? f.ts : prev.ts; // card time = latest activity
       continue;
     }
     const item: FeedItem = {
@@ -232,6 +284,11 @@ export function buildFeed(): FeedItem[] {
         .slice(0, 2)
         .map((p) => `${p.name} ${verb[p.action]} ${p.role}`)
         .join("; ");
+      // A change at the top always needs the investor, whatever BSE's title says.
+      if (it.people.some((p) => /\b(CEO|CFO|MD|Chairman)\b/.test(p.role))) {
+        it.tier = "act";
+        it.why = "Change at the top";
+      }
     }
     if (["M&A", "capex", "litigation", "fund_raise", "management_change", "results"].includes(it.cat) && it.tier === "act") {
       it.who = network.linksToCompany(it.symbol, co.sector).slice(0, 3).map(toLite);
