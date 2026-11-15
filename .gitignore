@@ -28,8 +28,8 @@ venv/
 *.egg-info/
 
 # --- Data: raw downloads stay local; the curated snapshot in data/seed is committed ---
-data/raw/
-data/cache/
+**/data/raw/
+**/data/cache/
 
 # --- OS / editor ---
 .DS_Store

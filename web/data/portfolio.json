@@ -1,0 +1,11 @@
+{
+  "note": "Mock portfolio for the FINN demo. Chosen after scanning ~70 NSE companies' BSE filings (Oct–Nov 2026) for a mix of sectors, sizes and real recent events.",
+  "portfolio": [
+    "HDFCBANK", "KOTAKBANK", "EQUITASBNK", "BAJFINANCE",
+    "LT", "TATASTEEL", "ADANIPORTS", "KAYNES", "HAL",
+    "NTPC", "TATAPOWER",
+    "TCS", "LAURUSLABS", "SUNPHARMA",
+    "TRENT", "ASIANPAINT", "NYKAA", "NAVINFLUOR"
+  ],
+  "research": ["DIXON", "CREDITACC", "DEEPAKNTR", "TCS"]
+}

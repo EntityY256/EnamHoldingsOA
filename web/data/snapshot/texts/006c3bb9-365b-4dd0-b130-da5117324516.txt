@@ -1,0 +1,240 @@
+[page 1]
+CO/SEC/4(7)/2026-27/ BSE & NSE Filing/46 11th November, 2026
+BSE Limited
+Listing Department
+Phiroze Jeejeebhoy Towers,
+Dalal Street,
+Mumbai – 400 001
+National Stock Exchange of India Ltd
+Listing Department
+Exchange Plaza, 5th Floor, Plot No C/1,
+G Block, Bandra-Kurla Complex, Bandra (E)
+Mumbai – 400051
+Dear Sir/ Madam,
+Sub: Withdrawal of Rating
+Ref: BSE Scrip Code: 541154, NSE Symbol: HAL
+***
+Pursuant to the Regulation 30 of the SEBI (Listing Obligations and
+Disclosure Requirements) Regulation, 2015, we hereby inform that, ICRA Limited
+(“ICRA”) has withdrawn its rating as per the following details:
+Facilities Amount
+(Rs. in Crore)
+Rating Rating action
+Long Term - Fund
+Based limits
+4,000.00 [ICRA] AAA
+(Stable)
+Withdrawn
+Short Term - Non-
+Fund Based limits
+2,050.00 [ICRA] A1+ Withdrawn
+Total Facilities 6,050.00
+2. ICRA communication dated 11th November, 2026 for withdrawal of credit
+rating, is enclosed.
+3. This is for your information and record please.
+Thanking You,
+Yours Faithfully
+For Hindustan Aeronautics Ltd
+(Shailesh Bansal)
+Company Secretary & Compliance Officer
+
+[page 2]
+www.icra.in Page | 1Sensitivity Label : Restricted
+November 11, 2026
+Hindustan Aeronautics Limited: Ratings withdrawn
+Summary of rating action
+Instrument*
+Previous rated
+amount
+(Rs. crore)
+Current rated
+amount
+(Rs. crore)
+Rating action Financial
+sector regulator#
+Long-term – Fund-based limits 4,000.00 4,000.00 [ICRA]AAA (Stable); withdrawn RBI
+Short-term – Non-fund based
+limits 2,050.00 2,050.00 [ICRA]A1+; withdrawn RBI
+Total 6,050.00 6,050.00
+*Instrument details are provided in Annexure I
+#SEBI’s grievance redressal/dispute resolution and SEBI investor protection mechanisms such as SCORES and ODR shall not be available for activities and
+instruments which fall under the regulatory purview of Financial Sector Regulators other than SEBI
+Rationale
+ICRA has withdrawn the rating assigned to the bank facilities of Hindustan Aeronautics Limited (HAL), at the request of the
+company, based on the No Objection Certificates (NOC) received from its bankers, and in accordance with ICRA’s policy on
+withdrawal of credit ratings. However, ICRA does not have information to suggest that the credit risk has changed since the
+time the rating was last reviewed.
+The key rating drivers and their description, liquidity position and rating sensitivities have not been captured as the rated
+instruments are being withdrawn. The previous detailed rating rationale is available at the following link: Click here.
+Analytical approach
+Analytical approach Comments
+Applicable rating methodologies Corporate Credit Rating Methodology
+Policy on Withdrawal of Credit Ratings
+Parent/Group support
+Parent/Group Company: Government of India (GoI)
+The assigned rating factors in majority ownership by GoI and the strategic importance that
+HAL holds for the GoI in defence sector, which we expect should induce it to extend timely
+financial support to the rated entity, should there be a need.
+Consolidation/Standalone
+For arriving at the ratings, ICRA has considered the consolidated financials of HAL. TShe
+company consolidated its 10 joint ventures and 2 subsidiaries, which are all annexed in
+Annexure II.
+About the Company
+HAL, a defence public sector undertaking (DPSU), was established on October 1, 1964, with the amalgamation of Hindustan
+Aircraft Limited and Aeronautics India Limited. The principal business of HAL is to undertake design, development,
+manufacturing, maintenance, repair, overhaul, and servicing of aircraft, helicopters, engines and other related systems like
+avionics, instruments, and accessories. Its primary consumers are the Indian defence forces comprising the Indian Air Force,
+Indian Army, Indian Navy and the Indian Coast Guard. It also engages with the Indian Space Research Organisation (ISRO) to
+contribute to its space programmes. The GoI remains HAL’s largest shareholder, with a stake of 71.64% as on March 31, 2026.
+HAL was conferred with the Navratna PSU status in June 2007 and Maharatna status in October 2024. The board of directors
+also include two nominee directors from the GoI.
+
+[page 3]
+www.icra.in Page | 2Sensitivity Label : Restricted
+The company has four production complexes – Bengaluru complex, MiG complex (located in Nasik and Koraput), helicopter
+complex (located in Bengaluru and Barrackpore), accessories complex (located in Kanpur, Lucknow, Hyderabad, Kasargod and
+Korwa). It also has a design complex (R&D centres) jointly located with the related manufacturing divisions.
+Key financial indicators (audited)
+HAL (Consolidated) FY2025 FY2026 Q1 FY2027*
+Operating income (Rs. crore) 30,981.0 33,088.8 5,515.2
+PAT (Rs. crore) 8,323.4 9,071.9 1,578.1
+OPBDIT/OI (%) 31.2% 30.1% 27.8%
+PAT/OI (%) 26.9% 27.4% 28.6%
+Total outside liabilities/Tangible net worth (times) 2.0 2.2 N.A
+Total debt/OPBDIT (times) - - -
+Interest coverage (times) 1112.6 1717.4 4,374.9
+Source: Company, ICRA Research; All ratios as per ICRA’s calculations; Amount in Rs. crore; PAT: Profit after tax; OPBDIT: Operating profit before depreciation,
+interest, taxes and amortisation; N.A: Not available; *unaudited results
+Status of non-cooperation with previous CRA: Not applicable
+Any other information: None
+Rating history for past three years
+Instrument
+Current rating (FY2027) Chronology of rating history for the past 3 years
+Type Amount rated
+(Rs. crore) Nov 11, 2026
+FY2026 FY2025 FY2024
+Date Rating Date Rating Date Rating
+Fund-based facilities Long
+Term 4,000.00 [ICRA]AAA (Stable);
+withdrawn
+Sep 30,
+2025
+[ICRA]AAA
+(Stable)
+Jun 28,
+2024
+[ICRA]AAA
+(Stable)
+Apr 21,
+2023
+[ICRA]AAA
+(Stable)
+Non-fund-based
+facilities
+short
+term 2,050.00 [ICRA]A1+;
+withdrawn
+Sep 30,
+2025 [ICRA]A1+ Jun 28,
+2024 [ICRA]A1+ Apr 21,
+2023 [ICRA]A1+
+Complexity level of the rated instruments
+Instrument Complexity indicator
+Fund-based facilities Simple
+Non-fund-based facilities Simple
+The Complexity Indicator refers to the ease with which the returns associated with the rated instrument could be estimated.
+It does not indicate the risk related to the timely payments on the instrument, which is rather indicated by the instrument’s
+credit rating. It also does not indicate the complexity associated with analysing an entity’s financial, business, industry risks or
+complexity related to the structural, transactional or legal aspects. Details on the complexity levels of the instruments are
+available on ICRA’s website: Click here
+
+[page 4]
+www.icra.in Page | 3Sensitivity Label : Restricted
+Annexure I: Instrument details
+ISIN Instrument name Date of
+issuance
+Coupon
+rate Maturity Amount rated
+(Rs. crore)
+Current rating and
+outlook
+Financial sector
+regulator#
+NA Fund-based facilities NA NA NA 4,000.00 [ICRA]AAA (Stable);
+withdrawn RBI
+NA Non-fund-based
+facilities NA NA NA 2,050.00 [ICRA]A1+;
+withdrawn RBI
+Source: Company
+#SEBI’s grievance redressal/dispute resolution and SEBI investor protection mechanisms such as SCORES and ODR shall not be available for activities and
+instruments which fall under the regulatory purview of Financial Sector Regulators other than SEBI
+Annexure II: List of entities considered for consolidated analysis
+Company name HAL ownership Consolidation approach
+Subsidiaries:
+Naini Aerospace Limited 100.00% Full Consolidation
+Indo Russian Helicopters Limited 50.5% Full Consolidation
+Joint Ventures:
+BAeHAL Software Ltd. 49.0% Equity Method
+Indo Avia Services Ltd (Erstwhile Indo Russian Aviation Ltd.) 48.0% Equity Method
+Safran HAL Aircraft Engines Pvt. Ltd. 50.0% Equity Method
+International Aerospace Manufacturing Pvt. Ltd. 50.0% Equity Method
+Multi-Role Transport Aircraft Ltd. 50.0% Equity Method
+Helicopter Engines MRO Private Ltd. 50.0% Equity Method
+SAFHAL Helicopter Engines Pvt. Ltd. 50.0% Equity Method
+Samtel HAL Display System Ltd. 40.0% Equity Method
+HALBIT Avionics Pvt. Ltd. 50.0% Equity Method
+HATSOFF Helicopter Training Pvt. Ltd. 50.0% Equity Method
+Source: Company
+
+[page 5]
+www.icra.in Page | 4Sensitivity Label : Restricted
+ANALYST CONTACTS
+Anupama Reddy
++91 40 6939 6427
+anupama.reddy@icraindia.com
+Rohan Kanwar Gupta
++91 124 4545 808
+rohan.kanwar@icraindia.com
+Pulkit Varshney
++91 80 4332 6427
+pulkit.varshney@icraindia.com
+Sonali Agarwal
++91 80 4332 6418
+sonali.agarwal@icraindia.com
+RELATIONSHIP CONTACT
+L. Shivakumar
++91 22 6114 3406
+shivakumar@icraindia.com
+MEDIA AND PUBLIC RELATIONS CONTACT
+Ms. Naznin Prodhani
+Tel: +91 124 4545 860
+communications@icraindia.com
+HELPLINE FOR BUSINESS QUERIES
++91-9354738909 (open Monday to Friday, from 9:30 am to 6 pm)
+info@icraindia.com
+ABOUT ICRA LIMITED
+ICRA Limited was set up in 1991 by leading financial/investment institutions, commercial banks and financial services
+companies as an independent and professional investment Information and Credit Rating Agency.
+Today, ICRA and its subsidiaries together form the ICRA Group of Companies (Group ICRA). ICRA is a Public Limited Company,
+with its shares listed on the Bombay Stock Exchange and the National Stock Exchange. The international Credit Rating Agency
+Moody’s Investors Service is ICRA’s largest shareholder.
+For more information, visit www.icra.in
+
+[page 6]
+Sensitivity Label : Restricted
+ICRA Limited
+Registered Office
+B-710, Statesman House, 148 Barakhamba Road, New Delhi-110001
+Tel: +91 11 23357940-45
+Branches
+© Copyright, 2026 ICRA Limited. All Rights Reserved.
+Contents may be used freely with due acknowledgement to ICRA.
+ICRA ratings should not be treated as recommendation to buy, sell or hold the rated debt instruments. ICRA ratings are subject to a process of surveillance,
+which may lead to revision in ratings. An ICRA rating is a symbolic indicator of ICRA’s current opinion on the relative capability of the issuer concerned to
+timely service debts and obligations, with reference to the instrument rated. Please visit our website www.icra.in or contact any ICRA office for the latest
+information on ICRA ratings outstanding. All information contained herein has been obtained by ICRA from sources believed by it to be accurate and reliable,
+including the rated issuer. ICRA however has not conducted any audit of the rated issuer or of the information provided by it. While reasonable care has been
+taken to ensure that the information herein is true, such information is provided ‘as is’ without any warranty of any kind, and ICRA in particular, makes no
+representation or warranty, express or implied, as to the accuracy, timeliness or completeness of any such information. Also, ICRA or any of its group
+companies may have provided services other than rating to the issuer rated. All information contained herein must be construed solely as statements of
+opinion, and ICRA shall not be liable for any losses incurred by users from any use of this publication or its contents.

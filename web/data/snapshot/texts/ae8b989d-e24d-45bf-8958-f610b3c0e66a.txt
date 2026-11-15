@@ -1,0 +1,473 @@
+[page 1]
+Regd. Office: HDFC Bank Limited, HDFC Bank House, Senapati Bapat Marg, Lower Parel (West), Mumbai – 400 013
+Ref. No. SE/2026-27/126
+October 17, 2026
+BSE Limited National Stock Exchange of India Limited
+Dept of Corporate Services The Listing Department
+Phiroze Jeejeebhoy Towers, Exchange Plaza
+Dalal Street, Fort, Bandra Kurla Complex,
+Mumbai 400 001 Mumbai 400 051
+Scrip code: 500180 Scrip code: HDFCBANK
+Dear Sir/Madam,
+Sub: Approval of unaudited standalone and consolidated financial results of the Bank for the quarter and half-
+year ended September 30, 2026
+With reference to our intimation dated September 22, 2026 and pursuant to Regulations 30, 33 and other applicable
+provisions of Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations,
+2015, we wish to inform you that the Board of Directors of the Bank at its meeting held today i.e. on October 17,
+2026, based on the recommendation of the Audit Committee, approved the unaudited standalone and consolidated
+financial results of the Bank for the quarter and half-year ended September 30, 2026 (“Results”). The Results along
+with Limited Review Reports of the Joint Statutory Auditors and Press Release on the said Results are enclosed and
+being uploaded on the website of the Bank. The said Results will also be published in the newspapers in the prescribed
+format.
+Please note that the Board Meeting commenced at 11.00 a.m. today, i.e. on Saturday, October 17, 2026 and the Results
+were approved by the Board at 1.30 p.m. Thereafter, the Board Meeting continued for consideration of other agenda
+matters.
+Further, kindly note that in terms of the Bank’s Share Dealing Code and the SEBI (Prohibition of Insider Trading)
+Regulations, 2015, the window for trading in Securities of the Bank by its designated persons and their immediate
+relatives shall open on Tuesday, October 20, 2026.
+This is for your information and appropriate dissemination.
+Thank you.
+Yours faithfully,
+For HDFC Bank Limited
+Ajay Agarwal
+Company Secretary
+Group Head – Secretarial & Group Oversight
+Encl: a/a
+Copy to:
+1. New York Stock Exchange 2. Singapore Exchange Securities Trading Limited
+11,Wall Street, 2 Shenton Way 068804
+New York, NY 10005, USA # 02-00 SGX Centre 1
+Singapore 068804
+CIN: L65920MH1994PLC080618
+Email: shareholder.grievances@hdfc.bank.in
+Website: www.hdfc.bank.in
+HDFC Bank Limited,
+Sandoz House,
+Shivsagar Estate,
+Dr. Annie Besant Road,
+Worli, Mumbai – 400018
+Tel. No.:022-66521000
+
+[page 2]
+F BANK'
+We understand your world
+HDFC BANK LIMITED
+CIN L66920MH1994PLC080618
+Sandoz House, ShIvsagar Estato, Dr. Annlo Bosant Road, Wont, Mumbal 400 018.
+Wobslto: https://www.hdfc.bank.ln, Tol,: 022-6662 1000, Fax: 022- 2496 0739
+UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED SEPTEMBER 30, 2026
+In crore
+Particulars
+Quarter ended Half year ended Year ended
+31.03.202630.09.2026 30.06.2026 39.09.2026 30.09.2026 30.09.2026
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited
+1 Interest earned (a)+(b)+(c)+(d) 83426.60 79362,78 76690.70 162789.38 154160.90 307522.08
+a) Interest / discount on advances / bills 65458.33 61953.87 59264.81 127412.20 119457.45 239762.46
+b) Income on investments 15253.52 14272.21 15285,48 29525.73 30355.56 58945.38
+c) Interest on balances with Reserve Bank of India and other
+inter-bank funds
+1330.90 1365.28 554.79 2696,18 1224.96 2674,70
+d) Others 1383.85 1771.42 1585.62 3155.27 3122.93 6139.54
+2 Other Income (Refer note 12) 13831.02 12821.60 14350.02 26652.62 36079.85 62532.57
+3 Total Income (1)+(2) 97267.62 92184.38 91040.72 189442.00 190240.76 370054.65
+4 Interest expended 48807.42 45828.83 45139,20 94636.25 91171.43 178836.04
+5 Operating expenses (i)+(ii) 18966.78 18187,49 17977.92 37154.27 35411.76 72660.33
+i) Employees cost 6774.17 6414.83 6461.29 13189.00 12619.26 26050.15
+ii) Other operating expenses 12192.61 11772.66 11516,63 23965.27 22792.50 46610.18
+6 Total Expenditure (4)4-(6) (excluding provisions and
+contingencies)
+67774.20 64016.32 63117.12 131790.62 126683.19 261496.37
+7 Operating Profit before provisions and contingencies (3)-(6) 29483.42 28168.06 27923.60 57661.48 63667.66 118668.28
+8 Provisions (other than tax) and Contingencies (Refer note 7) 3573.62 3059,76 3500.53 6633.38 17942,16 23389.59
+9 Exceptional items - - - - - -
+10 Profit from ordinary activities before tax (7)-(8)-(9) 25909.80 26108.30 24423.07 51018.10 46716.40 96168.69
+11 Tax Expense (Refer note 13) 6399.84 6048.58 5781.79 12448.42 8918.91 20497.40
+12 Net Profit from ordinary activities after tax (10)-(11) 19609.96 19069.72 18641.28 38669.68 36796.49 74671.29
+13 Extraordinary Items (net of tax expense) - - - - -
+14 Net Profit for the period (12)-(13) 19609.96 19069.72 18641.28 38669.68 36796.49 74671.29
+15 Paid up equity share capital (Face Value of Z 1/- each) 1541.86 1540.13 1536.37 1541.86 1536.37 1539.34
+16 Reserves excluding revaluation reserves 556816.45
+17 Analytical Ratios and other disclosures:
+(i) Percentage of shares held by Government of India Nil Nil Nil Nil Nil Nil
+(ii) Capital Adequacy Ratio 18.87% 19.57% 19.96% 18.87% 19.96% 19.71%
+(iii) Earnings per share (EPS) (t) (Face Value of I' 1/- each):
+(a) Basic EPS before & after extraordinary items (net of tax
+expense) - not annualized
+12.66 12.38 12.14 25.04 24.00 48.62
+(b) Diluted EPS before & after extraordinary items (net of tax
+expense) - not annualized
+12.63 12.35 12.09 24.98 23.88 48.40
+(iv) NPA Ratios:
+(a) Gross NPAs 35809.70 35846.35 34289.48 35809.70 34289.48 34061.19
+(b) Net NPAs 11850.86 12357.27 11447.29 11850.86 11447.29 11169.54
+(c) % of Gross NPAs to Gross Advances 1.11% 1.17% 1.24% 1.11% 1.24% 1,15%
+(d) % of Net NPAs to Net Advances 0.37% 0.41% 0.42% 0,37% 0.42% 0.38%
+(v) Return on assets (average) - not annualized 0.45% 0.46% 0.49% 0.91% 0.97% 1.94%
+(vi) Net worth 566722.23 566201.13 507536.55 566722.23 507536.55 546325.46
+(vii) Outstanding Redeemable Preference Shares - - - - -
+(viii) Capital Redemption Reserve - - - - - -
+(ix) Debt Equity Ratio* 0.63 0.56 0.52 0.63 . 0.52 • 0.53
+(x) Total Debts to Total Assets" 10.68% 10.50% 12.73% 10.68% 12.73% 11.21%
+* Debt represents borrowings with residual maturity of mono than one
+year.
+"Total debts represents total borrowings of the Bank.
+A
+41,
+o MUMBAI 1'
+co.
+'Nth Floor,
+Ccntral 0 V rig and
+tt< It Yang
+N: I Park,
+N.:. Cenllr.
+V:aster xi. CSS Highway.
+Co egaon (East),
+hlumbai • 400 061
+Acc
+co
+Regd. Office : HDFC Bank Ltd., MFG Bank House, Senapatl Bapat Marc, Lower Parol (West), Mumbal - 400013.
+
+[page 3]
+Prir"
+We understand your world
+,HDFC BANK
+Standalone Segment information in accordance with the RBI guidelines and Accounting Standard 17 - Segment Reporting of the operating segments of the Bank is as under:
+CZ in crore)
+Particulars
+Quarter ended Half year ended Year ended
+31.03.202630,09.2026 30.06.2026 30.09.2026 30.09.2026 30.09.2026
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited
+1 Segment Revenue
+a) Treasury (Refer note 12) 19150.30 18192.38 20609,22 37342.68 48892.56 84337.48
+b) Retail Banking: 79112.16 75888.80 75584.52 155000.96 150775.70 301853.51
+(0 Digital Banking' 3.89 3.39 2.62 7.28 5.11 10.37
+(ii) Nor? Digital Banking 79106.27 75885.41 75581.90 154993,68 150770.59 301843.14
+c) Wholesale Banking 52743.87 48670.85 42308.37 101414.72 87098.59 174506,30
+d) Other Banking Operations 9700.20 9044.03 9333.81 18744.23 18027.45 36840.96
+e) Unallocated - - - .. - -
+Total 160706.63 161796,06 147836.92 312602.59 304794.30 597538.26
+Less: Inter Segment Revenue 63448.91 59611.68 56795.20 123060.59 114553.55 227483.60
+Income from Operations 97267.62 92184.38 91040.72 189442.00 190240.75 370054.65
+2 Segment Rosultss
+a) Treasury (Refer note 12) 2099.17 2406.59 4212.52 4505.76 16989.38 21142.48
+b) Retail Banking: 10521.59 10131.32 9098.86 20652.91 12480.56 32026.72
+(0 Digital Banking' 0.00 0.07 (0.44) 0.07 (0.64) (1.59)
+(ii) Non Digital Banking 10521.59 10131.25 9099.30 20652.84 12481.20 32028.31
+c) Wholesale Banking 10563.24 10364.04 8922.62 20927.28 12621.01 33947.96
+d) Other Banking Operations 3297.50 2795.81 2790.10 6093.31 4806.66 10415.96
+e) Unallocated (571.70) (589.46) (601.03) (1161.16) (1182.41) (2364.43)
+Total Profit Before Tax 26909.80 25108.30 24423.07 51018,10 46716.40 96168.69
+3 Segment Assets
+a) Treasury 1106606.06 1086021.85 921265.72 1106606.06 921265.72 1149929.44
+b) Retail Banking: 1672324.39 1618976.54 1528244.81 1672324.39 1528244.81 1580887.11
+N Digital Banking' 164.11 146.45 108,45 164.11 108.45 138.04
+(ii) Non Digital Banking 1672160.28 1618830.09 1528136.36 1672160.28 1526136,36 1580749.07
+c) Wholesale Banking 1660468.54 1559292.84 1421440.84 1660468.54 1421440.84 1499816.13
+d) Other Banking Operations 118719.59 115884.08 111367.06 118719.59 111367.06 112867.13
+e) Unallocated 19641.19 17285.97 20689.94 19641.19 20689.94 21386.51
+Total 4677769.77 4397461.28 4003008.37 4577769.77 4003008.37 4364886.32
+4 Segment Llabllitiess ,
+a) Treasury 117378.35 78998.60 87053.07 117378.35 87053.07 98273.66
+b) Retail Banking: 2677618.76 2532744.34 2353971.83 2677618,76 2353971,83 2528789.64
+(0 Digital Banking' 176.23 156.63 114.76 176.23 114.76 147,09
+(ii) Non Digital Banking 2677442.53 2532587.51 2353657.07 2677442.53 2353857.07 2528642.55
+c) Wholesale Banking 1164664.22 1159025.98 996474.90 1164664,22 996474.90 1130276.17
+d) Other Banking Operations 4192.47 4100.45 4046.54 4192.47 4046.54 3997.87
+e) Unallocated 29651.70 39498.81 39053.44 29651.70 39053.44 40648.08
+Total 3993606.60 3814368.18 3480699.78 3993606.60 3480699.78 3801986.42
+6 Capital, Employees stock options outstanding and Reserves 584254.27 583093.10 522408.59 584254.27 522408.59 562900.90
+6 Total (4)+(6) 4577759.77 4397461.28 403008.37 4677769.77 4003008.37 4364886.32
+'information about Digital Banking Segment reported as a sub-segment of Retail Banking Segment is rotated to Digital Banking Units of Ito Bank.
+'Segment Results and Liabilities for the half year ended September 30, 2025 and year ended March 31, 2026 are after considering the impact of floating provisions in the respective segments.
+Business Segments have been Identified and reported taking into account the target customer profile, the nature of products and services, the differing risks and returns, the organisation
+structure, the internal business reporting system and the guidelines prescribed by the RBI. The Segment Assets and Segment Liabilities exclude transfers between segments and are
+transfer priced on a gross basis.
+Gr MUMBAI
+Cent, BW
+No C Yang
+"13.51G
+elle'
+oN
+Center
+rcpao ,
+Muntai • 400 063 c-O
+55 firghway.
+P°dAcco
+G")
+Pogo
+&
+IPIeREn.
+
+[page 4]
+HDFC BANK
+We understand your world
+Notes:
+1 Standalone statement of Assets and Liabilities is given below: In crore)
+Particulars
+As at
+30.09.2026
+As at
+30.09.2026
+As at
+31.03.2026
+Unaudited Unaudited Audited
+CAPITAL AND LIABILITIES
+Capital 1541.86 1536,37 1539.34
+Employees stock options / units outstanding 5107.81 4183.53 4545.11
+Reserves and surplus 577604.60 516688.69 556816.45
+Deposits 3327448.93 2801788,77 3105250.48
+Borrowings 489017.54 509597.05 489394.63
+Other liabilities and provisions 177039.03 169213.96 207340.31
+Total 4577769.77 4003008.37 4364886.32
+ASSETS
+Cash and balances with Reserve Bank of India 175139.57 133187.66 200679.37
+Balances with banks and money at call and short notice 75234.53 31954.62 97786.99
+Investments 923997.08 874321.25 884201.47
+Advances 3195566.06 2746359.78 2937166.26
+Fixed assets 14645.26 13854.09 14724.64
+Other assets 193177.27 203330.97 230327.59
+Total 4677759.77 4003008.37 4364886.32
+2 Standalone statement of Cashflows Is given below:
+In crore
+Particulars
+Half year ended Year ended
+31.03.202630.09.2026 30.09.2025
+Unaudited Unaudited Audited
+Cash flows from operating activities:
+Profit after tax 38569.68 36796.49 74671.29
+Add: Provision for income tax 12448.42 8918.91 20497.40
+Profit before income tax 61018.10 45715.40 96168.69
+Adjustments for:
+Depreciation on fixed assets 1929.30 1812.01 3657.58
+Profit on revaluation of investments (1008.75) (2087.57) (1075.82)
+Amortisation of premium / (discount) on investments 471.36 323.82 917.73
+Profit on sale of fixed assets (88.95) (59.18) (186.57)
+Profit on sale of investment in subsidiary - (9128.40) (9179.40)
+Provision / charge for non performing assets 5768.39 5280.22 11416.80
+Floating provisions - 9000.00 9.000.00
+Provision for standard assets and contingencies 864.99 3661.93 2972.78
+Dividend from subsidiaries (1951.66) (1631,44) (2242.21)
+Employee stock options / units expense 982.07 1001.76 1971.07
+67984.85 53888.56 112420.66
+Adjustments for:
+Increase in investments (38686.41) (36613.85) (49116.60)
+Increase in advances (264168.17) (132032.33) (328962.40)
+Increase In deposits 222198.46 67073.88 390535.58
+Decrease / (Increase) in other assets 33987.57 (4455.11) (30222.30)
+(Decrease) / Increase in other liabilities and provisions (31167,76) 10062.76 49002.92
+(19861.46) (22076.10) 143657.86
+Direct taxes paid (net of refunds) (9115.91) . (7565.91) (20040.85)
+Not cash flow from/ (used In) operating activities (28967.37) (29642.01) 123617.00
+Cash flows from investing activities:
+Purchase of fixed assets (1210.30) (943.84) (3143.53)
+Proceeds from sale of fixed assets 124.31 257.39 429.76
+Investment in subsidiaries (1000.00) (80.87) (80.87)
+Proceeds from sale of investment in subsidiary (net of expenses) - 9755.00 9806.00
+Dividend from subsidiaries 1951.66 1631.44 2242.21
+Net cash flow from / (used In) investing activities (134.33) 10619.12 9263.67
+Cash flows from financing activities: I
+Proceeds from issue of share capital 1341.10 3589.34 5108.50
+Repayments of Tier 1 and Tier 2 capital instruments (10280.39) - -
+Proceeds 1(Repayments) of other borrowings (net) 9845.40 (38665.60) (59472.25)
+Dividend paid (20021.05) (20705.98) (20705.98)
+Net cash flow used In financing activities (19114.94) (66782.24) (75069.73)
+Effect of fluctuation in foreign currency translation reserve 124,38 376.73 1094.84
+Net Increase! (decrease) In cash and cash equivalents (48092.26) (74428.40) 58895.68
+Cash and cash equivalents at tho beginning of the year 298466.36 239670.68 239570.68
+Cash and cash equivalents at tho and of the period 260374.10 165i42.28 298466.36
+Cash and cash equivalents includes Cash and balances with Reserve Bank of India
+A N
+MUMBAI
+banks and money at call and short notice.
+O.
+1
+Floor,
+c."
+Cent
+4
+I 6 Jig and
+fIo h Woo
+T Paik4,
+N2. Center.
+1Nostern ap ssttghaay
+Goregaon (fast).
+**5 Murnbai • •100 063
+01 p
+ed Acco
+
+[page 5]
+We understand your world
+3 The above standalone financial results have been approved by the Board of Directors at its meeting held on October 17, 2026. The financial results for the quarter and half year
+ended September 30, 2026 have been subjected to a "Limited Review" by the joint statutory auditors of the Bank viz. Balliboi & Purohit, Chartered Accountants and B S R & Co.
+LLP, Chartered Accountants.
+4 These financial results have been prepared In accordance with the recognition and measurement principles laid down in Accounting Standards specified under Section 133 of the
+Companies Act, 2013, the relevant provisions of the Banking Regulation Act, 1949, the circulars, guidelines and directions issued by the Reserve Bank of India ("the RBI") from
+time to time and other accounting principles generally accepted in India, and are in compliance with the presentation and disclosure requirements of Regulation 33 and Regulation
+52 read with Regulation 63 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 ("SEBI Regulations") as amended
+including relevant circulars issued by the SEBI from time to time, to the extent applicable. Basis the nature of the Bank's business, applicable ratios under the said regulations are
+disclosed.
+5 The Bank has applied its significant accounting policies in the preparation of these financial results consistent with those followed in the annual financial statements for the year
+ended March 31, 2026. Any circulars / directions issued by RBI are implemented prospectively when it becomes applicable, unless specifically required under those circulars /
+directions.
+6 During the quarter and half year ended September 30, 2026, the Bank has allotted 1,72,69,856 and 2,52,29,020 equity shares respectively, pursuant to the exercise of options /
+units under the approved employee stock option schemes / employee stock incentive master scheme.
+7 During the half year ended September 30, 2025 and year ended March 31, 2026, the Bank made a floating provision of 2' 9,000.00 crore in line with the Board approved policy.
+8 Disclosure under resolution framework for COVID-19-related stress as at September 30, 2026, as per the Reserve Bank of India (Commercial Banks - Financial Statements:
+Presentation and Disclosures) Directions, 2025 dated November 28, 2025, are given below:
+(tin crore
+Type of Borrower
+Exposure to
+accounts classified
+as Standard
+consequent to
+implementation of
+resolution plan -
+Position as at the
+end of the previous
+half-year I.e. March
+31, 2026 (A)6
+Of (A), aggregate
+debt that slipped
+into NPA during
+the half-year
+ended
+September 30,
+2026
+Of (A) amount
+written off during
+the half-year°
+Of (A) amount
+paid by the
+borrowers during
+the half-year
+Exposure to
+accounts
+classified as
+Standard
+consequent to
+implementation
+of resolution plan
+- Position as at
+the end of this
+half-year I.e.
+September 30,
+20266
+Personal Loans 1,967.45 18.93 4.78 257.97 1,690.55
+Corporate persons* 173.47 0.23 0.01 13.71 159.53
+Of which, MSM.Es 15.29 0.18 2.50 12.61
+Others 131.29 1.51 0.41, 27.41 102.37
+Total 2,272.21 20.67 5.20 299.09 1,952.46
+As defined in Section 3(7) of the Insolvency and Bankruptcy Code, 2016.
+Represents debt that slipped into NPA and was subsequently written off during the half- year ended September 30, 2026.
+^ Excludes other facilities to the borrowers aggregating to r 182.49 crow as of September 30, 2026 and r 193.59 crore as of March 31, 2026 which have not been restructured.
+9 Disclosures on the details of loans transferred / acquired and co-lending arrangements during the quarter ended September 30, 2026, as per the Reserve Bank of India
+(Commercial Banks - Financial Statements: Presentation and Disclosures) Directions, 2025 dated November 28, 2025, are given below:
+(i) Details of non-performing assets (NPAs) transferred: (z in crore except number of accounts)
+Particulars
+To Asset
+Reconstruction
+Companies
+(ARCS)
+To permitted
+transferees
+To other
+transferees
+Number of accounts -
+Aggregate principal outstanding of loans transferred - -
+Weighted average residual tenor of the loans transferred (in years)
+Net book value of loans transferred (at the time of transfer) - - -
+Aggregate consideration - -
+Additional consideration realised in respect of accounts transferred in earlier years 2.80 - -
+(ii) Details of loans not in default transferred through assignment a e given below:
+Particulars Value
+Aggregate amount of loans transferred (7' In crore) 4,960.74
+Weighted average residual maturity (in years) 8.59
+Weighted average holding period (in years) 2.41
+Retention of beneficial economic interest 10%
+Tangible security coverage 100%
+The loans transferred am not rated as those am to non-corporate borrowers.
+(iii) The Bank has not acquired any loans not in default.
+(iv) The Bank has not acquired any stressed loans (Non-performing assets and Special Mention Accounts).
+(v) The Bank has not transferred any Special Mention Accounts. a
+e, A
+MUMBAI
+0
+--t
+Co.
+Rh Poor,
+Centr 81' ng ona
+tilt.140; r Pahl.
+Oman :40'0.'1'0136
+vvzsrukt Centel.
+Hiotriuy
+Go ga 111a10. 0 3,,..
+e• c.;
+ed Acco 4 PIED ig,
+N ai
+
+[page 6]
+HDFC BANK
+We understand your world
+(vi) Details of rating-wise distribution of Security Receipts (SRs) held by the Bank at September 30, 2026 are given below:
+(Z in crore)
+Rating Rating Agency Recovery rating
+Gross Value of
+Outstanding
+SRs
+RR1 ICRA 100%- 150% 111.15
+RR2 India Ratings 75% - 100% 27,26
+RR4 India Ratings 25% - 50% 34.78
+RR5 India Ratings Upto 25% 125.47
+RR5 CRISIL Upto 25% 27.34
+Unrated 720.00
+Total 1,046.00
+OM The Bank has not entered into any co-lending transactions during the quarter.
+10 Disclosure related to Project Finance for the quarter ended September 30, 2026, as per the Reserve Bank of India (Commercial Banks - Financial Statements: Presentation and
+Disclosures) Directions, 2025 dated November 28. 2025 Is given below:
+Item Description Number of
+accounts
+Total
+outstanding
+(Z In crore)
+1. Projects under implementation accounts at the beginning of the quarter 440 21,509.49
+2. Projects under implementation accounts sanctioned during the quarter 139 2,124.48
+3. Projects under Implementation accounts where DCCO has been achieved during
+the quarter 103 4,547.82
+4. Projects under implementation accounts at the end of the quarter' 469 21,246.56
+5. Out of '4' — accounts in respect of which resolution process involving extension in
+original / extended DCCO, as the case may be has been invoked 61 3,506.97
+5.1. Out of '5' — accounts in respect of which Resolution plan has been
+implemented 52 1,885.50
+5.2. Out of '5' — accounts in respect of which Resolution plan is under
+implementation 9 1621 47
+5.3. Out of '5' — accounts in respect of which Resolution plan has failed - -
+6. Out of '5', accounts in respect of which resolution process involving extension in
+original / extended DCCO, as the case may be has been invoked due to change
+in scope and size of the project
+2 85.26
+7. Out of '5', account in respect of which cost overrun associated with extension in
+original / extended DCCO, as the case may be, was funded _ .
+7.1, Out of '7', accounts where SBCF was sanctioned during financial closure and
+renewed continuously
+7.2. Out of '7', accounts where SBCF was not pre-sanctioned or renewed
+continuously .
+8. Out of '4' — accounts in respect of which resolution process not involving
+extension in original / extended DCCO, as the case may be has been Invoked . _
+8.1. Out of '8' — accounts in respect of which Resolution plan has been
+implemented . _
+8.2. Out of '8' — accounts in respect of which Resolution plan is under
+implementation _ .,
+8.3. Out of '8' — accounts in respect of which Resolution plan has failed - -
+'Excludes 7 accounts whom repayment was completed prior to the achievement of DCCO, and therefore no longer form part of the projects under implementation accounts at the end cf the
+quarter.
+11 Other income includes commission Income from non-fund based banking activities, fees, earnings from foreign exchange and derivative transactions, profit and loss (including
+revaluation) from investments, dividends from subsidiaries and recoveries from accounts previously written off.
+12 On June 25, 2025, the Bank's subsidiary company, HDB Financial Services Limited ("HDBFS") launched its initial public offering ("IPO"), comprised of a fresh issuance of equity
+shares aggregating to Z 2,500.00 crore and an offer for sale ("OFS") of equity shares by the Bank, aggregating to Z 10,000.00 crore, Under the OFS, the Bank divested
+13,51,35,135 equity shares of Z 10/- each of HDBFS at Z 740/- per share, for a consideration aggregating to ? 10,000.00 crore. Consequently, during the half year ended
+September 30, 2025, the net gain recognised by the Bank on sale of shares under the OFS was Z 9,128,40 crore (before tax and net of estimated IPO related expenses). For the
+year ended March 31, 2026, the net gain recognised by the Bank on sate of shares under the OFS was ? 9,179.40 crore (before tax and net of IPO related expenses).
+13 Provision for tax for the half year ended September 30, 2025 and year ended March 31, 2026 is net of write back of provision no longer required of ? 1,144.46 crore, pursuant to
+favourable orders received.
+14 As intimated to the Stock Exchanges on September 26, 2025, the Bank's branch at the Dubai International Financial Centre ("DIFC Branch') received a decision notice dated
+September 25, 2025 from the Dubai Financial Services Authority ('DFSA"), prohibiting

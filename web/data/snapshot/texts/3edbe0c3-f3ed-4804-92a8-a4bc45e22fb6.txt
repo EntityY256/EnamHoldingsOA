@@ -1,0 +1,219 @@
+[page 1]
+Registered Office: 4th Floor, Bajaj Finserv House, Off Pune-Ahmednagar Road, Viman Nagar, Pune – 411014
+Corporate Office Extn.: 3rd Floor, Panchshil Tech Park, Viman Nagar, Pune - 411 014
+Tel: +91 20 7157 6403 | Fax: +91 20 7157 6364
+Corporate ID No.: L65910MH1987PLC042961 | Email ID: investor.service@bajajfinserv.in
+https://www.aboutbajajfinserv.com/finance-about-us
+23 October 2026
+To
+The Manager
+Listing Department
+BSE Limited
+Phiroze Jeejeebhoy Towers,
+Dalal Street,
+Mumbai - 400 001
+To
+The Manager
+Listing Department
+National Stock Exchange of India Limited
+Exchange Plaza, C-1. Block G,
+Bandra - Kurla Complex, Bandra (East)
+Mumbai - 400 051
+SCRIP CODE: 500034 SCRIP CODE: BAJFINANCE – EQ
+Dear Sir/Madam,
+Sub: Transcript of Conference Call held in respect of the Financial Results for the
+quarter ended 30 September 2026
+Ref: Regulation 30 of Securities and Exchange Board of India (Listing Obligations and
+Disclosure Requirements) Regulations, 2015 (the ‘SEBI Listing Regulations’) r/w
+Clause 15 of Part A of Schedule III to the SEBI Listing Regulations
+In furtherance of our letter dated 13 October 2026, the transcript of Q2 FY2027 investors
+conference call held on 19 October 2026 at 6:00 p.m. IST has been uploaded on the website
+of the Company at https://www.aboutbajajfinserv.com/finance-investor-relations-
+quarterly-earnings-call
+Also, enclosed is the transcript (pdf) as attachment for ease of reference.
+Kindly take the above on record.
+Thanking you,
+For Bajaj Finance Limited
+R. Vijay
+Company Secretary
+Email ID: investor.service@bajajfinserv.in
+Encl.: As above
+
+[page 2]
+Page 1 of 19
+“Bajaj Finance Limited
+Q2 FY27 Earnings Conference Call”
+October 19, 2026
+MANAGEMENT: MR. RAJEEV JAIN – VICE CHAIRMAN AND MANAGING
+DIRECTOR – BAJAJ FINANCE LIMITED
+MR. SANDEEP JAIN – CHIEF OPERATING OFFICER AND
+CHIEF FINANCIAL OFFICER – BAJAJ FINANCE LIMITED
+
+[page 3]
+Bajaj Finance Limited
+October 19, 2026
+Page 2 of 19
+Moderator: Ladies and gentlemen, good day, and welcome to Bajaj Finance Q2 FY27 Earnings
+Conference Call. As a reminder, all participant lines will be in the listen-only mode,
+and there will be an opportunity for you to ask questions after the presentation
+concludes. Should you need assistance during this conference call, please signal
+an operator by pressing star then zero on your touchtone phone.
+I'm pleased to welcome Mr. Rajeev Jain, Vice Chairman and Managing Director; and
+Mr. Sandeep Jain, COO and CFO; and other senior members of the management
+team. I now invite Mr. Rajeev Jain for his opening remarks, post which we will open
+the floor for the Q&A session. Thank you, and over to you, Mr. Jain.
+Rajeev Jain: Thank you for hosting us. Very good evening to all of you, or good morning,
+depending on the geography you're in. Welcome to the BFL Q2 earnings call. The
+investor deck for Q2 has been uploaded on our website. I hope you had a chance to
+go through the same. I'll quickly focus on key updates for the quarter and our
+management assessment before Q&A. I expect to between 15 to 20 odd minutes.
+Let's quickly jump to Panel 4 in terms of the quarter went by. Overall, I would say it
+is an excellent quarter with strong performance across all key metrics, of AUM, new
+customer addition, credit cost, profit growth, ROA and ROE. AUM, as you can see,
+grew by 26.5% to INR 5,84,624 crores, delivering net AUM addition of close to INR
+38,000 crores in the quarter. PBT grew by 29% to INR 8,537 crores in Q2. This is
+before the macroeconomic provision that we've created of another INR 337 crores
+to grew by 34% to INR 8,874 crores.
+PAT grew by 29% to INR6,367 crores. Before macro overlay provision, it grew by
+34% to INR6,619 crores. In Q2, company booked just a tad below INR13.5 million
+new loans and added 4.5 million new customers. Overall customer franchise stood
+at just a tad below 129 million customers.
+ROA for the quarter came in at 4.6% and ROE came in at 20.6%. Opex to total income
+was 33% and net NPA came in at 42 basis points. Overall, I would say, a pretty good
+quarter for the firm and first half for the firm.
+In general, AUM growth was pretty secular. I'll quickly go through -- I've jumped
+actually to Panel 52. If you see, the growth is pretty secular, urban consumer
+finance grew by 43%, rural consumer finance by 63%. MFI grew on a low base, grew
+54%, CV and Tractor on low base grew 89%, LAS grew 42%, captive book, as you're
+aware, as I've been talking for the last 2 quarters, continues to wind down and
+would create significant tailwinds for us in terms of credit costs as you move
+forward is now down to just INR2,400-odd crores.
+
+[page 4]
+Bajaj Finance Limited
+October 19, 2026
+Page 3 of 19
+MSME grew by 3%. It should now start to grow actually. So, we should start to see
+as we get in the second half, a double-digit kind of growth momentum in the
+business. Gold loan book portfolio continued to grow, it's now 4.1% of balance
+sheet. It was just a tad above INR24,000 crores as of Q2.
+We added 320 odd gold loan branches during the quarter. Total network is now
+across 2,000 branches. It's at 2,022 branches, and we remain quite clear about
+ending the year with close to 2,800 on stand-alone gold branches.
+The rest of the business, as you can see, grew in the corridor of 20% to 30%. So,
+overall pretty secular growth across all lines of business, in a way, if I look at the
+gross loan growth because capital book is dialing down, you should add another
+INR1,000-odd crores that's virtually INR39,000 crores of book growth that we are
+principally talking about. These are fascinating numbers even for me, I would say.
+I didn't imagine we'll be growing quarterly between INR38,000 crores and
+INR39,000 crores on a run rate basis because that's been the case for the last two
+quarters now.
+I'll go back to panel 5, 6 and 7 to quickly give you highlights of the quarter. New
+loans grew 11% to 13.5 million. There is some level of noise in year-on-year number
+because last year's season was earlier this year’s season is later. We are well on
+track to deliver between 60 million to 62 million new loans in FY27. We added, as I
+said, 4.42 million new customers during the quarter. We are clear about adding
+between 18 MM to 20 MM customers to the franchise in FY27.
+Overall franchise I talked about, stood at 129 million and Cross-Sell franchise stood
+at 82 million. Liquidity buffer remained strong at just a tad below 20,000 crores.
+Cost of funds came down sequentially by 9 basis points and came in at 7.31%.
+Deposit book is 14%. We've increased rates in Q2. And hopefully, we will see some
+momentum here as we move forward. Opex to total income improved to 33%. And
+despite continued investments that we are making in gold loan branches, MFI
+branches and technology transformation.
+We remain pretty comfortable place to deliver a 25 to 40 basis point improvement
+in FY27 on opex-to-NTI. Now on credit quality, loan loss to average AUF improved
+to 1.56% from 1.88% last year. As a measure of prudence, we recognized, as I said,
+a macroeconomic overlay of 337 crores. Excluding this provision, the loan losses
+and provisions actually declined year-on-year by 12% and loan loss to average AUF
+in the process would look to be like 1.32%.
+You may see here that the Stage 2 and Stage 3 assets actually increased by 1,601
+crores. It actually includes a 1,047 crores increase in Stage 2 in the gold loan
+business, due to the short tenure schemes that we have actually launched when
+the new RBI guidelines came out and that has had an impact. We have since August
+stopped doing short-tenor schemes as a firm. We don't see any credit cost impact
+
+[page 5]
+Bajaj Finance Limited
+October 19, 2026
+Page 4 of 19
+as a result of it already out of the 1,099 crores, which is close to 1,100 crores came
+from gold loan in Stage 2, 550 crores has already been resolved and has flown back
+to Stage 1. So, it's a transient movement for the quarter is really what we see it to
+be and don't see any impact on credit costs or even otherwise or in terms of auction
+and so on and so forth.
+Vintage credit performance across our 3MOB, 6MOB, 9MOB continues to reflect
+significant and sustained improvement in the portfolio. And we are reasonably
+comfortable with the credit cost outlook for FY27. Of course, we remain in a VUCA
+world, so we'll take quarterly derived. GNPA and NNPA of course, if first quarter --
+first half is to go by, we remain pretty comfortably placed on credit quality at this
+point in time for FY27. PCR remained pretty strong at 60%. GNPA and NNPA came
+in at 1.06 and 42 basis points. ROE, ROA I talked about 4.6% and 20.6%.
+Let me just cover now on capital raised because that's something that we
+announced recently on October 1 as you're aware the Board approved subject to
+shareholder approval. 11,700 crores of QIP and preferential warrants by Bajaj
+Finserv to the tune of 5,800 crores in accordance of course, with subject to
+approvals by the shareholders.
+The Board's decision of raising additional capital is principally driven by mainly
+growth story of India and of the company and its subsidiaries. That's the principal
+reason why we're raising capital. And we are very also clear that without having to
+dilute in any given manner, the sustainability of the medium-term goals of ROA and
+ROE that we have actually outlined to shareholders.
+It's pretty much for growth that we are looking to raise capital as we move forward.
+Quickly, let me now cover panel 9 to 11. I won't cover too much, but we continue to
+double down on FINAI transformation. We now have scaled our AI unit to 328 odd
+people. Given the breadth and the depth of the work that we're doing, the facial
+recognition camera technology is now deployed in close to 534 stores and 1,163
+service branches. We're getting a lot of learnings from these deployments. AI bots
+are now handling 75% of our DIY customer service volumes, disbursements, you
+can see the numbers, year-on-year 111%.
+So, as we deepen our understanding of enterprise AI and deploy it, we get
+experience, we get learnings. We're becoming more and more effective, both in
+terms of cost and in terms of experience of the customer and of the employee.
+Overall company has no 130-odd agents and 65 agentic applications. We are well
+on track to deliver 180-odd agentic applications and 600-odd agents for the year.
+So, I won’t cover Panel 13 and 14, just the only point I'll cover on Panel 13 - 14 is that
+we’ve launched our first customer risk model from a risk management standpoint,
+we'll book 500,000 accounts in our B2B business, look at its 3MOB performance.
+
+[page 6]
+Bajaj Finance Limited
+October 19, 2026
+Page 5 of 19
+and based on that, start to evaluate that for other lines of businesses. So, it's in a
+testing phase.
+Overall, from a modelling standpoint, it does show a 15% - 20% improvement in
+terms of our risk outcomes. Let's see how the models perform in reality and based
+on that, then we'll start to take review. We are working on our B2C model as well at
+this point in time, subject to the 3MOB performance we would launch our B2C
+model as well if the performance by January for our B2B business holds based on
+our assessment at this point in time.
+Quickly, BHFL on subsidiaries, Panel 14, good quarter for them as well. Their
+disbursements in AUM grew 25%, Sambhav loans which are affordable loans
+crossed 500 crores in monthly disbursement. Opex-to-NTI continues to improve.
+We continue to make progress on a year-on-year basis, improved from 19.7% to
+19.1%, and the PAT grew 18% despite very, very intense competitive environment
+that they continue to face and ROE improved as a result of improving leverage to
+12.7% from 12.2% and their asset quality remains healthy. BFSL had a good quarter.
+PAT grew 36%. It added 121,000 customers.
+To summarize and then open it up for questions. Overall, I would just say that the
+first half principally demonstrates the strength and scalability of our business
+model at this scale to grow 26% is I would say, good growth to be in while
+maintaining credit costs that, as I've said, that probably it's likely that in the 4 years,
+this is likely to be one of the lowest years on credit costs. We are well on track for
+that.
+And FINAI is moving rapidly from individual deployments to enterprise-wide
+transformation, both for employees and for consumers as we move forward.
+That's really from me. Just last point on portfolio quality, which is Panel 59 to 62,
+we principally remain green on all business metrics. You may see a gold loan
+variation there, but I've already explained the point. And as I said, 55-odd percent
+has already got resolved. So, it's a transient point. With that, I'm happy to take
+questions.
+Moderator: Thank you very much. We will now begin the question-and-answer session. First
+question is from Piran Engineer from CITIC International. Please go ahead.
+Piran Engineer: Yes. Hi, team. Thanks for taking my question and congrats on the quarter. Just I
+may slip in two questions because they are short to answer. Firstly, on gold loans,
+why aren't you all offering short-term gold loans? Isn't that easier from an LTV
+perspective because you're discounting only, say, three months or six months of
+interest versus 12 months?
+Rajeev Jain: Go ahead with the second one, Piran?

@@ -1,0 +1,224 @@
+[page 1]
+Regd. Office: HDFC Bank Limited, HDFC Bank House, Senapati Bapat Marg, Lower Parel (West), Mumbai – 400 013
+Ref. No. SE/2026-27/137
+October 23, 2026
+BSE Limited National Stock Exchange of India Limited
+Dept of Corporate Services The Listing Department
+Phiroze Jeejeebhoy Towers, Exchange Plaza
+Dalal Street, Fort, Bandra Kurla Complex,
+Mumbai 400 001 Mumbai 400 051
+Scrip code: 500180 Scrip code: HDFCBANK
+Dear Sir/Madam,
+Sub: Transcript of Earnings Call in relation to the unaudited standalone and consolidated financial
+results of the HDFC Bank Limited (“the Bank”) for the quarter and half-year ended September
+30, 2026
+We wish to inform you that pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015, the transcript of the Earnings Call with analysts and investors held on
+Saturday, October 17, 2026 with respect to the unaudited standalone and consolidated financial results of
+the Bank for the quarter and half year ended September 30, 2026, has been made available on the website
+of the Bank at the below link:
+https://www.hdfc.bank.in/about-us/investor-relations
+A copy of the transcript is also annexed herewith.
+This is for your information and appropriate dissemination.
+Thank you.
+Yours faithfully,
+For HDFC Bank Limited
+Ajay Agarwal
+Company Secretary
+Group Head – Secretarial & Group Oversight
+Encl: a/a
+CIN: L65920MH1994PLC080618
+Email: shareholder.grievances@hdfc.bank.in
+Website: www.hdfc.bank.in
+HDFC Bank Limited,
+HDFC House,
+H T Parekh Marg,
+165-166 Backbay Reclamation,
+Churchgate, Mumbai- 400 020
+Tel. No.:022-66316000
+
+[page 2]
+“HDFC Bank Limited
+Q2 FY27 Earnings Conference Call”
+October 17, 2026
+MANAGEMENT: MR. SASHIDHAR JAGDISHAN – MANAGING DIRECTOR
+AND CHIEF EXECUTIVE OFFICER – HDFC BANK LIMITED
+MR. ANUP BAGCHI – ADDITIONAL DIRECTOR – HDFC
+BANK LIMITED
+MR. KAIZAD BHARUCHA – DEPUTY MANAGING
+DIRECTOR – HDFC BANK LIMITED
+MR. SRINIVASAN VAIDYANATHAN – CHIEF FINANCIAL
+OFFICER – HDFC BANK LIMITED
+
+[page 3]
+HDFC Bank Limited
+October 17, 2026
+Page 2 of 16
+Moderator: Ladies and gentlemen, good day, and welcome to HDFC Bank Limited Q2 FY27 Earnings
+Conference Call on the financial results presented by the management of HDFC Bank. As a
+reminder, all participant lines will be in the listen-only mode, and there will be an opportunity for
+you to ask questions after the presentation concludes. Should you need assistance during this
+conference call, please signal an operator by pressing star, then zero on your touch-tone phone.
+Please note that this conference is being recorded. I now hand the conference over to Mr.
+Srinivasan Vaidyanathan, Chief Financial Officer, HDFC Bank. Thank you, and over to you, Mr.
+Vaidyanathan.
+Srinivasan Vaidyanathan: Okay. Thank you, Neerav. Good evening, and a warm welcome to all the participants. Today, we
+have with us Sashi, Anup and Kaizad. Without much ado, we'll get the meeting started. With Sashi,
+for your opening remarks first, please.
+Sashidhar Jagdishan: Thank you, Srini, and thank you, everyone. Let me start with the economic environment. The GDP
+growth in Q2 FY27 has been better than anticipated and high performance indicators such as
+industrial production, strong e-way bill, cargo activity, credit growth reflects sustained momentum.
+Retail consumption growth has also been robust with passenger vehicles, 2-wheeler sales all
+growing upwards of 30-plus percentage. Even consumer durables grew at about 11% year-on-year.
+This augurs very well for the economy, especially with the festive season underway. The broader
+policy environment has been supportive of economic activity. Alongside this, measures in the form
+of credit guarantee support to MSMEs have also been effective. RBI's proactive response through
+measures like the special FCNR (B) swap window generated record inflows, about $133 billion
+and helped stabilize the currency.
+With that background, let's take a quick look at how the business has been shaping up. We continue
+to strengthen our liabilities franchise, and it has been delivering with great vigor. Deposits
+increased 18.8% year-on-year on a reported basis, including a 4 percentage point lift from special
+FCNR (B) window. As you will see in our published deck, CASA grew at about 10.8% on an
+overall basis. And within this, retail CASA growth was about 11.2% year-on-year compared to
+9% a year ago, reflecting improving momentum.
+We added about 1.7 million liability relationships in the second quarter, which is 25% higher than
+Q1 and 33% higher than the fourth quarter of last year. Building on these new acquired
+relationships and deepening our existing relationships will enable the liabilities engine to step up
+further in the coming days even as we keep adding newer relationships at a rapid pace.
+The asset side of the balance sheet also continued to get stronger. Total AUM grew 15.3% year-
+on-year, including a 1.9% impact of FCNR (B) leverage, with SME and retail assets leading the
+charge. The pace of retail disbursements is accelerating and has crossed Rs 90,000 crores during
+Q2 FY27 as against Rs 76,000 crores in Q1 of this year.
+Growth has been balanced across all lines, whether it's personal loans, the wheels business, gold
+and agri and other MSME business as well. This is also reflected in the rising growth trend in EOP
+
+[page 4]
+HDFC Bank Limited
+October 17, 2026
+Page 3 of 16
+loan book, especially for retail assets ex agri, September'26 annual growth is about 11.2%
+compared to 9.1% as of June'26 and 7.4% as of March'26.
+New credit card issuances at 1.4 million have grown by nearly 19% quarter-on-quarter, indicating
+the expansion of the growth runway. On the MSME and mid-market business, growth momentum
+is also improving rapidly. September'26 EOP loan growth has grown 23.5% year-on-year
+compared to 17% to 18% year-on-year growth levels seen in the last few quarters. Of course, this
+quarter, we have the ECLGS 5.0 scheme that also created significant opportunities we successfully
+leveraged. Our ECLGS disbursals of Rs 41,000 crores were highest across all banks as of August
+26, when the scheme achieved targeted levels.
+What's driving this momentum? Since May of 2026, the entire retail and MSME business and
+channel supervisory architecture across the country have been focusing on daily operating rigor
+across frontline, the credit and operations, and service verticals, all working from one view across
+products and across all channels to ensure a same-day, same-time resolution of delivery of
+products, services, queries, and complaints as well. The focus has been on digital adoption and
+straight-through processing, which is moving up significantly. The turnaround times on product
+deliveries have come down anyway between 10% and 15% in a short span of time, while service
+delivery TATs have come down by 30% during the quarter. Which means the frontline can touch
+more customers within the same work hours. This is reflected in the customer visits per resource
+per day going up significantly compared to the prior quarter, almost up by about 50%. This will
+have an impact on growth, and that's pretty much reflected in the early signs that we have seen on
+the momentum. For example, the savings accounts per branch per day have gone up by 19% in the
+last few months, between Q2 and Q1. Core incremental deposits per branch per day is up 2.3 times
+from Q1. Sometimes, of course, extraordinary one-off outflows may mask this underlying
+momentum. But at some point in time, this will start to reflect as we move forward.
+Daily disbursal run rate of key retail and MSME products are up by 10% to 20% versus the prior
+quarter. Our asset quality remains pristine, with GNPA at 1.11%, 13 basis points lower than year-
+on-year. Credit costs remain low at 44 basis points, the risk weights to total assets at 69%. Our
+industry-leading asset quality metrics reflect the top-quartile credit quality choices we have
+consistently made. The bank's well-balanced performance translated to ROA of 1.8%, which has
+been the range that we've been there for a very long time, and quarterly PAT of Rs 19.5 billion,
+which is a growth of 12.7% approximately if you exclude the trading gains.
+On technology, I would like to spend some time. HDFC Bank has always incorporated cutting-
+edge technologies into its operations, and we are now bringing AI into the heart of how the bank
+operates. In the quarter gone by, we introduced applications and apps and features in various areas
+that will help enhance customer experience and protection.
+In the area of digital safety for customers, we've introduced Edge Security. Very mindful of the
+fact that a lot of our citizens in the country are being subjected to digital frauds, I think this is going
+to be a game changer in terms of cutting-edge technology that we can offer to customers: a unified
+protection stack and tools like Kavach and Secure Lock. We launched several apps to increase
+customer convenience, including product journeys, AI conversational banking, and AI collections
+
+[page 5]
+HDFC Bank Limited
+October 17, 2026
+Page 4 of 16
+bot that helps customers stay repayment-ready. We also strengthened our real-time fraud
+prevention capabilities as well.
+As my long innings at HDFC Bank come to an end, I would like to say that it has been an absolute
+privilege to lead this organization that brings together some of the most brilliant minds and over
+200,000 extremely committed and focused professionals, a cutting-edge technology, a solid brand
+that binds the 100 million customers, and a collective zeal to consistently deliver top-class results
+for all our stakeholders.
+While leaving this organization is an emotional moment for me personally, I take comfort in the
+fact that I'm leaving behind a solid platform, which has demonstrated strength and resilience to
+navigate regulatory embargoes, an unprecedented COVID event, a large, complex merger when
+the economic outlook warranted monetary tightening, and other governance matters of the recent
+past having been settled completely. A platform where we invested over the past few years in
+rearchitecting and reinforcing our technology from the core to AI layer, ready to be harnessed in
+our product and service deliveries. A distribution strength which will deliver as the vintage of
+branches mature. and optimism stemming from the fact that the net interest margins, which in
+recent times has borne the brunt of faster repricing of assets and a lag in cost of funds, in a down
+rate cycle is also positioned for a reversal as we enter the upward rate cycle. This will get further
+enhanced as the proportion of retail and MSME assets outweigh the proportion of corporate and
+home loans over a period of time.
+I'm sure that the bank will keep scaling greater heights, which will be a matter of immense pride
+for all of us. I'll also leave behind in the hands of an able team spread across various levels in the
+organization throughout the country, led by a new and an able leader, and I welcome Anup at this
+juncture heartily to the institution as well.
+Thank you for all the support over all these years, and I wish you and families a very Happy
+Dussehra and festivities, and I'm sure you will continue to provide the same kind of support and
+affection that all of you have showered on us over these 30 years to the new leadership team and
+take it to its rightful glory over a period of time. Thank you so much.
+Srinivasan Vaidyanathan: Thank you. Thank you, Sashi, for that very passionate and a good recount of recent and the decades
+that you have served the bank. Thank you very much for all of that. Now we have with us today,
+Anup. We are delighted to have you, sir, here with us. Welcome, and over to you for a few
+sentences that you want to share.
+Anup Bagchi: Thank you. Thank you, Sashi. Thank you, Srini. Thank you, Kaizad. I'm really grateful to the
+Board for the trust placed in me as MD and CEO. I look forward to working with the Board,
+Chairman, leadership team and colleagues across the bank and the group to build on the group's
+very strong foundation. It is indeed a privilege and a responsibility I hold with deep respect. The
+group's rich legacy, market leadership and reputation within India's financial ecosystems are
+exceptional. I thank Sashi for his impactful 6-year leadership, successfully navigating the post-
+pandemic phase, completing the landmark HDFC Limited merger, scaling our branch network and
+strengthening the core technology capabilities. The clear long-term goal is to deliver sustainable
+long-term value for shareholders, employees and clients.
+
+[page 6]
+HDFC Bank Limited
+October 17, 2026
+Page 5 of 16
+In the near term, I will engage with regulators, customers, shareholders and other stakeholders to
+gather insights that will be a key input to our organizational priorities. As macroeconomic
+dynamics evolve and AI technology and digital infrastructures accelerate, we'll focus on capturing
+these opportunities with prudence and discipline.
+I will soon present a perspective on growth, margins, quality and productivity built on disciplined
+capital deployment and a strong execution culture grounded in governance, excellence and trust. I
+look forward to all your support. Over to you, Srini.
+Srinivasan Vaidyanathan: Thank you, Anup, for that, and welcome again, hearty welcome again. We look forward to, as an
+organization, partnering and delivering all that you drive to. Thank you.
+With that, Neerav, let's open it up for question-and-answers, please.
+Moderator: Thank you very much. We will now begin the question-and-answer session. First question is from
+the line of Mahrukh Adajania from Tara Capital Partners. Please go ahead.
+Mahrukh Adajania: Yes, hi. Good evening. Thank you, Sashi, for all the guidance and interactions. Thanks a lot and
+congratulations, Anup. I had a few questions on the results. Firstly, Sashi, you did outline the
+various efforts and progress you've made on retail deposits, savings, core deposits. So when do
+you see the proportion of retail deposits inching up now? Because it's come off a bit over the last
+few quarters. So when do you see that proportion inching up? That's my first question.
+And then my second question is that you do have a sizable agri book. There have been droughts.
+So any impact you see either on your small business loans or on your agri/agri-related loans from
+that? And my third question is for Anup. I know it's early days. But if at all, he sees any strategy
+changes in HDFC Life?
+Sashidhar Jagdishan: Okay. Let me answer the first part of it, Mahrukh. As I had mentioned, the kind of rigor that the
+institution is undertaking in terms of building better customer interactions and engagement and
+trying to step up new account acquisitions. The fact of the matter is a lot of our distribution, which
+has doubled over the last 5 years, will start to mature as we move to the next 5 years.
+The fact of the matter is that we are trying to enable a lot of product and service delivery journeys,
+which can help in having a one-click experience, including on bundling of products depending on
+the needs of the customer. All this from a foundation and structural perspective is going to have a
+massive impact as we move forward.
+As I mentioned as well, sometimes you do have some amount of extraordinary outflows that
+happen, because as you say, in retail, we mean at the branch banking level, there could be at the
+catchment some amount of small MSME customers or government deposits or some of the
+inherited deposits such as what we had in the past, some leverage FCNR (B), old FCNR (B)
+leverage deposits or some of the deposits that we inherited from the erstwhile HDFC Limited.
+This quarter, we did have kind of an outflow of some of these large deposits in multiple such
+segments, which I've just alluded to, which is actually masking it. So in reality, you will see at

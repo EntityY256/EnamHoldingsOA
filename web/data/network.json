@@ -1,0 +1,406 @@
+{
+  "synthetic": true,
+  "_note": "SYNTHETIC demo network. Every contact below is fictional. Careers are designed to overlap with real, publicly disclosed career histories of executives named in Oct-Nov 2026 exchange filings (e.g. HDFC Bank, Kotak, Tata Power, Equitas) so the matching engine has something real to find. No real person's private data is used.",
+  "investor": {
+    "name": "You",
+    "roles": [
+      { "org": "McKinsey & Company", "title": "Business Analyst", "from": 2010, "to": 2012 },
+      { "org": "Kotak Institutional Equities", "title": "Analyst, Financials", "from": 2014, "to": 2019 },
+      { "org": "The Fund", "title": "Portfolio Manager", "from": 2019, "to": null }
+    ],
+    "education": [
+      { "school": "IIT Kanpur", "degree": "B.Tech", "from": 2006, "to": 2010 },
+      { "school": "IIM Ahmedabad", "degree": "PGP", "from": 2012, "to": 2014 }
+    ]
+  },
+  "orgs": [
+    { "key": "hdfcbank", "name": "HDFC Bank", "symbol": "HDFCBANK", "tags": ["Private Sector Bank", "Banks", "banking"] },
+    { "key": "kotakbank", "name": "Kotak Mahindra Bank", "aliases": ["Kotak Bank", "Kotak"], "symbol": "KOTAKBANK", "tags": ["Private Sector Bank", "Banks", "banking"] },
+    { "key": "kie", "name": "Kotak Institutional Equities", "tags": ["Capital Markets", "equity research"] },
+    { "key": "equitas", "name": "Equitas Small Finance Bank", "aliases": ["Equitas"], "symbol": "EQUITASBNK", "tags": ["Other Bank", "Banks", "rural lending", "microfinance"] },
+    { "key": "bajfinance", "name": "Bajaj Finance", "symbol": "BAJFINANCE", "tags": ["Non Banking Financial Company (NBFC)", "Finance", "consumer credit"] },
+    { "key": "creditacc", "name": "CreditAccess Grameen", "symbol": "CREDITACC", "tags": ["Microfinance Institutions", "Finance", "rural lending", "microfinance"] },
+    { "key": "icicibank", "name": "ICICI Bank", "tags": ["Private Sector Bank", "Banks", "banking"] },
+    { "key": "isec", "name": "ICICI Securities", "aliases": ["I-Sec"], "tags": ["Capital Markets", "equity research"] },
+    { "key": "iprulife", "name": "ICICI Prudential Life Insurance", "aliases": ["ICICI Prudential Life"], "tags": ["Life Insurance", "insurance"] },
+    { "key": "citi", "name": "Citibank", "aliases": ["Citi", "Citigroup"], "tags": ["Foreign Bank", "Banks", "banking"] },
+    { "key": "gecapital", "name": "GE Capital", "aliases": ["GE Capital India", "GE Money"], "tags": ["Non Banking Financial Company (NBFC)", "Finance", "consumer credit"] },
+    { "key": "bhel", "name": "Bharat Heavy Electricals", "aliases": ["BHEL"], "tags": ["Heavy Electrical Equipment", "Electrical Equipment", "capital goods"] },
+    { "key": "lt", "name": "Larsen & Toubro", "aliases": ["L&T", "Larsen and Toubro"], "symbol": "LT", "tags": ["Civil Construction", "Construction", "infrastructure"] },
+    { "key": "tatasteel", "name": "Tata Steel", "symbol": "TATASTEEL", "tags": ["Iron & Steel", "Ferrous Metals", "steel"] },
+    { "key": "jswsteel", "name": "JSW Steel", "tags": ["Iron & Steel", "Ferrous Metals", "steel"] },
+    { "key": "adaniports", "name": "Adani Ports & SEZ", "aliases": ["Adani Ports", "Adani Ports and Special Economic Zone"], "symbol": "ADANIPORTS", "tags": ["Port & Port services", "Transport Infrastructure", "ports & logistics"] },
+    { "key": "kaynes", "name": "Kaynes Technology", "aliases": ["Kaynes Semicon", "Kaynes"], "symbol": "KAYNES", "tags": ["Industrial Products", "Industrial Manufacturing", "semiconductors", "electronics manufacturing"] },
+    { "key": "dixon", "name": "Dixon Technologies", "aliases": ["Dixon"], "symbol": "DIXON", "tags": ["Consumer Electronics", "Consumer Durables", "electronics manufacturing"] },
+    { "key": "hal", "name": "Hindustan Aeronautics", "aliases": ["HAL"], "symbol": "HAL", "tags": ["Aerospace & Defense", "defence"] },
+    { "key": "ntpc", "name": "NTPC", "aliases": ["National Thermal Power Corporation", "NTPC Limited"], "symbol": "NTPC", "tags": ["Power Generation", "Power", "power"] },
+    { "key": "tatapower", "name": "Tata Power", "aliases": ["Tata Power Company", "Tata Power Renewable Energy"], "symbol": "TATAPOWER", "tags": ["Integrated Power Utilities", "Power", "power", "renewables"] },
+    { "key": "tpddl", "name": "Tata Power Delhi Distribution", "aliases": ["TPDDL", "Tata Power-DDL"], "tags": ["Power Distribution", "Power", "power"] },
+    { "key": "bses", "name": "Reliance Energy (BSES)", "aliases": ["BSES", "Reliance Energy", "BSES Limited"], "tags": ["Integrated Power Utilities", "Power", "power"] },
+    { "key": "crisil", "name": "CRISIL", "aliases": ["CRISIL Ratings", "CRISIL Infrastructure Advisory"], "tags": ["Ratings", "credit ratings"] },
+    { "key": "tcs", "name": "Tata Consultancy Services", "aliases": ["TCS"], "symbol": "TCS", "tags": ["Computers - Software & Consulting", "IT - Software", "IT services"] },
+    { "key": "infosys", "name": "Infosys", "tags": ["Computers - Software & Consulting", "IT - Software", "IT services"] },
+    { "key": "laurus", "name": "Laurus Labs", "symbol": "LAURUSLABS", "tags": ["Pharmaceuticals", "Pharmaceuticals & Biotechnology", "pharma", "CDMO"] },
+    { "key": "sunpharma", "name": "Sun Pharmaceutical", "aliases": ["Sun Pharma"], "symbol": "SUNPHARMA", "tags": ["Pharmaceuticals", "Pharmaceuticals & Biotechnology", "pharma"] },
+    { "key": "trent", "name": "Trent", "aliases": ["Westside", "Trent (Westside)"], "symbol": "TRENT", "tags": ["Speciality Retail", "Retailing", "retail"] },
+    { "key": "asianpaint", "name": "Asian Paints", "symbol": "ASIANPAINT", "tags": ["Paints", "Consumer Durables", "paints"] },
+    { "key": "indigopaints", "name": "Indigo Paints", "tags": ["Paints", "Consumer Durables", "paints"] },
+    { "key": "nykaa", "name": "Nykaa", "aliases": ["FSN E-Commerce Ventures", "FSN E-Commerce"], "symbol": "NYKAA", "tags": ["E-Retail/ E-Commerce", "Retailing", "retail", "beauty & personal care"] },
+    { "key": "hul", "name": "Hindustan Unilever", "aliases": ["HUL"], "tags": ["Diversified FMCG", "FMCG", "consumer"] },
+    { "key": "navinfluor", "name": "Navin Fluorine", "aliases": ["Navin Fluorine International"], "symbol": "NAVINFLUOR", "tags": ["Specialty Chemicals", "Chemicals & Petrochemicals", "specialty chemicals"] },
+    { "key": "srf", "name": "SRF", "tags": ["Specialty Chemicals", "Chemicals & Petrochemicals", "specialty chemicals"] },
+    { "key": "deepakntr", "name": "Deepak Nitrite", "symbol": "DEEPAKNTR", "tags": ["Specialty Chemicals", "Chemicals & Petrochemicals", "specialty chemicals"] },
+    { "key": "tatamotors", "name": "Tata Motors", "tags": ["Passenger Cars & Utility Vehicles", "Automobiles", "autos"] },
+    { "key": "azb", "name": "AZB & Partners", "aliases": ["AZB"], "tags": ["Legal", "M&A", "litigation"] },
+    { "key": "avendus", "name": "Avendus Capital", "aliases": ["Avendus"], "tags": ["Investment Banking", "M&A"] },
+    { "key": "mckinsey", "name": "McKinsey & Company", "aliases": ["McKinsey"], "tags": ["Consulting"] },
+    { "key": "iitk", "name": "IIT Kanpur", "aliases": ["Indian Institute of Technology, Kanpur", "Indian Institute of Technology Kanpur"], "tags": ["school"] },
+    { "key": "iitkgp", "name": "IIT Kharagpur", "aliases": ["Indian Institute of Technology, Kharagpur", "Indian Institute of Technology Kharagpur"], "tags": ["school"] },
+    { "key": "iima", "name": "IIM Ahmedabad", "aliases": ["Indian Institute of Management, Ahmedabad", "Indian Institute of Management Ahmedabad", "IIM-A"], "tags": ["school"] },
+    { "key": "iimb", "name": "IIM Bangalore", "aliases": ["Indian Institute of Management, Bangalore", "Indian Institute of Management Bangalore", "IIM-B"], "tags": ["school"] },
+    { "key": "iiml", "name": "IIM Lucknow", "aliases": ["Indian Institute of Management, Lucknow", "Indian Institute of Management Lucknow"], "tags": ["school"] },
+    { "key": "fms", "name": "FMS Delhi", "aliases": ["Faculty of Management Studies, University of Delhi", "Faculty of Management Studies"], "tags": ["school"] },
+    { "key": "nitkkr", "name": "NIT Kurukshetra", "aliases": ["National Institute of Technology, Kurukshetra", "National Institute of Technology Kurukshetra"], "tags": ["school"] }
+  ],
+  "contacts": [
+    {
+      "id": "rohan-mehta", "name": "Rohan Mehta", "headline": "CIO, family office · ex-Head of Research, ICICI Securities", "city": "Mumbai",
+      "roles": [
+        { "org": "ICICI Securities", "title": "Head of Equity Research", "from": 2009, "to": 2016, "fn": "research" },
+        { "org": "Mehta Family Office", "title": "Chief Investment Officer", "from": 2016, "to": null }
+      ],
+      "education": [{ "school": "IIM Bangalore", "degree": "PGDM", "to": 2003 }],
+      "expertise": ["capital markets", "banking", "insurance"],
+      "tie": { "strength": 3, "how": "co-invested in two deals; monthly breakfast", "lastContact": "2026-10-28" },
+      "knows": [{ "name": "Anup Bagchi", "context": "reported to him for seven years while Bagchi ran ICICI Securities", "strength": 3 }],
+      "notes": "Blunt, numbers-first. Best person to ask how Bagchi runs a P&L."
+    },
+    {
+      "id": "priya-raman", "name": "Priya Raman", "headline": "Head of Retail Lending, Bajaj Finance · ex-ICICI Bank", "city": "Pune",
+      "roles": [
+        { "org": "ICICI Bank", "title": "Regional Head, Retail Assets", "from": 2012, "to": 2020, "fn": "retail lending" },
+        { "org": "Bajaj Finance", "title": "Head of Retail Lending", "from": 2020, "to": null, "fn": "retail lending" }
+      ],
+      "education": [{ "school": "IIM Lucknow", "degree": "PGP", "to": 2011 }],
+      "expertise": ["consumer credit", "banking", "retail lending"],
+      "tie": { "strength": 2, "how": "met at an IIM-L alumni dinner; covered Bajaj Finance together", "lastContact": "2026-04-02" },
+      "knows": [{ "name": "Anup Kumar Saha", "context": "worked under him in Bajaj Finance's consumer business for six years", "strength": 3 }]
+    },
+    {
+      "id": "karthik-iyer", "name": "Karthik Iyer", "headline": "Independent director, two NBFC boards · ex-Citi", "city": "Bengaluru",
+      "roles": [
+        { "org": "Citibank", "title": "Managing Director, Corporate Bank", "from": 1993, "to": 2015 },
+        { "org": "Independent", "title": "Independent Director", "from": 2015, "to": null }
+      ],
+      "education": [{ "school": "IIM Bangalore", "degree": "PGDM", "to": 1992 }, { "school": "IIT Kanpur", "degree": "B.Tech", "to": 1990 }],
+      "expertise": ["banking", "governance"],
+      "tie": { "strength": 1, "how": "met twice at board-evaluation workshops", "lastContact": "2025-09-15" },
+      "knows": [{ "name": "Anup Bagchi", "context": "IIM Bangalore batchmates ('92), still in the same alumni group", "strength": 2 }]
+    },
+    {
+      "id": "vikram-sethi", "name": "Vikram Sethi", "headline": "Payments advisor · ex-GE Capital, ex-HDFC Bank cards", "city": "Gurugram",
+      "roles": [
+        { "org": "GE Capital", "title": "Head, Cards Analytics", "from": 1998, "to": 2005, "fn": "analytics" },
+        { "org": "HDFC Bank", "title": "Business Head, Credit Cards", "from": 2005, "to": 2015 },
+        { "org": "Independent", "title": "Payments advisor", "from": 2015, "to": null }
+      ],
+      "education": [{ "school": "IIT Kharagpur", "degree": "B.Tech", "to": 1994 }],
+      "expertise": ["consumer credit", "payments", "banking"],
+      "tie": { "strength": 2, "how": "ex-HDFC Bank, knew you from your sell-side days", "lastContact": "2026-02-10" }
+    },
+    {
+      "id": "neha-kapoor", "name": "Neha Kapoor", "headline": "Head of Investor Relations, Kotak Mahindra Bank", "city": "Mumbai",
+      "roles": [
+        { "org": "Kotak Institutional Equities", "title": "Associate, Financials", "from": 2014, "to": 2018 },
+        { "org": "Kotak Mahindra Bank", "title": "Head of Investor Relations", "from": 2018, "to": null }
+      ],
+      "education": [{ "school": "IIM Ahmedabad", "degree": "PGP", "to": 2014 }],
+      "expertise": ["banking", "investor relations"],
+      "tie": { "strength": 3, "how": "your IIM-A batchmate and first colleague at KIE", "lastContact": "2026-11-01" },
+      "notes": "Insider at Kotak: great for context, careful with anything price-sensitive."
+    },
+    {
+      "id": "arvind-kulkarni", "name": "Arvind Kulkarni", "headline": "Power-sector advisor, CRISIL Infrastructure Advisory · ex-NTPC", "city": "New Delhi",
+      "roles": [
+        { "org": "NTPC", "title": "Senior Engineer, Plant Commissioning", "from": 1988, "to": 2001 },
+        { "org": "CRISIL", "title": "Director, Power & Utilities Advisory", "from": 2001, "to": null }
+      ],
+      "education": [{ "school": "NIT Kurukshetra", "degree": "B.Tech", "to": 1988 }],
+      "expertise": ["power", "renewables", "regulation"],
+      "tie": { "strength": 2, "how": "expert-network calls on power utilities", "lastContact": "2026-01-20" },
+      "knows": [{ "name": "Sanjay Banga", "context": "trainee batch-mates commissioning super thermal units at NTPC in the early '90s", "strength": 2 }]
+    },
+    {
+      "id": "meera-chopra", "name": "Meera Chopra", "headline": "CFO, renewable IPP · ex-Tata Power-DDL", "city": "New Delhi",
+      "roles": [
+        { "org": "Tata Power Delhi Distribution", "title": "Head, Regulatory Finance", "from": 2008, "to": 2016 },
+        { "org": "Suryoday Renewables", "title": "Chief Financial Officer", "from": 2016, "to": null }
+      ],
+      "education": [{ "school": "FMS Delhi", "degree": "MBA", "to": 2007 }],
+      "expertise": ["power", "renewables", "project finance"],
+      "tie": { "strength": 2, "how": "met at a renewables conference; helped on a model review", "lastContact": "2025-12-05" }
+    },
+    {
+      "id": "sneha-iyer", "name": "Sneha Iyer", "headline": "GM, Regulatory Affairs, Tata Power", "city": "Mumbai",
+      "roles": [
+        { "org": "Tata Power Delhi Distribution", "title": "Manager, Regulatory", "from": 2012, "to": 2019 },
+        { "org": "Tata Power", "title": "GM, Regulatory Affairs", "from": 2019, "to": null }
+      ],
+      "education": [{ "school": "IIT Kanpur", "degree": "B.Tech", "to": 2010 }],
+      "expertise": ["power", "regulation"],
+      "tie": { "strength": 2, "how": "IIT Kanpur batchmate (same hostel)", "lastContact": "2026-03-14" },
+      "knows": [{ "name": "Sanjay Banga", "context": "reported to him at Tata Power-DDL for five years", "strength": 3 }],
+      "notes": "Insider at Tata Power."
+    },
+    {
+      "id": "sameer-khanna", "name": "Sameer Khanna", "headline": "Managing Director, mid-market PE fund", "city": "Mumbai",
+      "roles": [
+        { "org": "Citibank", "title": "Vice President, Corporate Banking", "from": 1996, "to": 2006 },
+        { "org": "Kedara Partners", "title": "Managing Director", "from": 2006, "to": null }
+      ],
+      "education": [{ "school": "IIM Ahmedabad", "degree": "PGP", "to": 1996 }],
+      "expertise": ["private equity", "banking", "M&A"],
+      "tie": { "strength": 2, "how": "LP meeting regular; co-invested once", "lastContact": "2026-07-22" }
+    },
+    {
+      "id": "anjali-desai", "name": "Anjali Desai", "headline": "COO, payments fintech · ex-Citi operations", "city": "Chennai",
+      "roles": [
+        { "org": "Citibank", "title": "Director, Operations & Technology", "from": 2001, "to": 2014 },
+        { "org": "PaySetu", "title": "Chief Operating Officer", "from": 2014, "to": null }
+      ],
+      "education": [{ "school": "IIT Kanpur", "degree": "B.Tech", "to": 2000 }],
+      "expertise": ["fintech", "operations", "banking"],
+      "tie": { "strength": 1, "how": "IIT Kanpur alumni mentoring circle", "lastContact": "2025-06-30" }
+    },
+    {
+      "id": "lakshmi-narayanan", "name": "Lakshmi Narayanan", "headline": "Chief Risk Officer, CreditAccess Grameen · ex-Equitas", "city": "Bengaluru",
+      "roles": [
+        { "org": "Equitas Small Finance Bank", "title": "Head of Credit, Microfinance", "from": 2011, "to": 2019, "fn": "credit" },
+        { "org": "CreditAccess Grameen", "title": "Chief Risk Officer", "from": 2019, "to": null, "fn": "risk" }
+      ],
+      "education": [{ "school": "IIM Bangalore", "degree": "PGDM", "to": 2006 }],
+      "expertise": ["rural lending", "microfinance", "credit risk"],
+      "tie": { "strength": 3, "how": "your go-to on rural credit; field trips together in 2024", "lastContact": "2026-08-18" },
+      "knows": [
+        { "name": "P. N. Vasudevan", "context": "worked directly under him at Equitas for eight years", "strength": 3 },
+        { "name": "Balaji Nuthalapadi", "context": "met during Equitas's 2025 operations review", "strength": 1 }
+      ]
+    },
+    {
+      "id": "farhan-ali", "name": "Farhan Ali", "headline": "Founder-CEO, D2C fashion brand · ex-Westside (Trent)", "city": "Mumbai",
+      "roles": [
+        { "org": "Trent", "title": "Category Head, Menswear", "from": 2010, "to": 2018 },
+        { "org": "Kurtawala", "title": "Founder & CEO", "from": 2018, "to": null }
+      ],
+      "education": [{ "school": "NIFT Delhi", "degree": "M.Des", "to": 2009 }],
+      "expertise": ["retail", "apparel", "consumer"],
+      "tie": { "strength": 2, "how": "pitched you in 2022; stayed in touch", "lastContact": "2025-11-02" }
+    },
+    {
+      "id": "kavya-rao", "name": "Kavya Rao", "headline": "General Counsel, listed infra company · ex-AZB & Partners", "city": "Mumbai",
+      "roles": [
+        { "org": "AZB & Partners", "title": "Senior Associate, M&A", "from": 2011, "to": 2017 },
+        { "org": "Larsen & Toubro", "title": "Deputy General Counsel", "from": 2017, "to": 2023 },
+        { "org": "Infra InvIT", "title": "General Counsel", "from": 2023, "to": null }
+      ],
+      "education": [{ "school": "NLSIU Bengaluru", "degree": "BA LLB", "to": 2011 }],
+      "expertise": ["M&A", "litigation", "governance"],
+      "tie": { "strength": 2, "how": "helped you read a scheme of arrangement in 2024", "lastContact": "2026-05-09" },
+      "knows": [{ "name": "Bahram Vakil", "context": "worked in his M&A practice at AZB & Partners for six years", "strength": 2 }]
+    },
+    {
+      "id": "sunil-varma", "name": "Sunil Varma", "headline": "COO, Indigo Paints · ex-Asian Paints supply chain", "city": "Pune",
+      "roles": [
+        { "org": "Asian Paints", "title": "Head of Supply Chain", "from": 2005, "to": 2019 },
+        { "org": "Indigo Paints", "title": "Chief Operating Officer", "from": 2019, "to": null }
+      ],
+      "education": [{ "school": "IIT Bombay", "degree": "B.Tech", "to": 2001 }],
+      "expertise": ["paints", "supply chain", "consumer"],
+      "tie": { "strength": 2, "how": "channel checks on paints, twice a year", "lastContact": "2026-06-11" }
+    },
+    {
+      "id": "deepak-bhat", "name": "Deepak Bhat", "headline": "VP Operations, Kaynes Semicon · ex-Dixon", "city": "Hyderabad",
+      "roles": [
+        { "org": "Dixon Technologies", "title": "Plant Head, Mobile EMS", "from": 2014, "to": 2021 },
+        { "org": "Kaynes Technology", "title": "VP Operations, OSAT", "from": 2022, "to": null }
+      ],
+      "education": [{ "school": "NIT Warangal", "degree": "B.Tech", "to": 2008 }],
+      "expertise": ["semiconductors", "electronics manufacturing"],
+      "tie": { "strength": 2, "how": "plant visit in Mysuru, 2025", "lastContact": "2026-02-27" },
+      "notes": "Insider at Kaynes. Knows Dixon's operations from the inside too."
+    },
+    {
+      "id": "aarti-joshi", "name": "Aarti Joshi", "headline": "Semiconductor & EMS analyst, foreign brokerage", "city": "Mumbai",
+      "roles": [
+        { "org": "Kotak Institutional Equities", "title": "Associate, Technology", "from": 2016, "to": 2019 },
+        { "org": "Global Brokerage", "title": "Analyst, Semiconductors & EMS", "from": 2019, "to": null }
+      ],
+      "education": [{ "school": "IIT Kanpur", "degree": "B.Tech", "to": 2014 }],
+      "expertise": ["semiconductors", "electronics manufacturing"],
+      "tie": { "strength": 3, "how": "former KIE colleague", "lastContact": "2026-10-09" }
+    },
+    {
+      "id": "rahul-nair", "name": "Rahul Nair", "headline": "Specialty-chemicals consultant · ex-Navin Fluorine, ex-SRF", "city": "Vadodara",
+      "roles": [
+        { "org": "SRF", "title": "Manager, Fluorochemicals", "from": 2008, "to": 2016 },
+        { "org": "Navin Fluorine", "title": "Head of Business Development", "from": 2016, "to": 2023 },
+        { "org": "Independent", "title": "Consultant", "from": 2023, "to": null }
+      ],
+      "education": [{ "school": "ICT Mumbai", "degree": "B.Chem.Eng", "to": 2008 }],
+      "expertise": ["specialty chemicals", "fluorochemicals"],
+      "tie": { "strength": 2, "how": "expert calls on fluorochemicals", "lastContact": "2025-10-03" }
+    },
+    {
+      "id": "shalini-gupta", "name": "Shalini Gupta", "headline": "Head of Strategy, Deepak Nitrite", "city": "Vadodara",
+      "roles": [
+        { "org": "McKinsey & Company", "title": "Associate", "from": 2014, "to": 2015 },
+        { "org": "Deepak Nitrite", "title": "Head of Strategy", "from": 2015, "to": null }
+      ],
+      "education": [{ "school": "IIM Ahmedabad", "degree": "PGP", "to": 2014 }],
+      "expertise": ["specialty chemicals", "strategy"],
+      "tie": { "strength": 3, "how": "IIM-A batchmate, same section", "lastContact": "2026-09-01" }
+    },
+    {
+      "id": "manish-agarwal", "name": "Manish Agarwal", "headline": "CFO, road InvIT · ex-L&T project finance", "city": "Mumbai",
+      "roles": [
+        { "org": "Larsen & Toubro", "title": "Head, Project Finance", "from": 2006, "to": 2018 },
+        { "org": "Highway InvIT", "title": "Chief Financial Officer", "from": 2018, "to": null }
+      ],
+      "education": [{ "school": "IIM Calcutta", "degree": "PGDM", "to": 2006 }],
+      "expertise": ["infrastructure", "project finance"],
+      "tie": { "strength": 2, "how": "infra roundtables", "lastContact": "2026-03-30" }
+    },
+    {
+      "id": "ishaan-malhotra", "name": "Ishaan Malhotra", "headline": "Director, M&A, Avendus · ports & logistics deals", "city": "Mumbai",
+      "roles": [{ "org": "Avendus Capital", "title": "Director, M&A", "from": 2012, "to": null }],
+      "education": [{ "school": "IIM Ahmedabad", "degree": "PGP", "to": 2012 }],
+      "expertise": ["M&A", "ports & logistics", "infrastructure"],
+      "tie": { "strength": 2, "how": "IIM-A senior; trades deal gossip", "lastContact": "2026-09-19" }
+    },
+    {
+      "id": "ravi-shankar", "name": "Ravi Shankar", "headline": "Defence-industry advisor · ex-HAL programme manager", "city": "Bengaluru",
+      "roles": [
+        { "org": "Hindustan Aeronautics", "title": "Programme Manager, Helicopters", "from": 2004, "to": 2016 },
+        { "org": "Independent", "title": "Defence advisor", "from": 2016, "to": null }
+      ],
+      "education": [{ "school": "IISc Bengaluru", "degree": "M.Tech", "to": 2004 }],
+      "expertise": ["defence", "aerospace"],
+      "tie": { "strength": 1, "how": "expert-network call, 2024", "lastContact": "2024-12-12" }
+    },
+    {
+      "id": "pooja-menon", "name": "Pooja Menon", "headline": "Principal, PE fund · ex-Tata Steel M&A", "city": "Mumbai",
+      "roles": [
+        { "org": "Tata Steel", "title": "Manager, Corporate M&A", "from": 2010, "to": 2019 },
+        { "org": "Kedara Partners", "title": "Principal", "from": 2019, "to": null }
+      ],
+      "education": [{ "school": "XLRI Jamshedpur", "degree": "PGDM", "to": 2010 }],
+      "expertise": ["steel", "M&A"],
+      "tie": { "strength": 2, "how": "met through Sameer Khanna", "lastContact": "2025-08-08" }
+    },
+    {
+      "id": "arjun-rao", "name": "Arjun Rao", "headline": "Founder-CEO, B2B SaaS · ex-TCS BFSI unit head", "city": "Pune",
+      "roles": [
+        { "org": "Tata Consultancy Services", "title": "Unit Head, BFSI", "from": 2005, "to": 2020 },
+        { "org": "LedgerLoop", "title": "Founder & CEO", "from": 2020, "to": null }
+      ],
+      "education": [{ "school": "IIT Kanpur", "degree": "B.Tech", "to": 2005 }],
+      "expertise": ["IT services", "banking technology"],
+      "tie": { "strength": 2, "how": "IIT Kanpur senior; angel-invested in his company", "lastContact": "2026-05-26" }
+    },
+    {
+      "id": "nikhil-shah", "name": "Nikhil Shah", "headline": "Partner, tech practice, consulting firm · ex-McKinsey", "city": "Bengaluru",
+      "roles": [{ "org": "McKinsey & Company", "title": "Partner, Technology", "from": 2009, "to": null }],
+      "education": [{ "school": "IIT Kanpur", "degree": "B.Tech", "to": 2009 }],
+      "expertise": ["IT services", "strategy"],
+      "tie": { "strength": 3, "how": "your first manager at McKinsey", "lastContact": "2026-10-15" }
+    },
+    {
+      "id": "swati-kulkarni", "name": "Dr. Swati Kulkarni", "headline": "Biotech founder · ex-Laurus Labs R&D", "city": "Hyderabad",
+      "roles": [
+        { "org": "Laurus Labs", "title": "Senior Scientist, CDMO", "from": 2011, "to": 2019 },
+        { "org": "Kulkarni Bio", "title": "Founder", "from": 2019, "to": null }
+      ],
+      "education": [{ "school": "NIPER Mohali", "degree": "PhD", "to": 2011 }],
+      "expertise": ["pharma", "CDMO"],
+      "tie": { "strength": 1, "how": "met at a pharma conference", "lastContact": "2025-03-21" }
+    },
+    {
+      "id": "varun-bhatia", "name": "Varun Bhatia", "headline": "Pharma consultant · ex-Sun Pharma US generics", "city": "Mumbai",
+      "roles": [
+        { "org": "Sun Pharmaceutical", "title": "Director, US Generics Portfolio", "from": 2009, "to": 2017 },
+        { "org": "Independent", "title": "Consultant", "from": 2017, "to": null }
+      ],
+      "education": [{ "school": "IIM Ahmedabad", "degree": "PGP", "to": 2009 }],
+      "expertise": ["pharma", "US generics"],
+      "tie": { "strength": 2, "how": "expert calls; IIM-A alum", "lastContact": "2026-06-27" }
+    },
+    {
+      "id": "tanvi-shah", "name": "Tanvi Shah", "headline": "Founder, D2C beauty brand · ex-Nykaa category head", "city": "Mumbai",
+      "roles": [
+        { "org": "Nykaa", "title": "Category Head, Skincare", "from": 2017, "to": 2022 },
+        { "org": "Glowbar", "title": "Founder", "from": 2022, "to": null }
+      ],
+      "education": [{ "school": "IIM Ahmedabad", "degree": "PGP", "to": 2016 }],
+      "expertise": ["beauty & personal care", "retail", "consumer"],
+      "tie": { "strength": 2, "how": "IIM-A junior; you advised her seed round", "lastContact": "2026-01-08" }
+    },
+    {
+      "id": "gaurav-jain", "name": "Gaurav Jain", "headline": "Consumer analyst, mutual fund · ex-HUL", "city": "Mumbai",
+      "roles": [
+        { "org": "Hindustan Unilever", "title": "Area Sales Manager", "from": 2008, "to": 2014 },
+        { "org": "Large AMC", "title": "Analyst, Consumer", "from": 2014, "to": null }
+      ],
+      "education": [{ "school": "IIM Lucknow", "degree": "PGP", "to": 2008 }],
+      "expertise": ["consumer", "retail", "paints"],
+      "tie": { "strength": 2, "how": "buy-side peer", "lastContact": "2026-10-30" }
+    },
+    {
+      "id": "ritu-malhotra", "name": "Ritu Malhotra", "headline": "Director, Financial Sector Ratings, CRISIL", "city": "Mumbai",
+      "roles": [{ "org": "CRISIL", "title": "Director, Financial Sector Ratings", "from": 2010, "to": null }],
+      "education": [{ "school": "IIM Indore", "degree": "PGP", "to": 2010 }],
+      "expertise": ["credit ratings", "banking", "microfinance"],
+      "tie": { "strength": 2, "how": "rating-methodology sessions", "lastContact": "2026-02-18" }
+    },
+    {
+      "id": "sanjay-kulkarni", "name": "Sanjay Kulkarni", "headline": "CFO, mid-size NBFC · ex-HDFC Bank treasury", "city": "Mumbai",
+      "roles": [
+        { "org": "HDFC Bank", "title": "Senior VP, Treasury", "from": 2002, "to": 2021 },
+        { "org": "Mid-size NBFC", "title": "Chief Financial Officer", "from": 2021, "to": null }
+      ],
+      "education": [{ "school": "IIM Bangalore", "degree": "PGDM", "to": 2002 }],
+      "expertise": ["banking", "treasury"],
+      "tie": { "strength": 2, "how": "covered HDFC Bank while you were at KIE", "lastContact": "2025-07-14" },
+      "knows": [{ "name": "V. Srinivasa Rangan", "context": "worked alongside him in HDFC Bank's finance function for over a decade", "strength": 2 }]
+    },
+    {
+      "id": "ananya-bose", "name": "Ananya Bose", "headline": "Banks analyst, long-short hedge fund · ex-KIE", "city": "Singapore",
+      "roles": [
+        { "org": "Kotak Institutional Equities", "title": "Analyst, Banks", "from": 2014, "to": 2019 },
+        { "org": "Long-short Fund", "title": "Analyst, Financials", "from": 2019, "to": null }
+      ],
+      "education": [{ "school": "IIM Calcutta", "degree": "PGDM", "to": 2014 }],
+      "expertise": ["banking", "microfinance"],
+      "tie": { "strength": 3, "how": "sat next to you at KIE for five years", "lastContact": "2026-11-10" }
+    },
+    {
+      "id": "mohit-arora", "name": "Mohit Arora", "headline": "CRO, digital lender · ex-Bajaj Finance risk", "city": "Bengaluru",
+      "roles": [
+        { "org": "Bajaj Finance", "title": "Head, Risk Analytics", "from": 2012, "to": 2018 },
+        { "org": "Digital Lender", "title": "Chief Risk Officer", "from": 2018, "to": null }
+      ],
+      "education": [{ "school": "IIT Kharagpur", "degree": "B.Tech", "to": 2008 }],
+      "expertise": ["consumer credit", "credit risk"],
+      "tie": { "strength": 1, "how": "met at a fintech panel", "lastContact": "2025-05-17" }
+    },
+    {
+      "id": "feroz-patel", "name": "Feroz Patel", "headline": "Logistics consultant · ex-Adani Ports commercial", "city": "Ahmedabad",
+      "roles": [
+        { "org": "Adani Ports & SEZ", "title": "GM, Commercial (Container terminals)", "from": 2014, "to": 2020 },
+        { "org": "Independent", "title": "Logistics consultant", "from": 2020, "to": null }
+      ],
+      "education": [{ "school": "MICA Ahmedabad", "degree": "PGDM", "to": 2010 }],
+      "expertise": ["ports & logistics"],
+      "tie": { "strength": 1, "how": "expert-network call on port tariffs", "lastContact": "2025-04-04" }
+    }
+  ]
+}
