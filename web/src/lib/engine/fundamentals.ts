@@ -23,6 +23,9 @@ export function series(t: Table, prefix: string, opts: { fiscalOnly?: boolean } 
   return { labels: f.headers, values: r.slice(0, f.cut) };
 }
 
+/** Round for display without printing "-0". */
+const r0 = (x: number) => String(Math.round(x) || 0);
+
 export const pct = (cur: number | null, base: number | null) =>
   cur == null || base == null || base === 0 ? null : ((cur - base) / Math.abs(base)) * 100;
 
@@ -174,22 +177,23 @@ export function analyse(co: ScreenerCompany, isLender: boolean): Fundamentals {
   if (g3 != null && g5 != null) {
     trajSignals.push(
       g3 > g5 + 3
-        ? { tone: "good", text: `Revenue growth accelerating: ${g3.toFixed(0)}% 3-yr CAGR vs ${g5.toFixed(0)}% over 5 yrs` }
+        ? { tone: "good", text: `Revenue growth accelerating: ${r0(g3)}% 3-yr CAGR vs ${r0(g5)}% over 5 yrs` }
         : g3 < g5 - 3
-          ? { tone: "bad", text: `Revenue growth slowing: ${g3.toFixed(0)}% 3-yr CAGR vs ${g5.toFixed(0)}% over 5 yrs` }
-          : { tone: "neutral", text: `Steady revenue growth: ~${g3.toFixed(0)}% a year over 3 and 5 yrs` },
+          ? { tone: "bad", text: `Revenue growth slowing: ${r0(g3)}% 3-yr CAGR vs ${r0(g5)}% over 5 yrs` }
+          : { tone: "neutral", text: `Steady revenue growth: ~${r0(g3)}% a year over 3 and 5 yrs` },
     );
   }
   if (p3 != null && g3 != null) {
-    if (p3 > g3 + 3) trajSignals.push({ tone: "good", text: `Profit compounding faster than sales (${p3.toFixed(0)}% vs ${g3.toFixed(0)}% 3-yr CAGR): operating leverage` });
-    else if (p3 < g3 - 3) trajSignals.push({ tone: "bad", text: `Profit lagging sales (${p3.toFixed(0)}% vs ${g3.toFixed(0)}% 3-yr CAGR): margins under pressure` });
+    if (p3 > g3 + 3) trajSignals.push({ tone: "good", text: `Profit compounding faster than sales (${r0(p3)}% vs ${r0(g3)}% 3-yr CAGR): operating leverage` });
+    else if (p3 < g3 - 3) trajSignals.push({ tone: "bad", text: `Profit lagging sales (${r0(p3)}% vs ${r0(g3)}% 3-yr CAGR): margins under pressure` });
   }
   if (opm) {
     const v = opm.values.filter((x): x is number => x != null);
     if (v.length >= 4) {
       const now = v[v.length - 1];
       const avg = v.slice(-4, -1).reduce((s, x) => s + x, 0) / 3;
-      if (Math.abs(now - avg) >= 2)
+      // Negative "margins" (some lenders' standardised format) don't read as margins; skip them.
+      if (Math.abs(now - avg) >= 2 && now > 0 && avg > 0)
         trajSignals.push({
           tone: now > avg ? "good" : "bad",
           text: `${isLender ? "Financing" : "Operating"} margin ${now > avg ? "expanding" : "compressing"}: ${now.toFixed(0)}% latest vs ${avg.toFixed(0)}% prior 3-yr average`,

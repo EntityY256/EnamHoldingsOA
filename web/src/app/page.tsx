@@ -1,6 +1,5 @@
 import { Brief, type WarmNudge } from "@/components/brief/Brief";
 import { buildFeed, network, snapshot } from "@/lib/feed";
-import { CATEGORY_LABEL } from "@/lib/engine/classify";
 
 export default function Home() {
   const items = buildFeed();
@@ -10,8 +9,8 @@ export default function Home() {
 
   // "Keep the network warm": material/notable events at companies where a quiet contact works or worked.
   const events = items
-    .filter((i) => i.tier !== "routine")
-    .map((i) => ({ symbol: i.symbol, label: `${CATEGORY_LABEL[i.cat].toLowerCase()}: ${i.title}`, ts: i.ts }));
+    .filter((i) => i.tier === "act")
+    .map((i) => ({ symbol: i.symbol, label: i.cat === "results" ? "quarterly results" : i.title, ts: i.ts }));
   const warm: WarmNudge[] = network.keepWarm(events).map((w) => ({
     contactId: w.contact.id,
     name: w.contact.name,

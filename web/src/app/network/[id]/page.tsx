@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { Avatar, SectionTitle, Strength, Tag } from "@/components/ui";
 import { buildFeed, network, networkData, shortName, snapshot } from "@/lib/feed";
 import { CATEGORY_LABEL } from "@/lib/engine/classify";
+import { sameName } from "@/lib/engine/network";
 
 export function generateStaticParams() {
   return networkData.contacts.map((c) => ({ id: c.id }));
@@ -23,9 +24,14 @@ export default async function Person({ params }: PageProps<"/network/[id]">) {
 
   // Recent events at their companies: reasons to call.
   const symbols = new Set(c.roles.map((r) => network.org(r.org)?.symbol).filter(Boolean));
-  const events = buildFeed()
-    .filter((i) => symbols.has(i.symbol) && i.tier !== "routine")
-    .slice(0, 4);
+  const feed = buildFeed();
+  const events = feed.filter((i) => symbols.has(i.symbol) && i.tier !== "routine").slice(0, 4);
+  // People this contact knows who just appeared in a portfolio filing.
+  const news = new Map<string, string>();
+  for (const i of feed)
+    for (const p of i.people ?? [])
+      if (!news.has(p.name)) news.set(p.name, `${p.action} ${p.role} at ${i.symbol}`);
+  const inNews = (name: string) => [...news.entries()].find(([n]) => sameName(n, name))?.[1];
 
   return (
     <main className="px-4 pt-[max(env(safe-area-inset-top),16px)]">
@@ -97,6 +103,7 @@ export default async function Person({ params }: PageProps<"/network/[id]">) {
             {c.knows.map((k) => (
               <li key={k.name} className="rounded-xl bg-surface-2 px-3 py-2">
                 <span className="font-semibold">{k.name}</span> <span className="text-ink-2">· {k.context}</span>
+                {inNews(k.name) && <span className="mt-1 block text-[12px] font-medium text-net">In the news: just {inNews(k.name)}</span>}
               </li>
             ))}
           </ul>

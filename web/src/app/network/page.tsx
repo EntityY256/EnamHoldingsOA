@@ -2,18 +2,23 @@ import Link from "next/link";
 import { NetworkSearch } from "@/components/network/NetworkSearch";
 import { Avatar, SectionTitle, Strength } from "@/components/ui";
 import { buildFeed, network, networkData, type LinkLite } from "@/lib/feed";
-import { CATEGORY_LABEL } from "@/lib/engine/classify";
 
 export default function NetworkHome() {
   const items = buildFeed();
   // People who just appeared in your portfolio's filings, and your best path to each.
+  // One entry per person, CEO-level changes first, then most recent.
+  const seniority = (role: string) => (/\b(CEO|MD|CFO)\b/.test(role) ? 0 : /chair|whole-time/i.test(role) ? 1 : 2);
+  const seen = new Set<string>();
   const inTheNews = items
     .flatMap((i) => (i.people ?? []).map((p) => ({ ...p, symbol: i.symbol, company: i.company, ts: i.ts })))
-    .filter((p) => p.links.length > 0)
+    .filter((p) => p.links.length > 0 && !seen.has(p.name) && seen.add(p.name))
+    .sort((a, b) => seniority(a.role) - seniority(b.role) || b.ts.localeCompare(a.ts))
     .slice(0, 6);
   const themes = network.expertiseMap().filter((t) => t.contacts.length >= 2).slice(0, 12);
   const warm = network.keepWarm(
-    items.filter((i) => i.tier !== "routine").map((i) => ({ symbol: i.symbol, label: `${CATEGORY_LABEL[i.cat].toLowerCase()}: ${i.title}`, ts: i.ts })),
+    items
+      .filter((i) => i.tier === "act")
+      .map((i) => ({ symbol: i.symbol, label: i.cat === "results" ? "quarterly results" : i.title, ts: i.ts })),
   );
   const contacts = [...networkData.contacts].sort((a, b) => b.tie.strength - a.tie.strength || a.name.localeCompare(b.name));
 
@@ -53,7 +58,7 @@ export default function NetworkHome() {
                 <Link href={`/network/${w.contact.id}`} className="flex gap-3 px-4 py-3">
                   <Avatar name={w.contact.name} net />
                   <p className="text-[13px] leading-snug text-ink-2">
-                    <span className="font-semibold text-ink">{w.contact.name}</span> {w.connection}, which just filed {w.event.label}.{" "}
+                    <span className="font-semibold text-ink">{w.contact.name}</span> {w.connection}, which just filed: {w.event.label}.{" "}
                     <span className="text-muted">Quiet for {w.months} months.</span>
                   </p>
                 </Link>

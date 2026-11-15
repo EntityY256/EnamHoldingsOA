@@ -108,7 +108,7 @@ async function Research({ params }: { params: PageProps<"/research/[symbol]">["p
 
       <SectionTitle right={<span className="text-[11px] text-net">private to you</span>}>Who can help</SectionTitle>
       {links.length ? (
-        <WhoToCall links={links} title={`People who know ${shortName(co.name).split(" ")[0]}`} />
+        <WhoToCall links={links} title={`People who know ${co.symbol}`} />
       ) : (
         <p className="rounded-xl border border-dashed border-line p-4 text-[13px] text-muted">No one in your network has worked at {shortName(co.name)}, its peers, or this sector yet.</p>
       )}

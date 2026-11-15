@@ -19,7 +19,7 @@ Five filings from one results day collapse into one card. Triggered alerts sit o
 - **Material event** (M&A, capex, litigation): the person best placed to explain it, ranked as insider (with an MNPI caution), then ex-insider (weighted by recency), then peer, then sector expert.
 
 **Research (Pull).** Works on any NSE ticker.
-- Trajectory, balance sheet and cash quality are computed from reported statements and shown as charts and plain-language signals ("Profits are real cash: 5-yr CFO is 104% of PAT").
+- Trajectory, balance sheet and cash quality are computed from reported statements and shown as charts and plain-language signals (TCS: "Profits are real cash: 5-yr operating cash flow is 101% of reported profit"; DIXON: "Profit compounding faster than sales (86% vs 59% 3-yr CAGR): operating leverage").
 - *Promised vs delivered* reads the last four concall transcripts and the annual report. It extracts every explicit promise with a verbatim quote, then checks each against the reported numbers: delivered / partly / missed / pending / can't verify.
 - It also produces narrative vs numbers, a 3-and-3 bull/bear, and three questions to ask management.
 - It uses primary sources only, and progress streams to the phone while it works.

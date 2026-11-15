@@ -94,7 +94,8 @@ export function Brief({ items, eod, asOf, warm, companies }: { items: FeedItem[]
         </button>
       </header>
       <p className="mt-2 text-[13px] text-muted">
-        {view.filingCount} filings across your {companies} companies. Routine paperwork is folded away; you decide what interrupts you.
+        {view.filingCount} filing{view.filingCount === 1 ? "" : "s"}
+        {moves.length ? ` and ${moves.length} unusual price/volume move${moves.length === 1 ? "" : "s"}` : ""} across your {companies} companies. Routine paperwork is folded away; you decide what interrupts you.
       </p>
 
       <div className="no-scrollbar -mx-4 mt-4 flex gap-2 overflow-x-auto px-4">
@@ -144,7 +145,7 @@ export function Brief({ items, eod, asOf, warm, companies }: { items: FeedItem[]
           <ul className="divide-y divide-line overflow-hidden rounded-2xl border border-line bg-surface">
             {view.know.map((i) => (
               <li key={i.id} className="flex gap-3 px-4 py-3">
-                <Link href={`/research/${i.symbol}`} className="num w-[86px] shrink-0 truncate pt-0.5 text-[12px] font-semibold">
+                <Link href={`/research/${i.symbol}`} className="num w-[72px] shrink-0 truncate pt-0.5 text-[12px] font-semibold">
                   {i.symbol}
                 </Link>
                 <div className="min-w-0 flex-1">

@@ -10,7 +10,7 @@ A mobile-first agent for a public-markets investor. It does three things:
 
 ## The idea in one line
 
-An investor's scarcest resource is attention, so FINN's headline is a subtraction: **"6 things need you. 41 more handled."** Everything else is folded away. When something does matter, the card already shows the person in your network who can explain it.
+An investor's scarcest resource is attention, so FINN's headline is a subtraction: on a Monday morning it reads **"4 things need you. 2 more handled."** Over the last week it surfaces **9 items out of 52 filings**; over a month, 44 out of 258. The other 30 routine filings a week are folded into one line. Everything else is folded away. When something does matter, the card already shows the person in your network who can explain it.
 
 ## Try it in 60 seconds
 
