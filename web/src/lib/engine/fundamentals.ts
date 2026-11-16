@@ -95,7 +95,26 @@ export function resultsFromFiling(x: FilingResults, isLender: boolean): ResultsC
   const metrics = rows.map((r) => ({ key: r.key, label: r.label, ...r.v, qoq: pct(r.v.cur, r.v.prev), yoyPct: pct(r.v.cur, r.v.yoy) }));
   const m = (p: "cur" | "prev" | "yoy") => (rev[p] && ebitda[p] != null ? +((ebitda[p]! / rev[p]!) * 100).toFixed(1) : null);
   const margin = isLender ? undefined : { label: "EBITDA margin", cur: m("cur"), prev: m("prev"), yoy: m("yoy") };
-  return { period: x.quarter, prevPeriod: x.prevQuarter, yoyPeriod: x.yoyQuarter, metrics, margin, take: takeLine(metrics, margin), source: "filing" };
+  return {
+    period: periodLabel(x.quarter),
+    prevPeriod: periodLabel(x.prevQuarter),
+    yoyPeriod: periodLabel(x.yoyQuarter),
+    metrics,
+    margin,
+    take: takeLine(metrics, margin),
+    source: "filing",
+  };
+}
+
+const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+/** Filing column headers come as "30-Sep-26", "30.09.2026", "September 30, 2026"…; show them like screener: "Sep 2026". */
+export function periodLabel(s: string): string {
+  const yr = (y: string) => (y.length === 2 ? `20${y}` : y);
+  const named = /(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?[\s,.-]*(?:\d{1,2}[\s,.-]+)?'?(\d{4}|\d{2})\b/i.exec(s);
+  if (named) return `${MONTHS.find((m) => m.toLowerCase() === named[1].toLowerCase())} ${yr(named[2])}`;
+  const numeric = /\b\d{1,2}[./-](\d{1,2})[./-](\d{4}|\d{2})\b/.exec(s);
+  if (numeric && +numeric[1] >= 1 && +numeric[1] <= 12) return `${MONTHS[+numeric[1] - 1]} ${yr(numeric[2])}`;
+  return s;
 }
 
 function takeLine(metrics: ResultsCut["metrics"], margin?: ResultsCut["margin"]) {
@@ -122,10 +141,11 @@ export function resultsCut(co: ScreenerCompany, isLender: boolean): ResultsCut |
     const r = row(q, prefix);
     return r ? { cur: r[i], prev: r[i - 1], yoy: r[i - 4] } : { cur: null, prev: null, yoy: null };
   };
+  // Lenders: no EBITDA line. Screener's "Financing Profit" excludes a bank's other income (so it is
+  // often negative for large banks) and is not pre-provision operating profit, so it would mislead.
   const defs: { key: MetricKey; label: string; prefix: string }[] = isLender
     ? [
         { key: "revenue", label: "Revenue", prefix: "Revenue" },
-        { key: "ebitda", label: "Operating profit", prefix: "Financing Profit" },
         { key: "pbt", label: "PBT", prefix: "Profit before tax" },
         { key: "pat", label: "PAT", prefix: "Net Profit" },
       ]
@@ -139,8 +159,7 @@ export function resultsCut(co: ScreenerCompany, isLender: boolean): ResultsCut |
     const v = at(d.prefix);
     return { key: d.key, label: d.label, ...v, qoq: pct(v.cur, v.prev), yoyPct: pct(v.cur, v.yoy) };
   });
-  const m = at(isLender ? "Financing Margin" : "OPM");
-  const margin = { label: isLender ? "Financing margin" : "EBITDA margin", ...m };
+  const margin = isLender ? undefined : { label: "EBITDA margin", ...at("OPM") };
   return { period: q.headers[i], prevPeriod: q.headers[i - 1], yoyPeriod: q.headers[i - 4], metrics, margin, take: takeLine(metrics, margin), source: "screener" };
 }
 
@@ -171,7 +190,6 @@ export function analyse(co: ScreenerCompany, isLender: boolean): Fundamentals {
   const g3 = cagr(revenue, 3);
   const g5 = cagr(revenue, 5);
   const p3 = cagr(pat, 3);
-  const p5 = cagr(pat, 5);
 
   const trajSignals: Signal[] = [];
   if (g3 != null && g5 != null) {

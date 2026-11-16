@@ -1,0 +1,105 @@
+{
+ "symbol": "TCS",
+ "generatedAt": "2026-11-16T05:53:10.622Z",
+ "business": {
+  "what": "Tata Consultancy Services Ltd is a technology partner of choice for industry-leading organizations worldwide, providing IT services, digital and business transformation solutions. It generates revenue through comprehensive multi-year contracts spanning cloud, data, enterprise solutions, cyber security, and full-stack artificial intelligence services.",
+  "segments": [
+   {
+    "name": "AI Services",
+    "detail": "Annualised AI revenue of $2.3 billion based on latest quarterly revenue."
+   },
+   {
+    "name": "New-age Services",
+    "detail": "Generated $11.5 billion in new-age services including Cloud, Data, Enterprise Solutions and Cyber Security."
+   }
+  ],
+  "strategy": [
+   "Build an AI Operating System for industries to accelerate deployment of agentic AI solutions.",
+   "Construct India's first AI-focused data centre with high rack density.",
+   "Strengthen the Infrastructure to Intelligence offering through partnerships with hyperscalers, frontier AI firms, and industrial OEMs.",
+   "Establish secure, resilient, and sovereign AI infrastructure."
+  ]
+ },
+ "narrative": {
+  "read": "TCS demonstrated strong top-line momentum with revenue expanding to ₹73,188 crore in Q2 FY27, backed by annualized AI revenue scaling past $3.1 billion. However, profitability faces headwind from annual wage hikes and elevated SG&A expenses, causing net profit to fluctuate significantly (dipping to ₹10,720 crore in Dec 2025).",
+  "promises": [
+   {
+    "said": "Q4 FY26 call",
+    "promise": "Build 1 GW of AI data centre capacity under the HyperVault business.",
+    "delivered": "The reported financial tables and subsequent earnings calls do not track capacity progress or completion dates.",
+    "verdict": "unverifiable",
+    "quote": "significant progress in the HyperVault business to build 1 GW of capacity."
+   },
+   {
+    "said": "Q4 FY26 call",
+    "promise": "Implement annual salary increments for eligible associates effective April 1.",
+    "delivered": "Executed as planned; wage hikes hit Q1 FY27 results, driving operating profit down sequentially from ₹19,276 crore in Mar 2026 to ₹18,556 crore in Jun 2026.",
+    "verdict": "delivered",
+    "quote": "Announced annual salary increments for eligible associates across all grades, effective April 1, with top performers getting double-digit increases."
+   }
+  ],
+  "credibility": "Management provides minimal explicit forward quantitative guidance in transcripts, but delivered on announced operational commitments such as April salary hikes while steadily scaling reported AI revenue.",
+  "narrativeVsNumbers": [
+   {
+    "claim": "Continuous sequential revenue expansion driven by deal wins and AI adoption.",
+    "reality": "Reported sales increased steadily each quarter from ₹67,087 crore in Dec 2025 to ₹73,188 crore in Sep 2026.",
+    "aligned": true
+   },
+   {
+    "claim": "Wage hikes in Q1 FY27 created temporary margin friction.",
+    "reality": "Operating profit dropped from ₹19,276 crore in Mar 2026 to ₹18,556 crore in Jun 2026, while OPM % edged down from 27% to 26%.",
+    "aligned": true
+   },
+   {
+    "claim": "Strong cash generation underpinning business strategy.",
+    "reality": "Cash from operations grew consistently year-on-year from ₹41,965 crore in FY23 to ₹52,094 crore in FY26.",
+    "aligned": true
+   }
+  ],
+  "bull": [
+   "Consistent revenue growth across four quarters, rising from ₹67,087 crore in Dec 2025 to ₹73,188 crore in Sep 2026.",
+   "Rapid commercial scaling of AI services, with annualized revenue surging from $1.8 billion in Q3 FY26 to $3.1 billion (crossing 10% of revenue) in Q2 FY27.",
+   "Robust operational cash flows, expanding from ₹41,965 crore in FY23 to ₹52,094 crore in FY26."
+  ],
+  "bear": [
+   "Quarterly net profit volatility, highlighted by a decline to ₹10,720 crore in Dec 2025 compared to ₹12,131 crore in Sep 2025.",
+   "Margin dilution following salary increments, as operating profit contracted from ₹19,276 crore in Mar 2026 to ₹18,556 crore in Jun 2026.",
+   "Persistent analyst concerns regarding elevated SG&A costs, subcontracting expenses, and external consultant fees."
+  ],
+  "askManagement": [
+   "What specific factors drove the sharp decline in net profit to ₹10,720 crore in Dec 2025, and are SG&A expenses now normalized?",
+   "With annualized AI revenue reaching $3.1 billion, what quantifiable impact are AI productivity pass-throughs having on total contract values and renewal pricing?",
+   "What is the projected capex timeline and completion target for HyperVault's 1 GW data centre capacity build?"
+  ]
+ },
+ "sources": [
+  {
+   "label": "Concall transcript, Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf"
+  },
+  {
+   "label": "Concall transcript, Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=27523cab-de62-4f78-939a-6d9853bbd060.pdf"
+  },
+  {
+   "label": "Concall transcript, Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=07ae2d32-1050-4e80-96ff-eb2d98378d4e.pdf"
+  },
+  {
+   "label": "Concall transcript, Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d70edbab-d5b2-47ae-8820-efacc5052d13.pdf"
+  },
+  {
+   "label": "Annual report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+  }
+ ],
+ "usage": {
+  "calls": 6,
+  "costUsd": 0.0494,
+  "models": [
+   "gemini-3.5-flash-lite",
+   "gemini-3.6-flash"
+  ]
+ }
+}

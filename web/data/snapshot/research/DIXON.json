@@ -1,0 +1,112 @@
+{
+ "symbol": "DIXON",
+ "generatedAt": "2026-11-16T05:52:45.103Z",
+ "business": {
+  "what": "Dixon Technologies (India) Limited is an Indian company engaged in electronic manufacturing services. It makes money through the manufacturing and sale of electronic products and related components, alongside material transactions conducted through its subsidiaries and joint ventures.",
+  "segments": [],
+  "strategy": []
+ },
+ "narrative": {
+  "read": "Dixon Technologies is delivering dramatic top-line scale with quarterly revenue surging to a record ₹21,794 crore in Q2 FY27, but operating profitability is severely thinning with OPM dropping to 2.7%. This margin compression is impairing bottom-line conversion, causing net profit to drop to ₹411 crore in Q2 FY27 from ₹718 crore in Q1 FY27 despite a 40.2% quarter-on-quarter sales expansion.",
+  "promises": [
+   {
+    "said": "Q3 FY26 call",
+    "promise": "FY26 overall capex outgo between ₹1,100 crore and ₹1,200 crore",
+    "delivered": "Reported FY26 Capex (CFO minus FCF) stood at ₹1,058 crore, coming in slightly under the guided range",
+    "verdict": "delivered",
+    "quote": "So first 9 months, the capex outgo is INR720 crores. And we feel that in the overall fiscal, it should be somewhere between INR1,100 crores, INR1,200 crores."
+   },
+   {
+    "said": "Q3 FY26 call",
+    "promise": "Mobile phone business margin of 2.8% to 3.2% over next 12 months",
+    "delivered": "Segment margins are not reported; consolidated OPM% contracted to 3.0% in Jun 2026 and 2.7% in Sep 2026",
+    "verdict": "unverifiable",
+    "quote": "We still feel that we should be able to have a margin of somewhere between 2.8% to 3.1%, 3.2% in our mobile phone business."
+   },
+   {
+    "said": "Q4 FY26 call",
+    "promise": "Company revenue growth of 15% to 17% in FY27 without Vivo",
+    "delivered": "TTM sales reached ₹58,523 crore vs ₹48,873 crore in FY26 (+19.7%), though full-year FY27 results are pending",
+    "verdict": "pending",
+    "quote": "We feel that without the Vivo also, the company will keep growing at almost 15% to 17%."
+   },
+   {
+    "said": "Q1 FY27 call",
+    "promise": "Mobile volume growth of 20% to 25% Q-o-Q in Q2 FY27",
+    "delivered": "Segment volume figures are not provided in the table, though total sales grew 40.2% QoQ to ₹21,794 crore in Sep 2026",
+    "verdict": "unverifiable",
+    "quote": "We expect 20% to 25% volume growth quarter-on-quarter growth as consumer demand strengthens and we have a strong order book."
+   },
+   {
+    "said": "Q2 FY27 call",
+    "promise": "IT hardware business revenue of ~₹6,000 crore in FY27",
+    "delivered": "Segment-level revenue is not disaggregated in the financial table",
+    "verdict": "unverifiable",
+    "quote": "This year itself we feel confident that we are going to be somewhere around INR 6,000 crores in this business."
+   }
+  ],
+  "credibility": "Management heavily relies on segment-level volume and revenue guidance that cannot be validated via consolidated numbers, though it delivered on its FY26 capex guidance of ₹1,058 crore.",
+  "narrativeVsNumbers": [
+   {
+    "claim": "Consolidated sales expansion is accelerating strongly across core categories.",
+    "reality": "Quarterly sales expanded from ₹10,511 crore in Mar 2026 to ₹21,794 crore in Sep 2026, bringing TTM sales to ₹58,523 crore.",
+    "aligned": true
+   },
+   {
+    "claim": "Margins face temporary compression due to Mobile PLI 1 expiration and elevated memory costs.",
+    "reality": "OPM% contracted consistently from 4.3% in Mar 2025 to 3.8% in Sep 2025, 3.0% in Jun 2026, and 2.7% in Sep 2026.",
+    "aligned": true
+   },
+   {
+    "claim": "Earnings profile remains resilient across shifting business cycles.",
+    "reality": "Net profit fell 42.8% QoQ to ₹411 crore in Sep 2026 from ₹718 crore in Jun 2026 despite quarterly revenue increasing by ₹6,246 crore.",
+    "aligned": false
+   }
+  ],
+  "bull": [
+   "Rapid top-line scaling: Quarterly revenues doubled from ₹10,672 crore in Dec 2025 to ₹21,794 crore in Sep 2026, driving TTM sales to ₹58,523 crore.",
+   "Strong operating cash flow generation: CFO expanded from ₹1,150 crore in FY25 to ₹1,782 crore in FY26.",
+   "Capex execution discipline: Met FY26 capex guidance with ₹1,058 crore outlay while supporting massive production scale-up."
+  ],
+  "bear": [
+   "Severe margin dilution: OPM% declined to 2.7% in Q2 FY27, down from 3.9% in FY25 and 4.3% in Mar 2025 due to expiring PLI benefits and high component costs.",
+   "Bottom-line volatility: Net profit dropped from ₹718 crore in Q1 FY27 to ₹411 crore in Q2 FY27 despite strong revenue expansion.",
+   "Opaque segment guidance: Key growth claims around IT hardware (₹6,000 crore target) and mobile volume targets cannot be verified from reported financial tables."
+  ],
+  "askManagement": [
+   "With OPM% dropping to a multi-year low of 2.7% in Q2 FY27, what proportion of this contraction is permanent post-Mobile PLI 1 vs recoverable via backward integration JVs?",
+   "Why did net profit fall 42.8% quarter-on-quarter in Q2 FY27 to ₹411 crore while top-line revenue expanded by 40.2% over the same period?",
+   "Given that IT PLI 2 capex commitments are doubling from ₹250 crore to ₹500 crore, what is the expected payback timeline under compressed operating margins?"
+  ]
+ },
+ "sources": [
+  {
+   "label": "Concall transcript, Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=995a3a71-4a1e-4c1f-a29a-6c6747e4ca10.pdf"
+  },
+  {
+   "label": "Concall transcript, Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7ce2ca16-3043-48f4-97f9-a62a6a086c2f.pdf"
+  },
+  {
+   "label": "Concall transcript, May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38b72f07-55a6-4503-91fd-ed3b2c209e96.pdf"
+  },
+  {
+   "label": "Concall transcript, Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ad6e72f1-b5f8-4a75-8e45-f2e88c7525e0.pdf"
+  },
+  {
+   "label": "Annual report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5ef88e3c-352d-4223-a8ec-bdd7d3aa31c1.pdf"
+  }
+ ],
+ "usage": {
+  "calls": 6,
+  "costUsd": 0.0646,
+  "models": [
+   "gemini-3.5-flash-lite",
+   "gemini-3.6-flash"
+  ]
+ }
+}

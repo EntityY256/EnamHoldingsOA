@@ -614,3 +614,915 @@ Net cash from/(used in) financi ng activ ities - C (1 1389.25) (11397.79) (2021 
 Net incr easel(decr ease) in cash and cash equivalents (A+B+C) (213.86) 441.58 677.57
 Cash and cas h equivalents at the b eginning o f the year 679.72 2.15 2.15
 Cash and cas h equival ents at the end of the p eriod / year 465.86 443.73 679.72
+
+[page 7]
+~
+~
+Notes to Unaudit ed Standalone Financial Results:
+The above standalone financial results have been reviewed by the Audij Committee of the Board of Directors in their meeting held on 31
+October 2026 and approved by the Board of Directors on the same date.
+2 The Joint Statutory Auditors of the Company have carried out the limited review of these standalone financial results as required under
+Regulation 33 and 52 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations,2015, as
+amended.
+3 a) (i) CERC notified The Central Electridy Regulatory Commission (Terms and Conditions of Tariff} Regulations, 2024 vide Notification dated 15
+March 2024 (Regulations, 2024) for determination of tariff for the tariff period 2024-2029. Pending issue of provisional/final tariff orders, capacity
+charges wnh effect from 1 April 2024 are billed to beneficiaries in accordance with the tariff approved and applicable as on 31 March 2024, as
+provided in Regulations, 2024.ln case of projects declared commercial on or after 1 April 2024 and projects where tariff order as on 31 March
+2024 are pending from CERC, billing is done based on capady charges as filed with CERC in the tariff petitions.
+Accordingly, capacny charges provisionally billed for the quarter and six months ended 30 September 2026 is t 14,711.58 crore and t
+29,724.26 crore respectively (Previous quarter and six months ended 30 September 2025: t 14,470.45 crore and t 28,441 .78 crore
+respectively).
+Energy and other charges are billed as per the norms specified in the Regulations 2024. Accordingly, energy charges have been billed for the
+quarter and six months ended 30 September 2026 is t 26,137.46 crore and t 49,813.19 crore respectively (Previous quarter and six months
+ended 30 September 2025: t 21 ,448.65 crore and f 45,053.95 respectively)
+(ii) Capacijy charges for the quarter and six months ended 30 September 2026 have been provisionally recognized considering the provisions of
+Tariff Regulations amounting to t 16,173.45 crore and t 32,745.81 crore respectively (Previous quarter and six months ended 30 September
+2025:t 15,782.76 crore and f 31 ,568.49 crore respectively).
+Energy and Other charges for the quarter and six months ended 30 September 2026 have been recognized at f 26,486.84 crore and f
+49,698.26 crore respectively (Previous quarter and six months ended 30 September 2025: t 21,934.51 crore and t 46,338.88 crore
+respectively) as per the norms specified in the Regulations 2024.
+b) Capacity charges for the quarter and six months ended 30 September 2026 include f (·) 348.45 crore and (·) t 156.66 crore respectively
+(Previous quarter and six months ended 30 September 2025 t 113.78 crore and t 1042.18 crore respectively) pertaining to earlier years on
+account of impact of CERC orders, and other adjustments.
+Energy and other charges for the quarter and six months ended 30 September 2026 t 1,365.82 crore and t 2,811.41 crore respectively
+(Previous quarter and six months ended 30 September 2025 t 48.95 crore and t (·) 60.14 crore respectively) pertaining to earlier years on
+account of revision of energy charges due to grade slippages and other adjustments.
+c) Sales for the quarter and six months ended 30 September 2026 also include i 37.15 crore and i 73.09 crore (Previous quarter and six
+months ended 30 September 2025 t 26.06 crore and t 52.08 crore respectively) on account of deferred tax materialized which is recoverable
+from beneficiaries as per Regulations, 2024.
+d) Revenue from operations for the quarter and six months ended 30 September 2026 include t 1,029.54 Crore and t 2,1 18.35 Crore
+respectively (Previous quarter and six months ended 30 September 2025 t 900.37 crore and t 1,916.37 crore respectively) on account of sale
+of energy through trading (gross).
+e) Revenue from operations for the quarter and six months ended 30 September 2026 include t 216.02 crore and t 455.50 crore respectively
+(Previous quarter and six months ended 30 September 2025 f 135.16 crore and ? 260.47 crore respectively) on account of sale of energy of
+solar stations.
+4 The Company had been recognising MAT credit entitlement available to the Company as the same is likely to give future economic benefits in
+the form of availability of set off against future income tax liability. During the quarter and year ended 31 March 2026, deferred tax balances were
+remeasured in view of the Company's expected transition to the new tax regime in the near future considering changes enacted through
+Finance Act 2026. Consequently, deferred tax liability (DTL) for the previous year was remeasured @25.168% from 34.944%, which had
+resulted in DTL net of MAT credit ror the year amounting to (-) , 7,561.43 crore. Further, due to the said negative DTL, regulatory deferral
+account debit balances for deferred tax for the previous year was (-)t 7,257.99 crore.
+
+[page 8]
+5 Net movement In regulatory deferral account balances (net of tax) consists of exchange differences arising from settlement/translation of
+monetary item denominated in foreign currency to the extent recoverable from or payable to the beneficiaries in subsequent periods, deferred tax
+liability reversible in future periods when they become current tax and similar items which will be materialised in future considering the CERC
+Tariff Regulations and the requirements of Ind AS 114- 'Regulatory deferral accounts'. The details of the same are as under:
+(f crore)
+SI.no Particulars Quarter ended Quarter ended Quarter ended Six months ended Six months ended Year ended
+30.09.2026 30.06.2026 30.09.2025 30.09.2026 30.09.2025 31 .03.2026
+(Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Audited)
+1 Exchanae differences 971 .56 154.49) 968.26 917.07 2 593.82 3746.06
+2 Deferred tax 308.82 377.00 740.54 685.82 1 313.10 (7,257.99)
+3 Others 862.64 - - 862.64 126.54 -
+4 Tax on the above 1404.50l 160.89) 1298.80) 1465.39) 1704.96) 613.61
+Total 1,738.52 261.62 1,410.00 2,000.14 3,328.50 (2,898.32)
+Note.-Durong the quarter and hall year ended 30 September 2026, a Regulatory asset ('Others') has been created towards difference of
+depreciation charged as per Material Accounting Policies of the Company in accordance with CERC Tariff Regulations,2024 and depreciation
+receivable through tariff in future periods pursuant to an order of CERC in respect of one of the Stations af the Campany.
+6 In respect of one of the hydro power projects of the Company, the construction of which has been discontinued on the advice of the Ministry of
+Power (MOP), Government of India (GOI) in the year 2010, an amount off 390.10 crore (31 March 2026: f 372.81 crore) is outstanding as
+recoverable from GOI as on 30 September 2026 towards expenditure incurred in respect af this project. The aforesaid amount recoverable
+includes an amount off 261 .50 crore (31 March 2026: f 257.31 crore) in respect of arbitration awards challenged by the Company before th e
+Hon'ble High Court of Delhi for which corresponding liability exists under 'Current Liabilities- Provisions'. In the event the Hon'ble High Court
+grants relief to the Company, the amount would be adjusted against the amount recoverable from GOI. Management expects that the total cost
+incurred, anticipated expenditure on the safety and stabilisation measures, other recurring site expenses and Interest costs as well as claims of
+contractors/vendors for various packages for this project will be compensated in full by the GOI.
+7 The Com pany had incorporated a wholly owned subsidiary, in the name of 'NTPC Mining Limited' (NML) on 29 August 2019, for taking up coal
+mining business. The Board of D irectors of the Company had approved the hiving-off its coal m ining business of the Company to NML at book
+value, through a business transfer agreement (BTA) dated 17 August 2023 on a going concern basis through slump sale pursuant to the BTA,
+which was subsequently amended on 17 September 2025. Dunng the previous year, five out of six Coal Mine businesses have been transferred
+to NML in line with the amended BTA for a purchase consideration of f 6,020.62 crore. The remaining one Coal Mine business has been
+transferred effective 1 April 2026 upon completion of conditions precedent stipulated in the BTA, for a purchase consideration of f6,339.18 crore.
+The total purchase consideration has been settled by payment/ allotment of equity for an amount af f 3,707.94 crore and the total equity as at 30
+September 2026 stands at f 3,905.04 crore (31 March 2026:,2,008.60 crore). Balance amount of consideration amounting to fB,651 .86 crore
+shall be payable by N ML by 30 September 2027 along with interest calculated until the day on which the entire outstanding liability is
+extinguished.
+8 The Company has maintained security cover of 100% or higher as per the terms of offer documenUlnformation Memorandum and/or Debenture
+Trust Deed, sufficient ta discharge the principal amount and the interes1 thereon, in respect of its secured listed non-convertible debt securities.
+Further, charge has been created on specified assets of the Company through English/Equitable mortgage as per the terms of respective
+Debenture Trust Deeds for all secured non-convertible debt securities Issued by the Company. The Company is also in compliance with all the
+covenants, in respect of all listed non-convertible debt securities Issued by the Campany.
+9 The shareholders of the Company have approved final dividend of f 3.50 per share (face value of f 10/- each) for the financial year 2025-26 in
+the Annual General Meeting held on 27 August 2026, which was paid In September 2026. Further, The Board of Directors of the Company has
+declared first interim dividend of f 3.00 per share (face value of f 101- each) for the financial year 2026-27 in their meeting held on 31 October
+2026.
+10 Previous periods figures have been reclassified wherever considered necessary.
+Place New Delhi
+Date : 31 October 2026
+
+[page 9]
+Mis. Hem Sandeep &Co.
+C hartered Accounta nts
+1961, Katra Khusha lrai,
+K inari Bazar, C hand ni C howk,
+New Delhi - 110006
+Mis.PS D &Associates
+C hartered Accountan ts
+M.I. Road, 324,
+Ganpati Plaza,
+Jaipur - 30200 I
+Mis. 0 P Bagla &Co LLP
+C ha rtered Accountants
+50 I 5th Floor, B 225,
+Okhla Inds Area Ph I
+Near Crown Plaza
+New D e lhi - 110020
+Mis. Laldash &Co.
+C hartered Accountants
+Plot No : 1882 ,2nd Floor,
+N ilakantha Nagar, U nit-8, Nayapally
+Bhubaneswar - 75 10 12
+Mis. Laxminiwas &Co.
+C hartered Accountants
+Floor No 4, Flat No 6-3-569,
+Opp RTA office,
+Above BMW Showroom
+Hyderabad - 500082
+INDEPEN DENT AUDITORS' L I M ITED REVIEW REPORT ON THE UNAUDITED STANDALONE
+FINANCIAL RESULTS FOR THE QUARTER AND SIX MONTH ENDED 301h SEPTEMBER 2026
+To
+The Board of Directors,
+NTPC Lim ited,
+New Delhi.
+I. We have reviewed the accompanying statement of Unaudited Standalone Financial Results of NTPC
+Lim ited (''the Company") fo r the q uarter and Six Month ended 301" September 2026 ("the Statement")
+being submitted by the Company pursuant to the requirements of Regulation 33 and Regulation 52 of
+the SEBI (Listing Ob ligations and Disclosure Requirements) Reg ulations, 2015 ("the Regula ti ons")
+as amended.
+2. The Statement, which is the responsibility of the Company's Management and approved by the
+Company's Board of Directors, has been prepared in accordance w ith the recognition and measurement
+principles laid down in the Indian Accounting Standard 34 "Interim Financial Reporti ng" (" Ind AS
+34 "), prescri bed under Sectio n 133 of the Companies Act, 20 13 as amended read w ith relevant rules
+iss ued thereunder and other accounting pri nciples genera lly accepted in India. Our responsi bility is to
+exp ress a conclusion on the Statement based on our review.
+3. We cond ucted o ur review of the Statement in accordance with the Standard on Review Engagement
+(S RE) 24 10, "Review of Interim Financial Information Pe,formed by the Independent Auditor of the
+Entity ", issued by the Institute of Chartered Accountants of India. This standard requires that we plan
+and perform the review to obtain moderate assurance as to whether the Statement is free of material
+misstatement. A review of interim financial information consists of mak ing inquiries, primari ly of
+persons responsible for financial and accounti ng matters, and applying analytical and other review
+procedures. A review is substantially less in scope than an audit conducted in accordance w ith
+Standards on A uditing and consequently does not enable us to obtain assurance that we wou ld become
+
+[page 10]
+aware of all significant matters that mig ht be identified in an audit. Accordingly, we do not express an
+audit opinion.
+4. Other Matter
+The financial results of the quarter ended 30th June 2026, six months ended 30 September 2025 and
+financial year ended 31st March 2026 were reviewed/audited by predecessor auditors and they have
+issued unmod ified conclusion/opinion.
+5. Based on our review cond ucted as above, nothing has come to our attention that causes us to believe
+that the accompahying Statement read with notes thereon, prepared in accordance with applicable
+Indian Accounting Standards specified under Section 133 of the Companies Act, 2013 read with
+relevant ru les issued thereunder and other recognised accounting practices and policies, has not
+disclosed the infonnation required to be d isclosed in terms of the Regulations, including the manner
+in which it is to be disclosed, or that it contains any material misstatement.
+For P S D &Associates
+Chartered Accountants
+FRN-004501C ~~111:t::.....
+Partner
+M. No. 072332
+UDIN: 26072332KTDPHU5346
+Place: New Delhi
+Dated: 3 1'1 October 2026
+Vijay Totapally
+Partner
+M. No. 200089
+UDIN: 26200089 IWFQZW4056
+For Laldash &Co
+
+[page 11]
+NTPC LIMITED
+Regd Office: NTPC Bhawan, SCOPE Complex, 7 Institutional area, Lodhi Road, New Delhi -11 0003
+CIN-L401 01 DL 1975GOI007966, website: www.ntpc.co.in
+STATEMENT OF UNAUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTE R AND SIX MONTHS ENDED
+30 SEPTEMBER 2026
+SI. Particulars
+No.
+2
+1 Income
+(a) Revenue from oporations
+(b) Other income
+Total Income (a+b)
+2 Expenses
+(a) Fuel cost
+(b) Electncity purchased for trading
+(c) Employee benefit s expense
+(d) Finance costs
+(e) DepreaatJOll, amort,sat,on and impairment expense
+(f) Olher expenses
+Total expenses (a+b+c+d+e+f)
+3 Profit before tax, Regulatory deferral account balances
+and Share of profit of joint ventures accounted for
+using equity method (1-2)
+4 Share or profits/(loss) or joint venlures accounted for using
+equity melhod
+5 Profit before tax and regulatory deferral account
+balances (3+4)
+6 Tax expense
+(a) Current tax
+(b) Deferred tax (Refer Nole 5)
+Total tax expense (a+b)
+7 Profit before regulatory deferral account balances (5...fi)
+8 Net movement in regulalory deferral account balances (net
+or lax) (Refer Note 6)
+9 Profit for the pertod (7+8)
+10 Other co mprohonslvo Income
+(1) Items that will nol be reclassified 10 profit or loss
+(a) Net actuanal gains/(losses) on defined benefit
+plans
+(b) Net ga,ns/(losses) on fair value or equ,ty
+mstruments
+(c) Share of othor comprehensive income of pint
+ventures accounted for under the equity method
+(II) Income tax on 11ems that will not be reclassified to
+profit °' loss
+(a) Net actuanal ga,ns/(losses) on defined benefit
+plans
+(b) Share or olher comprehensive income of join!
+ventures accounled f0< us,ng the equ,ty method
+(u1) Items that will be reclass,fled to profit 0< loss
+(a) Exchange differences on translation or foreign
+operations
+(b) Net movement ,n cost and effective portJ0/1 or cash
+rtowhcdgos
+(1v) Income tax on ,toms that will be reclassified to profit 0<
+loss
+Other comprehensive Income for the pertod (net of
+tax) [(ll+(ll)+(lll)+(lv)J
+11 Total comprehenslvo lncomo for the pertod (9+10)
+12 Profit attributable to owners or the parent company
+13 Profit attributable to rJ011.control1ng interest
+14 Other comprehens,vo income attnbutable to owners or the
+parent company
+15 Other comprehens,ve income altnbutable to non controlling
+interest
+Qu1rter ended Quarter ended Quarter ended Six months
+30.09.2026 30.06.2026 30.09.2025 ended
+(Unaudited) (Unaudited) (Unaudited) 30.09.2026
+3
+54269 95
+445 74
+54715.69
+2862819
+1066.44
+1811 58
+4086 43
+5329 78
+7136 88
+48059. 30
+6656. 39
+625.04
+7281.43
+1308.77
+558 07
+1866 84
+5414. 59
+1936.20
+7350.79
+(62.01)
+(3051)
+939
+22 24
+40 75
+012
+(0.01)
+(20.03)
+7330.76
+7029 56
+321 23
+(1936)
+(067)
+4
+50740.96
+400.55
+51141.51
+25394.77
+1710.22
+1713.10
+3386 04
+5233 70
+5692.28
+43130. 11
+8011.40
+628.23
+8639.63
+1467.74
+795.51
+2263 25
+6376. 38
+520.06
+6896.44
+(63.62)
+28.12
+(13.74)
+1.61
+( 14.96)
+(026)
+0.03
+(62.82)
+6833.62
+6721.05
+17539
+(6212)
+(0.70)
+:,
+44784.05
+478.05
+45262. 10
+23062 34
+1505.64
+1580.41
+3432.46
+4815.50
+5821 .68
+40218.03
+5044.07
+580.10
+5624. 17
+1086 79
+989.23
+2076.02
+3548.15
+1677.15
+5225.30
+(69.89)
+(15.96)
+(0.23)
+12.21
+90.68
+000
+0.00
+16.81
+5242. 11
+5066.78
+15852
+1675
+006
+(Unaudited)
+105010 91
+84629
+105857.20
+54022 96
+2776 66
+3524 68
+7472 47
+1056348
+1282916
+91189.41
+14667.79
+1253.27
+15921.06
+2776.51
+1353.58
+4130 09
+11790.97
+2456.26
+14247.23
+(12563)
+(2 39)
+(4 35)
+2385
+25.79
+(014)
+0.02
+(82.85)
+14164.38
+13750.61
+49662
+(81 48)
+(1.37)
+Six months
+ended
+30.09.2025
+(Unaudited)
+I
+91848 40
+1234 81
+93083. 21
+48035 38
+2878.57
+3164,76
+6899 98
+9402 50
+12376.78
+82757.97
+10325.24
+1056.67
+11381.91
+1989.47
+1743 15
+3732 62
+7649.29
+3684 47
+11333.76
+(139.73)
+4 68
+084
+24 41
+74 40
+0.00
+000
+(35.40)
+11298. 36
+11077.38
+256.38
+(3552)
+0.12
+, Cr0<e
+Year ended
+31.03.2026
+(Audited)
+187378 73
+241 9.83
+189798.56
+9248984
+5752.63
+6986 28
+13800 89
+19629 33
+2687013
+165529. 10
+24269.46
+286410
+271 33. 56
+4533 79
+(741 0 21)
+(2876 42)
+30009.98
+(2464.22)
+27545.76
+(174 40)
+(4 80)
+30 47
+(007)
+188.36
+2 24
+(0 24)
+41.56
+27587.32
+27052 52
+493 24
+42 33
+(077)
+
+[page 12]
+SI.
+No.
+Particulars
+16 Earnings per equity share (of ,101- each)· (not annualised)
+(oncludong net movement on regulatOI}' deferral account
+balances) Basoc and Diluted (on')
+17 Earnings per equity share (of , 101- each) • (not
+annuahsed) (excluding net movement in regulatory deferral
+account balances) Bas,c and Diluted (on ' l
+18 Paod-up equtty share cap,tal
+(Face value of share, 101- each)
+19 Paod-up debt capital'
+20 Other equrty excluding revaluation reserve
+21 Net worth"
+22 Debenture redemption reserve
+23 Cap,tal redemption reserve
+24 Oebt equrty ratoo (Paid-up debt cap,tal I Sharehokle(s
+Equity)
+25 Debt service coverage ra tio ((Profit for the period+Finance
+costs+ Deprecoatoon and amortisation)/ (Finance costs +
+lease payments+Scheduled pnnapal repayments of roon
+current borrow,ngs)I
+26 Interest service coverage ratio ((Profit for the period +
+Finance costs+ Oeprec,att0n and amortisation)/ Finance
+costs))
+27 Current ratoo (Current assets/ Current liabohtoes)
+28 Long term debt to worlong capital ratoo ( roon current
+borrow,ngs oncludong current matunty of non current
+borrowings I (worlong cap,tal+current matuntoes of non
+current borrowings))
+29 Bad debts to account receivable rat,o (Bad debts I
+Average Trade rece,vables)
+30 Current loaboloty ratoo (Current habtlotoes I (Non current
+loabthtoes + Current loabohtoes)
+31 Total debts to total assets ratio (Paid up debt cap11a1I Total
+assets)
+32 Debtors turnover ratoo (Revenue from operatoons I Average
+trade receivables) • Annualised
+33 lnventOI}' tumover ratio (Revenue from operations I
+Average inventOI}') • Annuahsed
+34 Operating margin (%) (Eamings before interest and tax I
+Revenue from operations)
+35 Net profit margin (%) (Profit for the period I Revenue from
+operations)
+1 Composes non current borrowmgs and current borrowmgs
+Quarter ended
+30.09. 2026
+(Unaudited)
+3
+7 25
+525
+969667
+275633.68
+203774 77
+213296.23
+2294 93
+197 89
+129
+2 27
+4.10
+088
+27 63
+031
+048
+514
+1400
+2338
+13 54
+• Excluding Fly ash ut1hzatoon reserve and items of Other comprehensive income
+See accomoanvino notes to tho unaudited consolidated financial results
+Quarter ended
+30.06.2026
+(Unaudited)
+4
+693
+6.39
+9696.67
+272081.67
+200147.99
+209681.57
+2730 21
+197 89
+130
+1.43
+4.58
+087
+3195
+0.33
+0.48
+5.08
+11.39
+2383
+1359
+Quarter ended
+30.09.2025
+(Unaudited)
+5
+5.23
+3.50
+9696 67
+252196 58
+182338.15
+190614.11
+2824.89
+197.89
+1.31
+2.50
+3.93
+0.87
+15.94
+031
+047
+557
+9.98
+21.99
+1167
+Six months
+ondod
+30.09.2026
+(Unaudited)
+6
+1418
+11 65
+9696 67
+275633 68
+203774 77
+213296.23
+2294 93
+197 89
+1 29
+177
+4 32
+088
+27 63
+031
+048
+5.31
+12.84
+23.60
+1357
+Si x months
+ended
+30.09.2025
+(Unaudited)
+I
+11 42
+7.62
+969667
+252196 58
+18233815
+190614.11
+2824 89
+197 89
+131
+2.59
+4.01
+087
+1594
+0 31
+0 47
+552
+1033
+22 40
+12.34
+Year ended
+31.03.2026
+(Audited)
+s
+27.90
+3044
+9696 67
+267258.20
+193479 00
+203023.74
+2705 61
+197 89
+132
+1.23
+4 42
+0 82
+39 48
+033
+048
+5 20
+1002
+2361
+14 70
+
+[page 13]
+CONSOLIDATED STATEMENT OF ASSETS AND LIABILITIES
+~ crore
+SI. Particulars As at As at
+No. 30.09.2026 31 .0 3.2026
+(Unaudited\ IAuditedl
+A ASSETS
+1 Non-current assets
+(a) Property, plant and equipment 321581.80 317671 .46
+(b) Capital work-in-progress 91394.02 84832.76
+(c) Intangible assets 1023.70 1025.24
+(d) Intangible assets under development 164.81 124.11
+(e) Investments accounted for using the equity method 24691.22 23555.11
+(f) Financial assets
+(i) Investments 547.49 574.88
+(ii) loans 761 .61 766.26
+(iii) Trade receivable 586.24 665.51
+(iv) Other financial assets 801.97 471.60
+(g) Deferred tax assets (net) 417.39 589.52
+(h) Other non-current assets 19735.71 19030.66
+Sub-total - Non-current assets 461705.96 449307.11
+2 Current assets
+(a) Inventories 14046.95 18662.62
+(b) Financial assets
+(i) Investments 50.00 50.00
+(ii) Trade receivables 41252.60 36616.27
+(iii) Cash and cash equivalents 2459.86 1399.30
+(iv) Bank balances other than cash and cash equivalents 5303.36 6604.38
+(v) loans 1945.34 1845.16
+(vi) Other financial assets 22019.87 19847.64
+(c) Current tax assets (Net) 156.68 184.03
+(d) Other current assets 10666.55 9138.11
+Sub-total - Current assets 97901 .21 94347.51
+3 Asset held for sale 161.23 160. 27
+4 Regulatory deferral account debit balances 17594.48 14828.67
+TOTAL - ASSETS 577362.88 558643.56
+B EQUITY AND LIABILITIES
+1 Equity
+(a) Equity share capital 9696.67 9696.67
+(b) Other equity 203774.77 193479.00
+! Total equity attributable to the owners of the parent 213471.44 203175.67
+Non controlling interests 8375.56 7977.39
+Sub-total - Total equity 221847.00 211153.06
+2 Liabilities
+(i) Non-current liabilities
+(a) Financial liabilities
+(i) Borrowings 217883.97 207663.70
+(ii) lease liabilities 3573.72 3490.33
+(iii) Other financial liabilities 1745.34 1530.39
+(b) Provisions 2635.15 2531 . 18
+(c) Deferred tax liabilities (net) 11693.70 10567.88
+(d) Other non-current liabilities 4214.39 3953.87
+Sub-total - Non-current liabilities 241746.27 229737.35
+(ii) Current liabilities
+(a) Financial liabilities
+(i) Borrowings 57749.71 59594.50
+(ii) lease liabilities 318.85 256.05
+(iii) Trade payables
+- Total outstandin;:i dues of micro and small enterprises 781 .05 949.00
+- Total outstanding dues of creditors other than micro and 8903.93 10802.92
+small enterprises
+(iv) Other financial liabilities 32488.89 33404.45
+(b) Other current liabilities 2853.39 2227.09
+(c) Provisions 7527.99 7243.38
+(d) Current tax liabilities (net) 104.61 30.60
+Sub-total - Current liabilities 110728.42 114507.99
+3 Deferred revenue 2561.12 2617.12
+4 Regulatory deferral account credit balances 480.07 628.04
+TOTAL - EQUITY AND LIABILITIES 577362.88 558643.56
+
+[page 14]
+~
+~
+CONSOLIDATED SEGMENT-WISE REV ENUE, RESULTS, ASSETS AND LIABILITIES FOR THE QUARTER AND SIX MONTHS ENDED 30 SEPTEMBER 2026
+SI. Particulars Quarter ended Quarter ended Quarter ended Six months Six months
+No. 30.09.2026 30.06.2026 30.09.2025 ended ended
+(Unaudited) (Unaudited) (Unaudited) 30.09.2 026 30.09.2025
+11 ·- -· . ..... ,,.. __... "'-···""orl\
+1 2 3 4 5 6 7
+1 Segment revenue
+- Generation 53257.99 49143.35 43501 .91 102401 .34 89404.05
+-Others 7349.32 6618.64 4922.73 13967.96 9816.27
+- Unallocated 124.70 100.19 48.17 224.89 432.44
+- Less: Inter segment elimination 6016.32 4720.67 3210.71 10736.99 6569.55
+Total 54715.69 51141 .51 45262.10 105857.20 93083.21
+2 Segment results
+Profit before interest and t ax (including regulato ry
+deferral account balances)
+- Generation 9212.36 10548.80 8175.63 19761 .16 16394.37
+-Others 1674.81 899.56 260.30 2574.37 795.07
+Total 10887 .17 11448.36 8435.93 22335 .53 17189.44
+Add:
+(i) Share of net profits/(loss) of joint ventures accounted for
+using equity method 625.04 628.23 580.10 1253.27 1056.67
+Less:
+(i) Finance costs 4086.43 3386.04 3432.46 7472.47 6899.98
+(ii) Other unallocated expenditure net of unallocable income 144.35 50.92 (40.60) 195.27 (35.76)
+Profit before tax 7281.43 8639.63 5624.17 15921.06 11381 .91
+Less: Total tax expense 1866.84 2263.25 2076.02 4130.09 3732.62
+Add: Net movement in regulatory deferral account balances 1936.20 520.06 1677.15
+(net of tax) (Refer Note 5) 2456.26 3684.47
+Profit for the year 7350.79 6896.44 5225.30 14247.23 11333.76
+3 Segment assets
+-Generation 532909.14 527275.17 490367.45 532909.14 490367.45
+-Others 28114.03 26448.85 21699.87 28114.03 21699.87
+- Unallocated 19129.14 19497.62 27413.25 19129.14 2741 3.25
+- Less: Inter segment elimination 2789.43 2170.96 816.36 2789.43 816.36
+Total 577362.88 571050 .68 538664.21 577362.88 538664.21
+4 Segment liabilities
+- Genera tion 63805.45 65530.85 63534.81 63805.45 63534.81
+-Others 11208.69 10416.03 7349.15 11208.69 7349.15
+- Unallocated 291666.73 287430. 10 276561 .79 291666.73 276561.79
+- Less:lnter segment elimination 2789.43 2170.96 81 6.36 2789.43 816.36
+Total 363891.44 361206.02 346629.39 363891.44 346629.39
+The operations of the Group are mainly carried out within the country and therefore, there is no reportable geographical segment.
+t crore
+Year ended
+31.03.2026
+(Audited)
+8
+182610.35
+19415.99
+656.50
+12884.28
+189798.56
+36345.44
+1162.21
+37507.65
+2864.10
+13800.89
+(562.68)
+271 33.54
+(2876.42)
+(2464.22)
+27545.74
+524919.71
+24536.19
+10009.14
+821.48
+558643.56
+65371.05
+9554.75
+281363.57
+821.48
+355467.89
+
+[page 15]
+CONSOLIDATED STATEMENT OF CA SH FLOWS ~ crore
+Particulars Six month s Si x mo nths Year ended
+ended ended 31.03.2 026
+30.09.2026 30.09.2025 (Audited)
+11 1-~.. ·m o rl l 111- ~· ·""- "'
+A. CASH FLOW FROM OPERATIN G ACTIVITIES
+Profit b efore tax and r e!lulatory deferr al account balances 15921.06 11381 .91 27 133.56
+Add: Net movement in regulatory deferral account balances (net of tax) 2456.26 3684.47 (2464.22)
+Add: Tax on net movement in re gulatory deferral account balances 513.10 766.58 (540.97)
+Profit before tax i n cluding movem ents in regulatory deferral a ccount balances 18890.42 15832.96 241 28.37
+Adjustment for:
+Depreciation, amortisation and impairment expense 10 563.48 9402.50 19629.33
+Provisions 11 46.4 7 351 .25 1106.84
+Share of net profits of joint ventures accounted for using equ ity method (1253.27) (1056.67) (2864.10)
+On account of government grants (86.16) (65.36 ) (147.83)
+Deferred foreign currency fluctuation a sset 28.22 (177.21 ) 610.90
+Deferred income from foreign currency fluctuation 25.60 234.03 259.66
+Regulatory deferral account debit/(credit) balances including derivative MTM(gain)/loss (2969.36) (4451.05) 3005.19
+Fly ash utilisation reserve fund - 151.56 (764.15)
+Finance costs 7357.72 6814.87 13652.75
+Unwinding of discou nt on vendor liabilities 114.75 85.11 148.14
+Loss on fair valuation of non-current trade receivables at amortized cost 0.00 0.00 89.90
+Interest income/Late payment Surcharge/Gain on sale o f investments (275.52) (367.46) (1071.62)
+Dividend income (28.19) (14.04 ) (18.14)
+Provisions written back (14.34) (163.00) (208.00)
+Gain on option contract/hedging (1 .13) (0.9 5) (11.05)
+Other non cash miscellaneous income (7.45) (2.68) (33.18)
+Profit on de-recognition of property, plant and equip ment (17.51) (4.57) (5.19)
+Loss on de-recognition of property. plant and equip ment 106.06 127.3 3 256.18
+14689.37 10863.66 33635.63
+Operating profit before working capital changes 33579.79 26696.62 57764.00
+Adjustment for:
+Trade receivables (4530.29) 3030.32 (2369.30)
+Inventories 5408.98 2599.21 1482.1 0
+Trade payables, provision s, other fin ancial liabilities and o ther liabilities (1706.40) (637.55) 482.31
+Loans. other financial assets and o ther assets (4092.381 (5677.36) (2873.1 81
+(4920.091 1685.38) 13278.071
+Cash generated from operations 28659.70 26011.24 54485.93
+Income taxes (paid) / refunded 121 17.581 11532.60) 13584.22)
+Net ca sh from/(used in) oper ating activities - A 26542.12 24478.64 50901.71
+B. CASH FLOW FROM INVESTING ACTIVITIES
+Purchase of property, plant and equipment & intangible assets (211 46.35) (18412.87) (44049.78)
+Proceeds of property, plant and equipment & intangible assets 24.25 27.41 42.91
+Redemption of non-convertible debentures 25.00 25.00 50.00
+Investment in joint venture companies 12.14 647. 17 295.38
+Interest income/Late payment Surcharge/Gain on sale of investments 250.36 432.22 932.51
+Government grant received 177.85 57.35 295.94
+Dividend received from other investmen ts 28.19 14.04 18.14
+Income tax paid on income from investing activities (249.05) (230.02) (499.82)
+Bank balances other than cash and cash equ ivalents 1299.4 1 4148.61 3314.11
+Net cash fro ml (use d in ) investing activities - B 119578.20 1 13291.09) 139600.61)
+C. CASH FLOW FROM FINANCING ACTIVITIES
+Proceeds from non -current borrowings 16133.57 18078.64 4 2132.61
+Repayment of non-current borrowings (1 1766.28) (12719.54) (35582.51)
+Proceeds I repayment of current borrowings (Net) 2745.28 (3724.37 ) 8617.20
+Payment of lease liabilities (155.29) (1 43.01) (209.72)
+Gain on option contract I hedging 1.13 0.95 1 1.05
+Interest paid (9311 .05) (8555.76) (17537.73)
+Dividend paid 13550.72 13387.10) (8759.261
+Net cash f roml(u sed in) finan cing act ivities - C 15903.36 110450.19) (1 1328.361
+Net increase/(decrease) in cas h and cash equ ival ent s (A+B+C) 1060.56 737.36 (27.26)
+Cash and cash equivalents at the b eginni ng of the y ear 1399.30 1426.56 1426.56
+Cash and cas h equivalents at t h e end o f the perio d / year 2459.86 2163.92 1399.30
+
+[page 16]
+Notes to Unaudited Consolidated Financial Results:
+The above consolidated financial results of NTPC Limited (the ' Company' or 'Holding Company') and its Subsidiaries (the Holding Company and its Subsidiaries
+together referred to as 'the Group') and its Joint Ventures, have been reviewed by the Audit Committee of the Board of Directors in their meeting held on 31 October
+2026 and approved by the Board of Directors in their meeting held on the same date.
+2 The Joint Statutory Auditors of the Company have carried out the limited review of these consolidated financial results as required under Regulation 33 and 52 of the
+Secunties and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations,2015, as amended.
+3 The subsidiary and joint venture companies considered in the consolidated financial results are as follows:
+a) Subsidiary Companies Ownersh ip (%)
+1 NTPC Electric Supply Company ltd. 100.00
+2 NTPC Vidyut Vyapar Nigam ltd. 100.00
+3 Bhartiya Rail Bijlee Company Ltd. 74.00
+4 Patratu Vidyut Utpadan Nigam ltd. 74.00
+5 North Eastern Electric Power Corporation ltd. 100.00
+6 THDC India Limited 74.496
+7 NTPC Mining ltd. 100.00
+8 NTPC Energy and Waste Solutions ltd.(Formerty NTPC EDMC Waste Solutions Pvt.ltd.) 100.00
+9 Ratnagiri Gas and Power Private Ltd. 86.49
+10 NTPC Green Energy Limited 89.01
+11 NTPC Parmanu Urja Nigam ltd. 100.00
+b) Joint Vent ure Companies
+1 Utility Powertech Ltd. 50.00
+2 NTPC GE Power Services Private Ltd. 50.00
+3 NTPC SAIL Power Company Ltd. 50.00
+4 NTPC Tamilnadu Energy Company Ltd. 50.00
+5 Aravali Power Company Private Ltd. 50.00
+6 Meja Urja Nigam Private ltd. 50.00
+7 NTPC BHEL Power Projects Private Ltd. 50.00
+8 National Hioh Power Test Laboratorv Private ltd 12.50
+9 Transformers and Electricals Kerala Ltd. 44.60
+10 Energy Efficiency Services Ltd. 39.252
+11 CIL NTPC Urja Private ltd. 50.00
+12 Anushakti Vidhyut Nigam ltd. 49.00
+13 Hindustan Urvarak and Rasayan ltd. 29.67
+14 Jhabua Power Limited 50.00
+15 Sinnar Thermal Power ltd. 50.00
+16 Trincomalee Power Company ltd. (Incorporated in Srilanka) 50.00
+17 Banaladesh-lndia Friendshio Power Camoanv Private ltd. llncoroorated in Banaladesh) 50.00
+Note:
+(i) The Company has signed an agreement wrth Municipal Corporation of Delhi (MCD) and NTPC EDMC Waste Solutions Private Limited (NEWS) on 7 May 2026 for
+termination of Joint Venture Agreement dated 11 June 2019 and acquisition of MCD's 26% shareholding in NEWS. With this acquisition, NEWS has become the
+wholly-owned subsidiary of the Company and the name of the Company has been changed to NTPC Energy and Waste Solutions Ltd ..
+(ii) The Company has incorporated NTPC (Mauritius) Energy Limited, a wholly owned subsidiary, in Mauritius on 26 June 2026. There are no transactions in the
+subsidiary during the year and investment in the subsidiary is yet to be made by the Company.
+4 a) (i) CERC notified The Central Electricity Regulatory Commission (Terms and Conditions of Tariff) Regulations, 2024 vide Notification dated 15 March 2024
+(Regulations, 2024) for determination of tariff for the tariff period 2024-2029. Pending issue of provisionaUfinal tariff orders, capacity charges with effect from 1 April
+2024 are billed to beneficiaries in accordance with the tariff approved and applicable as on 31 March 2024, as provided in Regulations. 2024.ln case of projects
+declared commercial on or after 1 April 2024 and projects where tariff order as on 31 March 2024 are pending from CERC. billing is done based on capacity charges
+as filed with CERC in the tariff petitions.
+Accordingly, capacity charges provisionally billed for the quarter and six months ended 30 September 2026 is f 15,186.74 crore and f 31 ,505.57 crore
+respect,vely (Previous quarter and six months ended 30 September 2025: f f 15,518.94 crore and f 30,408.44 crore respectively).
+Energy and other charges are billed as per the norms specified in the CERC Regulations 2024. Accordingly, energy charges have been billed for the quarter and six
+months ended 30 September 2026 is f 26,318.38 crore and f 50,942.76 crore respectively (Previous quarter and six months ended 30 September 2025: f
+23,005 83 crore and f 47,640.71 crore respectively)
+(ii) Capacity charges for the quarter and six months ended 30 September 2026 have been provisionally recognized considering the provisions of CERC Tariff
+Regulat,ons amounting to f 17,886.14 crore and f 35,908.51 crore respectively (Previous quarter and six months ended 30 September 2025:f 16,944.24 crore and
+f 33,647.76 crore respectively). Energy and Other charges for the quarter and six months ended 30 September 2026 have been recognized at f 30,215.35 crore
+and f 55,845.33 crore respectively (Previous quarter and six months ended 30 September 2025: f 24,039.42 crore and f 50.0 12.61 crore respectively) as per the
+norms specified in the Regulations 2024.

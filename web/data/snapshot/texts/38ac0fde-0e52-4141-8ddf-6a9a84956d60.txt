@@ -1,0 +1,586 @@
+[page 1]
+~
+~
+Ref. No.: FA/ISD/Compliance/26-27/02
+Listing Department
+National Stock Exchange of India Limited
+'Exchange Plaza', C-1, Block G, Sandra Kurla Complex,
+Sandra (E), Mumbai - 400 051.
+Scrip Code - NTPC
+ISIN: INE733E01010
+Sub: Outcome of Board Meeting including
+• submission of financial results;
+- declaration of interim dividend & record date; and
+l!.,c!/ttld/ ff;,[1,es
+(Wffl ~ qf( ~ )
+NTPC Limited
+(A Govt. of India Enterprise)
+~ ~ / Corporate Centre
+Dated: 31 October 2026
+Department of Corporate Services,
+BSE Limited, Rotunda Building,
+P J Towers, Dalal Street, Fort,
+Mumbai - 400 001 .
+Scrip Code - 532555
+- disclosure for debt-securities for the quarter and half year ended 30 September 2026.
+Dear Sir/Madam,
+Pursuant to the applicable provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015
+("Listing Regulations"), we wish to inform that the Board of Directors of NTPC Limited at its meeting held on Saturday,
+31 October 2026 has, inter alia:
+1. approved the Unaudited Standalone and Consolidated Financial Results for the quarter and half year ended
+30 September 2026, as recommended by the Audit Committee at its meeting held on 31 October 2026. The said
+Financial Results duly signed by Director (Finance ), a whole-time director of NTPC Limited, along with the
+Limited Review Reports of the Statutory Auditors thereon , are enclosed as Annexure-A.
+2. declared the First Interim Dividend at the rate of 30% (t3 per equity share) on the face value of ~10/- each
+for the Financial Year 2026-27.
+Further, the Company nas fixed 6 November 2026 as the "record date" for the purpose of payment of 1st Interim
+Dividend for Financial Year 2026-27. The dividend shall be paid within statutory period commencing from 25 November
+2026 onwards. Further, pursuant to the provisions of the Income Tax Act, 2025 as amended by Finance Act, 2026 w .e.f.
+1 April 2026, in relation to the taxation of dividend, shareholders are being requested to refer to the communication
+uploaded for all the shareholders/prospective shareholders on NTPC website under the tab Investors at below link:
+ntpc.co.in/investor/investor-services/important-communication-shareholders
+Further, with respect to debt-securities, the following are also enclosed:
+a) disclosures under Regulation 52, including the Statement of Utilisation of Issue Proceeds/Statement of Deviation
+or Variation under Regulations 52(7) and 52(7 A) of Listing Regulations, as applicable, for the quarter ended 30
+September 2026; and
+b) Security Cover Certificate and related certificates/disclosures duly signed by the Statutory Auditor, as applicable,
+pursuant to Regulation 54 read with Regulation 56(1 )(d) of Listing Regulations.
+The Board Meeting commenced at I ;I: I <l \')."Mand concluded at t: 55 P."""
+Thanking you
+y~
+(Ritu Arora)
+Company Secretary & Compliance officer
+Encl.: As Above
+~ ~ : q.:ie'lti~'8'1 1fcf'f, ~ c/il"'l~cffl. 7, :1-fe'lc;1~1-1<1 ~ . ~ ~ ~ ~-110003
+~ ~ ~: L401010L1975GOI007966, ~ ";J.: 011-24387333, ~ ";J.: 011-24361018, ~ : ntpccc@ntpc.co.in, ~: www.ntpc.co.in
+Registered Office : NTPC Bhawan, SCOPE Complex, 7 Institutional Area, Lodi Road, New Delhi-110003
+Corporate Identification Number : L401 01DL 1975GOI007966, Telepho ne No.: 011-24387333, Fax No.: 011 -24361 018, E-mail : ntpccc@ntpc.co.in
+Website : www.ntpc.co.in
+
+[page 2]
+A. FINANCIAL RESULTS
+NTPC LIMITED
+Regd Office: NTPC Bhawan, SCOPE Complex, 7 Institutional area, Lodhi Road, New Delhi -1 10003
+CIN-L40101 DL 1975GOI007966, website: www.ntpc.co.in
+STATEMENT OF UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER AND SIX MONTHS ENDED
+30 SEPTEMBER 2026
+SI. No. Particulars
+Income
+(a} Revenue from operations
+(b) Other income
+Total Income (a+b)
+2 Expenses
+(a) Fuel cost
+2
+(b) Electricity purchased for trading
+(c) Employee benefits expense
+(d) Finance costs
+(e) Depreciation, amortisation and impairment expense
+(f) Other expenses
+Total expenses (a+b+c+d+c+f)
+3 Profit be fore tax and regulatory deferral account balances
+11-2)
+4 Tax expense:
+(a) Current tax
+(b) Deferred tax (Refer Note 4)
+Total ta,c expense (a+b)
+5 Profit before regulatory deferral account balances (3-4)
+6 Net movement in regulatory deferral account balances (net of
+tax) (Refer Note 5)
+7 Profit for the period (5+6)
+8 Other comprehensive Income
+(i) Items that will not be reclassified to profit or loss
+(a) Net actuarial gainsl(losses) on defined benefit plans
+(b) Net gains/{losses) on fair value of equity instruments
+(ii) Income ta,c on items that will not be reciassified to profit or
+loss
+(a) Net actuarial gains/(losses) on defined benefit plans
+Other comprehensive income for the pe riod (net of tax)
+9 Total comprehensive income for the period (7+8)
+10 Earnings per equity share (of , 101- each) • (nol annualised)
+(including net movement in regulatory deferral account
+balances): Basic and Diluted (in')
+11 Earnings per equity share (of , 10/- each) - (not annualised)
+(excluding net movement in regulatory deferral account
+balances): Basic and Diluted (in , ,
+12 Paid-up equity share capital
+(Face value of share, 10/- each)
+13 Paid-up debt capital'
+14 Other equity excluding revaluation reserve
+15 Networth"
+16 Debenture redemption reserve
+!
+Quarter ended Quarter ended Quarter ended
+30.09.2026 30.06.2026 30.09.2025
+(Unaudited) (Unaudited) (Unaudited)
+3
+45752.00
+1089.54
+46841 .54
+26469.68
+993.10
+1447.28
+2913.59
+4057.05
+5951 .29
+41831 .99
+5009.55
+1093.48
+334.65
+1428. 13
+3581.42
+1738.52
+5319.94
+(58.43)
+(30.51)
+21.34
+(67.60)
+5252.34
+5.49
+3.69
+9696.67
+189627.19
+172339.88
+181861 .88
+1127.92
+43831.86
+680.55
+44512.41
+24081.67
+1054.65
+1359.06
+2359.15
+4071.47
+4707.61
+37633,61
+6878.80
+1350.13
+447.93
+1798.06
+5080.74
+261 .62
+5342.36
+(58.40)
+28.12
+0.71
+(29.57)
+5312.79
+5.51
+5.24
+9696.67
+190406.42
+170481.37
+179972.86
+1353.26
+39164.82
+1524.54
+40689.36
+22013.84
+868.07
+1308.63
+2661 .76
+3993.42
+4956.57
+35802.29
+4887.07
+872.41
+771 .33
+1643.74
+3243.33
+1410.00
+4653.33
+(63.35)
+(15.96)
+11.07
+(68.24)
+4585.09
+4.80
+3.34
+9696.67
+186066.52
+158161 .90
+166335.09
+1759.30
+Six months
+ended
+30.09.2026
+(Unaudited)
+6
+89583.86
+1770.09
+91353.95
+50551.35
+2047.75
+2806.34
+5272.74
+8128.52
+10658.90
+79465.60
+11888.35
+2443.61
+782.58
+3226.19
+8662.16
+2000.14
+10662.30
+(116.83)
+(2.39)
+22.05
+(97.17)
+10565.13
+11 .00
+8.93
+9696.67
+189627. 19
+172339.88
+181861.88
+1127.92
+Six months
+ended
+30.09.2025
+(Unau dited)
+81736.43
+2285.74
+84022.17
+45939.96
+1844.00
+2658.58
+5499.99
+7862.47
+10993.36
+74798 .36
+9223.81
+1694.45
+1429.85
+31 24.30
+6099.51
+3328.50
+9428.01
+(126.62)
+4.68
+22. 12
+(99.82)
+9328.19
+9.72
+6.29
+9696.67
+186066.52
+158161 .90
+166335.09
+1759.30
+t crore
+Year ended
+31 .03.2026
+(Audited)
+165487.84
+4236.76
+169724.60
+88605.04
+3800.85
+5843.12
+10442.18
+16030.85
+22445.63
+147167.67
+22556.93
+4057.82
+(7561 .43)
+(3503.61)
+26060.54
+(2898.32)
+23162.22
+(184.73)
+(6.54)
+32.28
+1158.991
+23003.23
+23.89
+26.88
+9696.67
+190109.58
+165168.58
+174688.19
+1587.81
+
+[page 3]
+STATEMENT OF UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER AND SIX MONTHS ENDED
+30 SEPTEMBER 2026
+SI. No. Particulars Quarter ended Quarter ended Q uarter ended Six months Six months
+30.09.2026 30.06.2026 30.09.2025 ended ended
+(Unaudited) (Unaudited) (Unaudited) 30.09.2026 30.09.2025
+(Unaudited) (Unaudited)
+1 2 3 4 5 6 7
+17 Capital redemption reserve 197.89 197.89 197.89 197.89 197.89
+18 Debi equily ratio (Paid-up debt capital / Sharoholde(s Equity) 1.04 1.06 1. 11 1.04 1.11
+19 Debt service coverage ratio [(Profit for the period+Finance 2 .26 1.28 2 .81 1.64 2.85
+costs+ Depreciation and amortisation) I (Finance costs + lease
+payments+Scheduled principal repayments of non current
+borrowings)]
+20 Interest service coverage ratio ((Profit for the period + Finance 4.22 4.99 4.25 4.56 4 .14
+costs+ Depreciation and amortisation)/ Finance costs)]
+21 Current ratio (Current assets/ Current liabilities) 1.03 1.04 0.92 1.03 0 .92
+22 Long term debt to working capital ratio (Non current borrowings 8.14 7.40 8.77 8 .14 8.77
+induding current maturity of non current borrowings / (working
+capital+current maturities of non current borrowings])
+23 Bad debts to account receivable ratio (Bad debts / Average
+Trade receivables)
+24 Current liabihty ratio (Current habilities / (Non current liabihties + 0 .35 0.36 0.33 0.35 0.33
+Current liabilities)
+25 Total debts to total assets ra tio (Paid up debt capital/ Total 0.45 0.46 0.45 045 045
+assets)
+26 Debtors turnover ratio (Revenue from operations/ Average 5.43 5.38 5.99 5.62 599
+trade ree<>ivables} - Annualised
+27 Inventory turnover ratio (Revenue from operations I Average 13.05 10.81 9 .18 12.03 9 .67
+inventory) - Annualised
+28 Operating margin (%) (Earnings before interest and tax I 20. 16 21 .20 21 .15 20.67 20.67
+Revenue from operations)
+29 Net profit margin (%) (Profit for the period/ Revenue from 11.63 12.19 11 .88 11 .90 11.53
+ooerationsl
+i Comprises non current borrowings and current borrowings
+• ExcJuding Fly ash utilization reserve and items of Other comprehensive income
+See accomoanvina notes to the unaudited standalone financial results.
+, aore
+Year ended
+31.03.2026
+(Audited)
+8
+197.89
+1.09
+1.68
+4.75
+0.94
+9.50
+0 .37
+0 .46
+5 .56
+9.48
+21.85
+14.00
+
+[page 4]
+r=JNTPC
+STANDALONE STATEMENT OF ASSETS AND LIABILITIES
+SI. Particulars
+no.
+A ASSETS
+1 Non-current assets
+(a) Property, plant and equipment
+(b) Capital work-in-progress
+(c) Investment property
+(d) Intangible assets
+(e) Intangible assets under development
+(f) Financial assets
+(i) Equity investments in subsidiaries and joint venture
+(ii) Other investments
+(iii) Loans
+(iv) Trade receivables
+(v) Other financial assets
+(g) Other non-current assets
+2 Current assets
+(a) Inventories
+(b) Financial assets
+(i) Investments
+(ii) Trade receivables
+Sub-total - Non-current assets
+(iii) Cash and cash equivalents
+(iv) Bank balances other than cash and cash equivalents
+(v) Loans
+(vi) Other financial assets
+(c) Other current assets
+3 Asset held for sale
+Sub-total - Current assets
+4 Regulatory deferral account debit balances
+As at
+30.09.2026
+(Unaudited)
+206761 .20
+55806.94
+856.37
+451 .05
+74.80
+40196.89
+540.45
+839.59
+530.37
+14289.81
+320347.47
+12698.92
+~ Crore
+As at
+31 .03.2026
+{Audited)
+215983.48
+48276.02
+857.31
+466.55
+27.15
+38110.81
+567.84
+875.56
+0.00
+333.25
+14144.33
+31 9642.30
+17077.61
+50.00 50.00
+32955.77 30780.39
+465.86 679.72
+569.54 2364.34
+10654.83 6162.07
+18169.52 16425.76
+8326.76 8090.15
+83891.20 81630.04
+160.55 159.63
+14818.48 12644.38
+TOTAL-ASSETS~~__;4~1~92~1~7~.7~0+--~-4~1~40~7~6~.3~5
+B EQUITY AND LIABILITIES
+1 Equ ity
+(a) Equity share capital
+(b) Other equity
+2 Liabilities
+(i) Non -current liabilities
+(a) Financial liabilities
+(i) Borrowings
+(ii) Lease liabilities
+(iii) Other financial liabilities
+(b) Provisions
+(c) Deferred tax liabilities (net)
+(d) Other non-current liabilities
+Sub-total - Total equity
+Sub-total - Non-current liabilities
+(ii) Current liabilities
+(a) Financial liabilities
+(i) Borrowings
+(ii) Lease liabilities
+(iii) Trade payables
+- Total outstandin~ dues of micro and small enterprises
+- Total outstanding dues of creditors other than micro
+and small enterprises
+(iv) Other financial liabilities
+(b) Other current liabilities
+(c) Provisions
+(d) Current tax liabilities (net)
+Sub-total - Current liabilities
+3 Deferred revenue
+TOTAL - EQUITY AND LIABI LITIES
+9696.67
+172339.88
+182036.55
+140923.34
+803.83
+1621.25
+967.31
+8792.17
+515.11
+1S36 2 3.01
+48703.85
+98.69
+659.83
+6565.52
+19175.45
+1280.03
+4979.67
+81463.04
+2095.10
+419217.70
+9696.67
+165168.58
+174865.25
+137403.52
+926 .00
+1436.37
+1325.30
+8256.08
+411 .73
+149759.00
+52706.06
+109.13
+839.37
+8140.06
+19429.95
+1273.60
+4757 .09
+87255.26
+2196.84
+414076.35
+
+[page 5]
+STANDALONE SEGMENT-WISE REVENUE, RESULTS, ASSETS ANO LIABILITIES FOR THE QUARTER ANO SIX MONTHS ENDED 30 SEPTEMBER 2026
+~ crore
+SI. Particulars Quarter ended Quarter ended Quarter ended Six months Six months Year ended
+No. 30.09.2026 30.06.2026 30.09.2025 ended ended 31.03.2026
+(Unaudited) (Unaudited) (Unaudited) 30.09.2026 30.09.2025 (Audited)
+(Unaudited) (Unaudited)
+1 2 3 4 5 6 7 8
+1 Segment revenue
+- Generation 44852.22 42912.01 38514.29 87764.23 80292.18 162530.49
+- Others 2286.80 1855.39 3127.93 4142.19 6669.05 12296.51
+- Unallocated 912.23 479.84 1213.87 1392.07 1718.74 3030.77
+- Less: Inter segment elimination 1209.71 734.83 2166.73 1944.54 4657.80 8133.17
+Total 46841.54 44512.41 40689.36 91353.95 84022.17 169724.60
+2 Segment results
+Profit before interest and tax (including regulatory deferral
+account balances)
+- Generation 5929.61 8152.59 6069.83 14082.20 12874.29 29226.35
+-Others 1350.35 756.63 272.70 2106.98 527.43 1342.76
+Total 7279.96 8909.22 6342.53 16189.18 13401.72 30569.11
+Less:
+(i) Finance costs 2.913.59 2.359.15 2661 .76 5272.74 5499.99 10442.18
+(ii) Other unallocated expenditure net of unallocable income (643.18) (328.73) (1206.30 ) (971.91) (1 322.08) (2430.00)
+5009.55 6878.80 4887.07
+Profit before tax and regulatory deferral account balances 11888.35 9223.81 22556.93
+Less: Total tax expense 1428.13 1798.06 1643.74 3226.19 3124.30 (3503.61)
+Add: Net movement in regulatory deferral account balances (net 1738.52 261.62 1410.00 2000.14 3328.50 (2898.32)
+of tax) (Refer Note 5)
+Profit for the period / vear 5319.94 5342.36 4653.33 10662.30 9428.01 23162.22
+3 Segment assets
+- Generation 373693.71 373110.96 357178.98 373693.71 357 178.98 375975.39
+-Others 1101 .73 1027.89 16020.71 1101 .73 16020.71 9018.46
+- Unallocated 44422.26 44054.20 44017.62 44422.26 44017.62 29082.50
+Total 419217.70 418193.05 417217.31 419217.70 417217.31 414076.35
+4 Segment liabilities
+- Generation 33154.45 3371 4.01 36202.01 33154.45 36202.01 33630.28
+-Others 1372.60 1313.25 5028.51 1372.60 5028.51 3541.65
+- Unallocated 202654.10 202987.75 208128.22 202654.10 208128.22 202039.17
+Total 237181 .15 238015.01 249358.74 237181.15 249358.74 239211.10
+The operations of the Company are mainly carried out within the country and therefore. there is no reportable geographical segment.
+
+[page 6]
+STANDALONE STATEMENT OF CASH FLOWS
+f crore
+Particulars Six month s Six months Year ended
+ended ended 31.03.2026
+30.09.2026 30.09.2025 (Audited)
+II .. /l
+A. CASH FLOW FROM OPERATING ACTIVITIES
+Profit before tax and re!lulatorv deferral account b alances 11888.35 9223.81 22556.93
+Add: Net movements in regulatory deferral account balances (net of tax) 2000.14 3328.50 (2898.32)
+Add: Tax on net movements in regulatory deferral account balances 465.39 704.96 (613.61)
+Profit befor e tax including movements in regulatory deferral account balances 14353.88 13257.27 19045.00
+Adj ustment fo r:
+Depreciation.amortisation and impairment expense 8128.52 7862.47 16030.85
+Provisions 1128.50 322.1 5 978.83
+Impairment on investments(net) 55.41 3 13.86 504.51
+On account of government grants (15.02) (6.77) (14.98)
+Lease rent from investment property (3.86) (2.54) (6.40)
+Deferred foreign currency fluctuation asset 28.22 (177.21) 610.90
+Deferred income from foreign currency fluctuation 27.37 235.80 263.20
+Regulatory deferral account debiV(credit) balances including derivative
+MTM(gain)/loss (2465.53) (4033.46) 3511 .93
+Fly ash utilisation reserve fund - 138 .21 (745.59)
+Finance costs 5215.15 5417.34 10308.87
+Unwinding of discount on vendor liabilities 57.59 82.65 133.31
+Interest income/Late payment Surcharge/Gain on sale of investments (456.23) (19 9.14) (734.09)
+Dividend income (923.43) (1285.18) (2281.44)
+Provisions written back (3.21) (161.69) (183.70)
+Gain on option contract I hedging (1.13) (0.95) (11.05)
+Other non cash miscellaneous income (7.45) (2.68) (33.18)
+Profit on de-recognition of property, plant and equipment (17.51) (4.57) (5.18)
+Loss on de-recognition of property, plant and equipment 104.11 126.07 248.27
+10851 .50 8624 .36 28575.06
+Operating profit before working capital changes 25205.38 21881.63 47620.06
+Adjustment for:
+Trade receivables (3127.16) 2876.77 (1898.13)
+Inventories 4724.70 2602.88 1778.85
+Trade payables, provisions, other financial liabilities and other liabilities (740.27) (634.18) (1038.43)
+Loans, other financial assets and other assets (2108.58) (5117.62) (253

@@ -205,3 +205,728 @@ across the IT&TS sector. International billing contributed 92% of the total cust
 of the segment for the quarter ended September 30, 2026.
 The segment delivered an EBITDA margin of 19.5% for the quarter ended
 September 30, 2026, compared with 20.0% reported in the corresponding quarter of the
+
+[page 7]
+5
+previous year. The slight moderation is reflective of higher manpower cost and adverse forex
+variation.
+Financial Services Segment
+The segment recorded income from operations at ₹ 5,307 crore during the quarter ended
+September 30, 2026, registering y-o-y growth of 27%, primarily driven by higher
+disbursements in the Retail business.
+The total loan book stood at ₹ 136,635 crore as on September 30, 2026, reflecting a growth
+of 12% over March 2026. The retail loan book constituted 99% of the total loan book as on
+September 30, 2026.
+The segment recorded a Profit Before Tax (PBT) of ₹ 1,319 crore for the quarter ended
+September 30, 2026, compared to ₹ 989 crore in the corresponding quarter of the previous
+year. The improvement in profitability was supported by loan book growth, stable asset
+quality and a strong operating performance resulting in higher net interest margin and fee
+income.
+Realty Segment
+The segment reported order inflows of ₹ 1,292 crore during the quarter ended
+September 30, 2026, registering a decline of 12% over the corresponding quarter of the
+previous year, majorly due to lower pre-sales as some new launches are delayed.
+As on September 30, 2026, the segment order book stood at ₹ 18,400 crore.
+For the quarter ended September 30, 2026, customer revenues were ₹ 225 crore, registering
+a decline of 43% on a y-o-y basis, driven by lower handover of residential units.
+The segment recorded an EBITDA margin of 54.3% for the quarter ended
+September 30, 2026, compared to 67.6% in the corresponding quarter of the previous year.
+The decline in margin is primarily attributable to fewer residential unit handovers during
+the quarter.
+Development Projects Segment
+The performance of this segment comprises the operations of (a) Nabha Power Limited up
+to the date of its divestment on June 25, 2026, (b) Hyderabad Metro till April 30, 2026, in
+line with the terms of the Share Purchase Agreement with HMRL, a Government of Telangana
+enterprise and (c) Green Energy business.
+During the quarter ended September 30, 2026, the segment recorded Nil revenue and EBIT
+loss of ₹ 16 crore, as the Green Energy business is in investment phase.
+
+[page 8]
+6
+Outlook
+The Indian economy maintained a good growth momentum during the first half of
+FY 2026-27. Economic activity was supported by buoyant domestic demand, sustained
+capital expenditure and continuing robustness in the services sector. Despite a global
+environment marked by trade tensions, geopolitical conflicts, and high energy prices, India's
+macroeconomic fundamentals remained resilient, providing a strong foundation for growth.
+However, inflation remains a concern, arising from food price volatility, elevated energy
+costs, and weather-related disruptions. Geopolitical imbalances, trade uncertainties, and
+climate-related risks continue to affect commodity prices and supply chains. Reflecting
+these concerns, the Reserve Bank of India (RBI) raised the repo rate by 25 basis points to
+5.50% and shifted its policy stance from ‘neutral’ to ‘calibrated tightening’.
+Notwithstanding, India is expected to remain among the fastest-growing major economies,
+with the RBI forecasting real GDP growth of 7.1% for FY 2026-27, supported by healthy
+domestic demand, private investment activity, and infrastructure spending.
+The global economic outlook is one of guarded optimism, aided by AI Data Center demand
+in several major economies and fresh investments in infrastructure, energy transition,
+technology, and industrial capacity. The Middle East continue to pose varied downside risks
+to global growth and investment activity.
+The Company will continue to leverage its capability and flexibility to successfully navigate
+the environment. The Company remains focused on operational excellence and the adoption
+of technology to improve productivity and competitiveness and ensure long-term sustainable
+growth for its stakeholders.
+Background:
+Larsen & Toubro is a USD 32 billion Indian multinational engaged in EPC Projects, Hi-Tech
+Manufacturing, Products and Services, operating across diverse domains and multiple geographies.
+With a strong impetus towards AI & technology, customer–focussed approach and the constant quest
+for top-class quality have enabled L&T to attain and sustain leadership in its major lines of business
+for eight decades.
+Media Contacts:
+Sumeet Chatterjee
+Head - Corporate Brand Management & Communications
+sumeet.chatterjee@larsentoubro.com
+
+[page 9]
+7
+Annexure 1
+Group Performance – Key ParametersQ2 FY'26 Q2 FY'27 % Var Key Parameters (in ₹ crore) H1 FY'26 H1 FY'27 % Var
+67,984 78,750 16% Revenue from operations 1,31,662 1,46,692 11%
+56% 58% International revenue % 54% 55%
+61,177 71,905 18% Total operational expenses 1,18,538 1,33,731 13%
+6,806 6,845 1% EBITDA 13,124 12,961 (1%)
+10.0% 8.7% EBITDA % 10.0% 8.8%
+763 473 (38%) Finance costs 1,544 1,012 (34%)
+1,092 1,037 (5%) Depreciation & Amortisation 2,125 2,069 (3%)
+3,926 5,202 33% Consolidated Profit After Tax 7,543 9,325 24%
+Segment Wise DetailsQ2 FY'26 Q2 FY'27 Q2 FY'26 Q2 FY'27 Q2 FY'26 Q2 FY'27
+Infrastructure & Utilities 40,755 35,509 23,717 25,133 6.2% 5.7%
+Energy - Conventional 38,349 78,413 13,448 17,285 8.2% 7.4%
+Energy - Green 11,932 6,558 8,042 11,493 6.2% 6.0%
+Manufacturing & Products 4,303 5,778 3,355 4,480 13.5% 15.7%
+Technology, Platforms & Services 13,278 14,807 13,328 14,826 20.0% 19.5%
+Financial Services 4,166 5,307 4,166 5,307
+Realty 1,469 1,292 394 225 67.6% 54.3%
+Development Projects 1,531 - 1,533 -
+Total 1,15,784 1,47,665 67,984 78,750
+Segment (in ₹ Crore) Order Inflow Customer Revenue EBITDA Margin (%)
+Refer Note 2
+Refer Note 1H1 FY'26 H1 FY'27 H1 FY'26 H1 FY'27 H1 FY'26 H1 FY'27
+Infrastructure & Utilities 60,829 79,866 46,139 46,991 5.9% 5.4%
+Energy - Conventional 69,879 81,542 26,429 31,792 8.0% 7.6%
+Energy - Green 32,882 39,600 14,378 17,100 6.2% 6.0%
+Manufacturing & Products 7,383 11,238 6,941 8,699 15.8% 15.3%
+Technology, Platforms & Services 25,897 29,419 26,006 29,453 19.8% 19.3%
+Financial Services 8,137 10,349 8,137 10,349
+Realty 2,456 2,591 851 1,234 57.5% 40.0%
+Development Projects 2,773 1,074 2,781 1,074
+Total 2,10,237 2,55,678 1,31,662 1,46,692
+Segment (in ₹ Crore) Order Inflow Customer Revenue EBITDA Margin (%)
+Refer Note 2
+Refer Note 1
+Note 1:Financial Services Q2 FY'26 Q2 FY'27 H1 FY'26 H1 FY'27
+NIM + Fees % 10.2% 10.5% 10.2% 10.5%
+Note 2:Development Projects (₹ crore) Q2 FY'26 Q2 FY'27 H1 FY'26 H1 FY'27
+EBIT 87 (16) 219 109
+1---------------+------+l t-----l----+----------<
+1---------------+------+I 1-----1----+----------<
+
+[page 10]
+8
+Annexure 2
+Segment CompositionSegments Composition
+Infrastructure & Utilities
+Residential, Commercial buildings & Factories, Public Spaces,
+Airports & Health, Transportation Infrastructure, Heavy Civil
+Infrastructure, Power Transmission & Distribution, Water &
+Effluent Treatment, Metals & Minerals
+Energy - Conventional Hydrocarbon - Onshore & Offshore, Modification Revamp &
+Upgradation, CarbonLite Solutions
+Energy - Green Solar, Onshore Wind, Offshore Wind
+Manufacturing & Products
+Heavy Engineering, Precision Engineering & Systems, Electronic
+Products & Systems, Electrolyser Manufacturing, Industrial Valves,
+Construction Equipment & Mining Machinery, Rubber Processing
+Machinery
+Technology, Platforms & Services LTM Limited, L&T Technology Services Limited,
+Digital Platforms, Data Centers, Semiconductor Technologies
+Financial Services L&T Finance Limited
+Realty L&T Realty
+Development Projects Hyderabad Metro, Nabha Power (Upto the date of divestment),
+Green Energy
+
+[page 11]
+E> LARSEN & TOUBRO LIMITED
+Registered Office: L&T House, Ballard Estate, Mumbai 400 001
+CJN: L99999MH1946PLC004768
+STATEMENT DF UNAUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER AND SIX MONTHS ENDED SEPTEMBER 30, 2026
+~ Crore
+Quarter ended Six months ended Year ended
+September 30, June 30, September 30, September 30, September 30, March 31,
+Particulars 2026 2026 2025 2026 2025 2026
+[~eviewed] [Reviewed] [Re'liewed] [Reviewed) [Reviewed] [Audited]
+1 Income:
+a) Revenue from operations 78749.94 67941.74 67983.53 146691.68 131662.45 285874.36
+b) Other income (net) 2306.26 2376.73 1384.28 4682.99 2741.06 5760.68
+Total Income 81056.20 70318.47 69367.81 151374.67 134403.51 291635.04
+2 Expenses:
+a) Manufacturing, construction and operating expenses:
+i) Cost of raw materials and components consumed 11255.26 8170.14 7572.63 19425.40 14222.90 33031.76
+ii) Construction materials consumed 17183.26 11729.13 16034.77 28912.39 29986.54 63388.65
+iii) Purchase of stock-in-trade 360.41 426.69 302.08 787.10 514.44 1262.30
+iv) Stores. spares and loose tools consumed 1550.23 1060.20 985.17 2610.43 1993.38 4171.98
+v) Sub-contracting charges 12963.60 12128.44 11001.47 25092.04 22358.53 49446.73
+vi) Changes in inventories of finished goods, stock-in-trade and work-in-progress (82.44) (1791.33) (168.68) (1873.77) (661.98) (1963.12)
+vii) Other manufacturing, construction and operating expenses 9042.52 9975.26 7861.03 19017.78 15405.48 36502.91
+b) Finance cost of financial services business and finance lease activity 1968.86 2032.66 1706.83 4001.52 3413.18 6995.34
+c) Employee benefits expense 14245.58 14043.43 12985.98 28289.01 25624.42 52187.22
+d) Sales, administration and other expenses 3418.01 4050.64 2895.84 7468.65 5681.49 11699.45
+e) Finance costs 472.94 538.67 762.81 101 1.61 1544.42 2848.82
+f) Depreciation. amortisation. impairment and obsolescence 1036.91 1032.28 1091.77 2069.19 2125.07 4364.75
+Total Expenses 73415.14 63396.21 63031.70 136811.35 122207.87 263936.79
+3 Profit before exceptional items and tax {1-2) 7641.06 6922.26 6336.11 14563,32 12195.64 27698.25
+4 Exceptional items [loss] (1722.44)
+5 Profit before tax (3+4) 7641.06 6922.26 6336.11 14563.32 12195.64 25975.81
+6 Tax expense:
+a) Current tax 2062.97 1881.18 1576.97 3944.15 3095.47 6752.96
+b) Deferred tax (337.06) 58.23 72.05 (278.83) 87 51 63.45
+Total tax expense 1725.91 1939.41 1649.02 3665.32 3182,98 6816.41
+7 Net profit after tax (5-6) 5915.15 4982.85 4687.09 10898.00 9012.66 19159.40
+8 Share in profiU(loss) after tax of joint ventures/associates (net} 34.00 5.18 (9.08) 39.18 (16.48) (205.52)
+9 Net profit after tax including share in profit/{loss) of joint ventures/associates (7+8) 5949.15 4988.03 4678.01 10937.18 8996.18 18953.88
+Attributabl e to: Owners of the Company 5202.10 4122.85 3926.09 9324.95 7543.28 16083.99
+Non-eontrolling interests 747,05 865.18 751.92 1612.23 1452.90 2869.89
+10 Other comprehensive income {OCI)
+a) i) Items that will not be reclassified to profit and loss (172,63) 129.59 (31.60) (43.04) (122.28) (115.88)
+ii} Income tax relating to items that will nol be reclassified to profit and loss 44.60 (32.93) 7.45 11 .67 34.40 30.54
+b) i) Items lhal will be reclassified to profit and loss (208.89) 976.13 (628.08) 767.24 717.49 (723.61 )
+ii) Income tax relating to items that will be reclassified to profit and loss 24.98 (234.98) 162.69 (210.00) 39.76 402.45
+Other comprehensive income [net of tax] (a+b) (311.94) 837.81 (489,54) 525,87 669.37 (406.50)
+Allributable to: Owners of lhe Company (323.93) 617.51 (268.08) 293.58 889.22 185.98
+Non-controlling interests 11.99 220.30 (221.46) 232.29 (219.85) (592.48)
+11 Total comprehensive income (9+10) 5637.21 5825.84 41 88.47 11463.05 9665.55 18547.38
+Attributable to: Owners of the Company 4878.17 4740.36 3658.01 9618.53 8432.50 16269.97
+Non-controlling Interests 759.04 1085.48 530.46 1844.52 1233.05 2277.41
+12 Paid-up equity share capital (face value of share: t 2 each) 275.18 275.15 275.11 275.18 275.11 275.13
+13 Other equity attributable to owners of the Company 109014.67
+14 Earnings per equity share (EPS) (not annualised for the interim periods):
+(a) Basic EPS (t) 37.81 29.97 28.54 67.78 54.85 116.93
+(b) Diluted EPS (~) 37.80 29.96 28.53 67.76 54.82 116.88
+Notes:
+(i) During the quarter, the Company has allotted 1,65,811 equity shares of'" 2 each fully paid-up, on exercise of stock options by employees in accordance with the Company's stock option schemes.
+(ii) The Company entered into a Share Purchase Agreement on April 29, 2026. with Hyderabad Metro Rail Limited. a Government of Telangana Enterprise for the divestment of its entire equity stake in its
+subsidiary, L&T Metro Rail (Hyderabad} Limited rL TMRHLT The divestment process is underway and the estimated completion date for the transaction has been revised to December 31, 2026. Pursuant to
+this. the Assets & the Liabilities of the LTMRHL continues to be classified as ·Held for Sale· as at September 30. 2026.
+
+[page 12]
+(iii) Consolidated Statement or Assets and Liabilities:
+f Crore
+As at
+Particulars September 30, March 31,
+2026 2026
+[Reviewed] [Audited]
+ASSETS:
+Non-current assets
+Property, plant and equipment 16349.09 15663.02
+Capital work-in-progress 3149,98 3036.25
+Investment property 706.73 223.22
+Investment property under construction 377.37 897,12
+Goodwill 8485.85 8481,54
+Other intangible assets 1637.56 1828.21
+Intangible assets under development 401.02 274,70
+Right-of-use assets 4026.48 3773.80
+Financial assets:
+Investments in joint ventures and associates 2131 .89 2258.01
+Other investments 5620.64 6593.92
+Loans towards financing activities 84008.94 74995.72
+Other loans 26.28 586.81
+Other financial assets 5372.80 4276.78
+Deferred tax assets (net) 4324.90 4252.76
+Current tax assets (net) 4428.02 4397.21
+Other non-current assets 3277.60 2699.49
+Sub-total - Non-current assets 144325,15 134238,56
+Current assets
+Inventories 11551 .80 9530.93
+Financial assets:
+Investments 75000.98 59524.86
+Trade receivables 57718.96 60461.26
+Cash and cash equivalents 14620.39 15391.24
+Other bank balances 7813,39 5456.43
+Loans towards financing activities 48164.97 42825.48
+Other loans 420.15 634.46
+Other financial assets 7916.28 7713.29
+Other current assets 100854.46 91303.18
+Sub-total - Current assets 324061,38 292841.13
+Group(s) of assets classified as held for sale 16340.78 25470.19
+TOTAL ASSETS 484727.31 452549,88
+EQUITY AND LIABILITI ES:
+EQUITY
+Equity share capital 275.18 275.13
+Other equity 112753.67 109014.67
+Equity attributable to owners of the Company 113028.85 109289.80
+Non-controlling interest 20226.55 19240.66
+TOTAL EQUITY 133255.40 128530.46
+LIABILITIES
+Non-current liabilities
+Financial liabilities:
+Borrowings 69934.69 63738.59
+Lease liabilities 3202.39 2767.05
+Other financial liabilities 1644,34 1979.86
+Provisions 884,08 832.48
+Deferred tax liabilities (net) 172.78 167. 11
+Other non-current liabilities 53,39 36.82
+Sub-total • Non-current liabilities 75891.67 69521 ,91
+Current liabilities
+Financial liabilities:
+Borrowings 37510.91 34778.53
+Current maturities of long term borrowings 28781.45 23165.90
+Lease liabilities 870.99 1046.52
+Trade payables:
+Due to micro enterprises and small enterprises 2020,85 1840.35
+Due to others 69303.34 67615.28
+Other financial liabilities 11149.75 11092.88
+Other current liabilities 100940,12 85861,52
+Provisions 5474.42 5009.03
+Current tax liabilities (net) 3813.47 3121.46
+Sub-total - Current liabilities 259865,30 233531.47
+Liabilities associated with group(s) of assets cla ssified as held for sale 15714.94 20966.04
+TOTAL LIABILITIES 351471.91 324019.42
+TOTAL EQUITY AND LIABILITIES 484727,31 452549,88
+(iv) The Company reports its consolidated financial results on a quarter1y basis. The standalone financial results are available on the Company's website viz. www.larsentoubro.com and on the websites of BSE
+(www.bseindia.com) and NSE (www.nseindia.com). The specified items of the standalone financial results of the Company for the quarter and six months ended September 30, 2026 are given below:
+f Crore
+Quarter ended Six months ended Year ended
+September 30, June 30, September 30, September 30, September 30, March 31,
+Particulars 2026 2026 2025 2026 2025 2026
+[Reviewed] [Reviewed] [Reviewed] [Reviewed! [Reviewed] [Aud ited!
+a) Revenue from operations " ... 43583.58 36024,07 35115.74 79607.65 68586.47 153680.17
+b) Profit before exceptional items and tax l"'\-r. : . . ~.......:._-,: 3999.61 5180.05 2431.23 9179.66 6471.32 16262.95I ,,, .._
+C) ProfiU(loss) before tax (after exceptional items)
+t ;,.sso c.r , . 3999,61 5180.05 (2981 .77) 9179.66 1058.32 9141,22
+'I" .y---~,qr ';\",
+d) Net profiU(loss) after tax (after exceptional items) ~:' \~ \,· 3370.1 2 4455.26 (3591.17) 7825.38 (105.87) 6287.13
+I, _.: I r"I
+'
+
+[page 13]
+(v) Additional disclosures as per Regulation 52(4) of SEBI (Listi ng Obl igations and Disclosure Requirements) Regulations, 2015:
+Quarter ended Six months ended Year ended
+Sr. Particulars September 30, June 30, September 30, September 30, September 30, March 31,
+No.
+2026 2026 2025 2026 2025 2026
+1 Debt equity ratio 1' 1 1.02 1.01 1.09 1.02 1.09 0.95
+2 Debt service coverage ratio (DSCR) 14.37 10.72 6.00 12.37 1.64 2.27
+3 Interest service coverage ratio (ISCR) 14.37 11.42 7.96 12.80 7.55 9.19
+4 Current ratio 1.25 1.25 1.25 1.25 1.25 1.25
+5 Long term debt to working capital ratio 1.06 1.07 1.21 1.06 1.21 1.05
+6 Bad debts to accounts receivable ratio 0.00 0.00 0.00 0.00 0.00 0.01
+7 Current liability ratio 0.74 0.74 0.73 0.74 0.73 0.72
+8 Total debt to total assets ratio 0.28 0.28 0.33 0.28 0.33 0.27
+9 Debtors turnover ratio 4.63 4.49 4.45 4.63 4.45 4.34
+10 Operating margin (%) 8.69% 9.00% 10.01% 8.84% 9.97% 10.20%
+11 Net profit margin(%) 7.55% 7.34% 6.88% 7.46% 6.83% 6.63%
+12 Inventory turnover ratio [refer note (d)(12)) NA NA NA NA NA NA
+13 Capital Redemption Reserve/Debenture Redemption Reserver' Crore) 338.23 338.23 338.23 338.23 338.23 338.23
+14 Net worth r' Crore) (As per section 2(57) of Companies Act, 2013) 110724.45 106288.94 98737.80 110724.45 98737.80 107329.44
+Notes:
+(a) The ratios are to be read and interpreted considering that the Group has diversified nature of businesses.
+(b) Above ratios have been computed excluding the assetsAiabilities classified as held for sale for the quarter and six months ended September 30, 2026 and year ended March 31 ,
+2026.
+(c) Considering borrowings included under the heading "Held for Sale", the debt-equity ratio including these borrowings for the quarter and six months ended September 30. 2026
+is 1.12.
+(d) Formulae for computation of above ratios are as follows:
+Sr. Particulars Formulae
+No.
+1 Debt equity ratio Total borrowings
+Total equity
+Profit before interest tax and exce~tional items•
+2 Debt service coverage ratio (DSCR) Finance costs• + Principal repayments (net of refinancing) made during the period for long term
+borrowings•
+(• Excluding Financial Services and Finance lease model business)
+Profit before interest. tax and exceQtional items•
+3 Interest service coverage ratio (ISCR) Finance costs•
+(• Excluding Financial Services and Finance lease model business)
+4 Current ratio Current assets
+Current liabilities
+5 Long term debt to working capital ratio Long term borrowings (including current maturities of long term borrowings)
+Current assets(-) Current liabilities [excluding current maturities of long term borrowings)
+Bad debts•
+6 Bad debts to accounts receivable ratio Average gross trade receivables•
+(• Excludinq Financial Services\
+7 Current liability ratio Current liabilities
+Total liabilities
+8 Total debt to total assets ratio Total borrowings
+Total assets
+Revenue from operations for trailing 12 months•
+9 Debtors turnover ratio Average gross trade receivables•
+(• Excluding Financial Services)
+Profit before depreciation, interest•, tax and exceptional items
+10 Operating margin (%) (-) Other income
+Revenue from operations
+(• Excluding Finance cost of Financial Services and Finance lease model business)
+11 Net profit margin(%) Net profit after tax including share in profiV(loss) of joint ventures/associates
+Revenue from operations
+Cost of Goods Sold
+12 Inventory turnover ratio t f'-/.Nl • Average Inventory
+~ ~,·:~_;soc;~~~1
+~ , Not material considering the size and the nature of operations of the Group
+. ~ ~ ' ,....
+
+[page 14]
+(vi) Consolidated Statement of Cash Flows:
+~ Crore
+Six months ended
+Particulars September 30, September 30,
+2026 2025
+[Reviewed] [Reviewed]
+A. Cash flow from operating activities:
+Profit before exceptional items and tax
+Adjustments for:
+Dividend received
+Depreciation, amortisation, impairment and obsolescence
+Exchange difference on items grouped under financing/investing activities
+Effect of exchange rate changes on cash and cash equivalents
+Finance costs
+Interest income
+(Profit)/loss on sale of Property, plant and equipment, Investment property and
+Intangible as·sets (net)
+(Profit)/loss on sale/fair valuation of investments (net)
+Bad debts and advances written off & Allowances for expected credit loss (net)
+Employee stock option-discount
+(Gain)/loss on disposal of subsidiary/associate/business undertaking
+(Profit)/loss on investments/loans towards financing activity (net)
+Others
+Operating profit before working capital changes
+Adjustments for:
+(lncrease)/decrease in trade and other receivables
+(lncrease)/decrease in inventories
+lncrease/(decrease) in trade and other payables
+Cash generated from operations before financing activities
+(lncrease)/decrease in loans and advances towards financing activities
+Cash generated from operations
+Direct taxes paid (net)
+Net cash generated from operating activities
+14563.32
+(270.61)
+2069.19
+(46.00)
+70.90
+867.30
+(2089.71)
+(18.06)
+(1552.20)
+2353.06
+34.25
+(332.93)
+172.56
+(0.83)
+15820.24
+(7761.39)
+(858.57)
+17678.72
+24879.00
+/15858.69\
+9020.31
+(3269.78\
+5750.53
+12195.64
+(58.28)
+2125.07
+22.70
+(178.88)
+1448.92
+(1540.96)
+(87.90)
+(935.83)
+1867.74
+71.07
+(81.39)
+7.95
+14855.85
+(4172.74)
+(636.52)
+6165.84
+16212.43
+/9463.02)
+6749.41
+12933.28)
+3816.13
+B. Cash flow from investing activities:
+Purchase of Property, plant and equipment, Investment property and Intangible assets
+Sale of Property, plant and equipment, Investment property and Intangible assets
+Purchase of non-current investments
+Sale of non-current investments
+(Purchase)/sale of current investments (net)
+Change in other bank balance and cash not available for immediate use
+Deposits/loans given to associates, joint ventures and third parties
+Deposits/loans repaid by associates, joint ventures and third parties
+Interest received
+Dividend received from joint ventures/associates
+Dividend received from other investments
+Consideration received on transfer of business undertaking
+Consideration received on disposal of subsidiaries/ divestment of part stake in associates
+Consideration paid on acquisition of business
+Consideration paid on acquisition of Subsidiaries (including contingent consideration)
+Cash and cash equivalents acquired pursuant to acquisition of subsidiaries/business
+Consideration paid on acquisition of stake in an associate/joint venture
+Net cash generated from/(used in) investing activities
+(2563.06)
+129.07
+(272.84)
+1014.69
+(13409.16)
+(3346.28)
+(196.05)
+417.49
+1801.39
+34.78
+270.61
+493.00
+3830.99
+-
+(805.30)
+-
+.
+112600.67
+(2674.72)
+241.10
+(2045.97)
+689.01
+2321.46
+2027.66
+(168.24)
+140.24
+1470.06
+11 .69
+58.28
+.
+.
+(709.21)
+(141.03)
+89.34
+(253.99)
+1055.68
+C. Cash flow from financing activities:
+Proceeds from issue of share capital (including share application money) [net]
+Proceeds from non-current borrowings
+Repayment of non-current borrowings
+Proceeds from/(repayment of) other borrowings (net)
+Payment made for acquisition of additional stake in a subsidiary from non-controlling interest
+Other payments (to)/from non-controlling interest (net)
+Settlement of derivative contracts related to borrowings
+Dividends paid
+Repayment of lease liability
+Interest paid on lease liability
+Interest paid (including cash flows on account of interest rate swaps)
+Net cash generated from/(used in) financing activities
+Net increase/(decrease) in cash and cash equivalents (A+ B + C)
+Cash and cash equivalents at beginning of the period
+Effect of exchange rate changes on cash and cash equivalents
+Cash and cash equivalents at end of the period
+4.05
+23362.34
+(14649.59}
+6019.03
+(698.99)
+(872.15)
+42.77
+(5227.77)
+(454.41)
+(121.21)
+11256.19'
+6147.88
+(702.26)
+15391.24
+168.59)
+14620.39
+6.07
+22925.24
+(20198.49)
+(2536.30)
+(707.24)
+13.68
+(4676.22)
+(380.22)
+(109.62)
+11822.08)
+17485.18
+(2613.37)
+12187.00
+217.48
+9791.11
+Notes:
+1 Statement of Cash Flows has been prepared under the indirect method as set out in the Indian Accounting Standard (Ind AS) 7 "Statement of Cash
+Flows" as specified in the Companies (Indian Accounting Standards} Rules, 2015.
+2 Property, plant and equipment, Investment property and Intangible assets are adjusted for movement of (a) Capital work-in-progress for Property, plant
+and equipment, (b) Investment property under construction and (c) Intangible assets under development during the period.
+(vii) Figures for the previous periods have been regrouped/reclassified to conform to the classification of the current periods.
+(viii) The above consolidated financial results of the Parent Company including its Subsidiaries, Associates & Joint Ventures have been prepared in
+accordance with the recognition and measurement principles laid down in the Indian Accounting Standards (Ind AS) as prescribed under section 133 of
+the Companies Act, 2013 read with the relevant rules issued thereunder and the other accounting principles generally accepted in India. These results
+have been reviewed by the Audit Committee and approved by the Board of Directors at its meeting held on October 27, 2026. The same have also
+been subJected to L,m,ted ORev,ew by~1£.'~ !:~tory Auditor.
+0
+SOC/.qr&:;~j
+t'" ,-?
+• Ill ~ ~ ,
+" ; f·~ -1~ J/4-Mumbai
+October 27. 2026
+~........:..
+0 red Ac::n~ -·
+~~--..
+for LARSEN & TOUBRO LIMITED
+S-1'J·~~1S.N.SUBRAHMANYAN
+Chairman & Mananinn Director
+
+[page 15]
+Unaudited Consolidated Segment-wise Revenue, Results, Total Assets and Total Liabilit ies:
+fCrorf!
+Quarter ended Six months ended Year ended
+September 30, June 30, September 30, September 30, September 30, March 31,
+Particulars 2026 2026 2025 2026 2025 2026
+(Reviewod] (Reviewed} (Reviewed) (Reviewed) [Reviewed) [Audited')
+Gr oss segment reven u e
+1 Infrastructure & Utilities 25554.23 22143.53 241 10.04 47697.76 46806.11 100842.49
+2 Energy - Conventional 17289.39 14513,59 13456.95 31802.98 26441.91 55836.81
+3 Energy - Green 11493.93 5607.09 8042.21 17101.02 14377.69 35020.16
+4 Manufacturing & Products 46 38.92 4380.35 3531.28 9019.27 7290.55 17628.54
+5 Technology, Platforms & Services 14938.76 14719.94 13406.89 29658.70 26137.07 54109.02
+6 Fin ancial Services 5307.32 5041.69 4166.33 10349.01 8137.34 17283.43
+7 Realty 393.02 1133.40 477.91 1526.42 1012.51 3130.25
+8 Development Projects 1073.69 1533.00 1073.69 2782.28 5118.51
+Total 79615.57 68613.28 68724.61 148228.85 132985.46 288969.21
+Less: Inter-segment revenue 865.63 671.54 741.08 1537.17 1323.01 3094.85
+Net seg ment revenue 78749.94 67941.74 67983.53 146691.68 131662.45 285874.36
+Segment results
+1 Infrastructu re & Utilities 1144.30 804.41 1136.59 1948.71 2024.50 5457.41
+2 Energy. Conventional 1157.76 1017.80 1024.22 2175.56 1957.99 3608.18
+3 Energy• Green 668.70 321.59 490.07 990.29 865.23 2379.91
+4 M anufacturing & Products 610.16 542.30 385.60 1152.46 961.54 2653.33
+5 Technology, P latforms & Services 2442.51 2353.78 2206.28 4796.29 4256.33 8618.24
+6 Financial Services 1318.85 1236.26 988.89 2555.11 1932.10 4032.05
+7 Realty 96.63 346.90 246.01 443.53 448.32 1242.18
+8 Development Projects (15.66) 124.46 86.95 108.80 218.67 538.95
+Total 7423.25 6747.50 6564.61 14170.75 12664.68 28530.25
+Less: Inter-segment margins on capital jobs 21.35 17.96 30.93 39.31 47.08 114.25
+Less: Finance costs 472.94 538.67 762.81 1011.61 1544.42 2848.82
+Add: Unallocable corporate inc ome net of expenditure 712.10 731.39 565.24 1443.49 1122.46 2131.07
+Profit before exceptional it ems and tax 7641.06 6922.26 6336.11 14563.32 12195.64 27698.25
+Addl(less): Exceptional items !loss) (1722.44)
+Profit before tax (including exceptional items) 7641.06 6922.26 6336.11 14563.32 12195.64 25975.81
+Segment assets
+1 Infrastructure & Utilities 94455.49 93916.63 851 41.59 94455.49 85141.59 91464.58
+2 Energy - Conventional 40792.85 39345.12 32863.71 40792.85 32863.71 39633.56
+3 Energy ~ Green 32 172.72 25175.11 12043.39 32172.72 12043.39 24111.62
+4 Manufacturing & Products 24040.36 21965.28 17697.40 24040.36 17697.40 19824.12
+5 T echnology, Platforms & Services 59119.16 57881.13 53131.37 59119.16 53131.37 58038.31
+6 Financial Services 155795.06 146449.29 125478.81 155795.06 125478.81 140383.98
+7 Realty 15503.34 14549.67 12165.78 15503.34 12165.78 13529.03
+8 Development Projects 17142.81 17024.32 25186.78 17142.81 25186.78 25008.07
+Total segment asset s 439021.79 416306.55 363708.83 439021 .79 363708.83 411993.27
+Less: Inter.segment assets 3767.90 3441.55 5822.81 3767,90 5822.81 3981.62
+Add: Unallocable corporate assets 49473.42 47495.32 33216.60 49473.42 33216.60 44538.23
+Total assets 484727.31 460360.32 391102.62 484727.31 391102.62 452549.88
+Segment l iabilities
+1 Infrastructure & Utilities 70483.83 69544.11 59392.44 70483.83 59392.44 70079.23
+2 Energy• Conventional 45109.23 43194.36 33360.04 45109.23 33360.04 41848.36
+3 Energy - Green 34093.59 25606.08 9878.95 34093.59 9878.95 23688.10
+4 Manufacturing & Products 16364.81 15206.56 12301.36 16364.81 12301.36 14797.85
+5 Technology, Pla tforms & Services 17136.02 17552.60 13906.70 17136.02 13906.70 18442.49
+6 F inancial Services 128472. 77 120084.30 100779.31 128472.77 100779.31 114148.04
+7 Realty 8375.04 7245.45 5585.55 8375.04 5585.55 6715.69
+8 Development Projects 2023.97 1998.53 6546.43 2023.97 6546.43 6328.60
+Total s egment liab ilities 322059.26 300431.99 241750.78 322059.26 241750.78 296048.36
+Less: Inter.segment liabilities 3767.90 3441.55 5822.81 3767.90 5822.81 3981.62
+Add: Unallocable corporate liabilities 33180.55 35038.88 35367.52 33180.55 35367.52 31952.68
+Tota l liabilit ies 351471.91 332029.32 271295.49 351471.91 271295.49 324019.42
+N otes:
+(I) The Group has reponed segment information as per Ind AS 108 "Operafing Segments". The identificalion of operating segments 1s cons1s1ent with performance assessment and resource allocation by the chief operafing decision
+making body.
+(II) Effective from April 01, 2026. pursuant to the Lakshya 2031 strategrc plan and the reorganisation structure. the Group has realigned rts portfolio to enhance strategic focus, capital allocation efficiency and operalional agility. As a
+result. the repor1ing segments are nowciassified as
+The erstvlh1te Infrastructure Pro1ects has been renamed as Infrastructure & Ul11ities. Erstwt11le Ene1gy Projects has been renamed as Energy- Conventional. The renewable, business and offshore ,,.,.;nd energy business have been
+carved out from the erslwtille Infrastructure ProJects and erstwhile Energy Projects respectively. and are now part or ne'My formed Energy - Green segment Erstwhile Hi-Tech Manufacturing has been renamed as Manufacturing
+and Products. and now inc!udes construction equipment & industrial product design & development bu'S-mess wtm:h was earlier part of Others segment. Erstwhile IT & Technology Services has been renamed as Technology,
+Platforms & Services. Realty business has been ciass1fied as a separate reponable segment W'hich was earlier forming part of Others segment.
+Accordingly. the Group has presented its segment results based on the revised reportable segment structure and regrouped the ptevious periods to make ii comparable with the current periods.
+{111) The revised Segment composrt,on is as follows:
+Infrastructure & Utilities segment comprises engmeenng and construction of {a) buildings infrastructure - (i) resrdential. commercial buildings & factories and (ii) public spaces. airports & health. (b) transportation infrasiructure.
+(c) heavy civil m frastructure, (d) power transmission & distribution. (e) water & effluent treatment and (fJ met,:11$ &minerals. Energy- Conventional segment compnses of (a) Hydrocarbon Onshore and Offshore businesses
+covering EPC solutions and revamp/retrofit proJects. in oil & gas, refineries, pe1rochem1cals. from lront-end design through detailed engineermg, modular fabrication. procurement. project managemenl, construction, installation and
+commissioning, (bt CarbonUte Solutions business covering BTG scope for power generaiion plants including associated systems and/or carbon capture ut1lisa11on & utility packages. Energy - Green segment comprises
+engineering and construction of renewables - sol ar, onshore & offshore wind projects. Manufacturing & Products .segment comprises design, manufacture/construct and supply of (a) custom designed, engineer~ crrtieal
+equipment & systems 10 the fertllizer, refinery, 011& gas, petrochemical, nuclear energy and green hydrogen sectors, (b) marine and !and plalforms including related equipment & systems and aerospace products & systems.
+(c) design. development and manufacture of advanced electronic systems and solutions for defence, aerospace, industnal and energy applications, (d) electrotysers and (e) construction equipment &industrial prodl.lct design
+development compns1ng of (i) manufacture and sale of industnal valves. {Ii) marketing and servicing of construction equipment. mming machinery and parts thereof, (iii) manufacture and sale of components of construclion
+equipment and {iv) manufacture and sale of rubber processing machinery. Technology, Platforms & Services segment comprises (a) information technology and integrated engineering services (including smart infrastructure &
+communication pr0Je<:ts), (bJ e-commerce/d1g1tal platforms. cloud services & data centers and (c) semiconductor chip design. Financial Services segment pnmanly comprises retail finance. Realty segment comprises real estate
+development for commercial and residential proJecls. Development Projects segment comprises (a) development, operation and maintenance of Hyderabad metro rail. including trans1t-onented development. (b) po,.ver
+generation &devetopmenl-(i) thermal power generalton (upto the d ate ol divestment) and (ii) green energy.
+(IV) Segment revenue compnses sales and operabonal inoome accur1ng specifica!Sy to a segment and includes, in the case of Development Pro1ects and Realty segment. profits on sale of business lJndertaking/stake in the subsidiary
+and/or joint venture companies m those segments. Segmenl result represents profit before mteresl and tax. Unallocable corporate income includes ma1orty mteresl income, divtdends and investment related gains/losses.
+Unallocable expenditure includes ma1orty corporate expenses not allocated to segments.
+Unallocable corporate assets comptise maJorly investments. Investment m joint ventures ar.d associates Klent1fied wrth a particular segment are reported as part of lhe segment asse1s of those respective segments. Unallocable
+corporate liabilities comprise majorly borrOWings. In respect of (a ) Finane1a1 SeMees segment and (b) Development Pro1ects segment relating 10 a thermal power generation asset given on finance leaseluplo the date of
+dwestment), segment !iabdities include borrowings as finance costs on the borrowings are accounted as segment expense.
+(V) In respect of some segments of the Groop. revenue and margin do not accrue uniformly dunng the year.
+(VI) Figures for the previous penods have been regrouped/reclassified to oonlorm to the classification of the current periods
+for LARSEN & TOUBRO LIMITED
+d~l,q SJ·~~~Mumbai ~ S. N. SUBRAHMANYAN
+October 27. 2026
+~ 1~
+Chairman & Managing Director
+~ 1Ll)j))iir;,:,""
+fed Ac.CO~
+. ,
+
+[page 16]
+8 LARSEN & TOUBRO LIMITED
+Registered Office: L& T House, Ballard Estate, Mumbai 400 001
+CIN: L99999MH1946PLC004768
+STATEMENT OF UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER AND SIX MONTHS ENDED SEPTEMBER 30, 2026
+(Crore
+uarter11n e Six months en,1e,1 Year ended
+Particulars September 30, June 30, September 30, September 30, September 30, March 31,
+2026 2026 2025 2026 2025 2026
+rRevlewedl [Reviewed] [Revlem1d] 'Reviewed' 'Reviewed' [Audited]
+' Income:
+•I Revenue from operations 43583.58 36024,07 35115.74 79607.65 68586.47 153680.17
+,, Other income(net} 2478.44 4094.41 1073,53 6572.85 3679,53 7358.45
+Total Income 46062.02 40118.48 36189,27 86180.50 72266.00 161038.62
+' Expenses:
+•I Manufacturtng, const11..1ction and operating expenses:
+i} Cost of raw materials and components consumed 8645.17 5729,24 4246.47 14374.41 8300.64 19804.95
+ii) Construction materials consumed 11313,11 8973.67 11182.17 20286.78 21267.58 45669.73
+iii) Purchases of stock-In-trade 340.46 413.30 305.58 753.76 518.39 1250.49
+iv) Stores, spares and loose tools consumed 821.87 751.31 626.66 1573.18 1228.35 2581.14
+v) Sub-contracting charges 10973.13 9706.58 8975.98 20679.71 17899.59 39966.86
+vi) Changes In inventories of finished goods, stock-in-trade and work-ln_-progress 175.63 (565.50) 156.94 (389.87) 112.87 139.05
+vii) Other manufacturing, construction and operating expenses 4721.23 4349.58 3625.29 9070.81 7206.03 16597,71
+" Employee benefi,ts expense 3283.75 3257.21 2887.75 6540.96 5579.42 11602.89
+cl Sales, administration and other expenses 917.88 1494.08 789.14 2411.96 1762.79 3502.03
+,, Finance costs 405.30 352.37 476.23 757.67 950.35 1675.42
+•I Depreciation, amortisation, impairment and obsolescence 464.88 476.59 485.83 941.47 968.67 1985.40
+Total Expenses 42062.41 34938.43 33758.04 77000.84 65794,68 144775.67
+' Profit before exceptional Items and tax (1-2) 3999.61 5180.05 2431.23 9179,66 6471,32 16262,95
+' Exceptional Items (loss) - /5413.00) i5413.00 i7121.73
+' Profll/(loss) before tax {3+4) 3999.61 5180.05 12981.77 9179.66 1058,32 9141.22
+' T11x expense: .
+•I Current tax 745.74 684.78 590.98 1430.52 1152.45 2866.39
+,, Deferred tax 1116.25 40.01 18.42 (76.24) 11.74 (12.30)
+Total tax expense 629.49 724.79 609.40 1354.28 1164.19 2854,09
+' Net profil/(loss} after tax (5-6) 3370.12 4455.26 13591.17 7825,38 1105.87 6287.13
+" Other comprehensive Income (OCI)
+•I i) Items that will not be reclassified to profit and loss (187.21) 82.56 (38.23) (104.65) (118.15) (195.14)
+ii) Income tax relating to items that will not be reclassified to profit and loss 47.09 (20.78) 9.63 26.31 29,74 49.11
+,, i) Items that will be reclassified to profit and loss (319.22) 133.72 346.34 (185.50) 1149.30 1527.59
+ii) Income tax relating to items that will be reclassified to profit and loss 38.94 (5.18) (124.80) 33.76 (285.12) (413.04)
+Other i::omprehensive income [net of tax] (a+b) (420.40) 190.32 192.94 (230.08) 775.77 968.52
+" Total comprehensive income (7+8) 2949.72 4645.58 1339B.23 7595.30 669.90 7255,65
+10 Paid-up equity share capital (face value or share:~ 2 each) 275.18 275.15 275.11 275.18 275.11 275.13
+" Other equity 74257.77
+" Earnings per equity share (EPS) {not annualised for the Interim periods):
+(a) Basic EPS (~ 24.50 32.39 (26.11) 56,88 (0.77) 45.71
+b) Diluted EPS (~ 24.49 32.37 126.11) 56.86 (0.77) 45.69
+Notes:
+(i) During the quarter, the Company has allotted 1,65,811 equity shares off 2 each fully paid-up, on exercise of stock options by employees in accordance with the Company's stock option schemes.
+(ii) The Board of Directors of the Company at its meeting held on December 08, 2025 approved a Scheme of Arrangement amongst the Company, L& T Realty Properties Limited (L TRPL), a wholly
+owned subsidiary of Ille Company and their respective shareholders and creditors pursuant to Sections 230 to 232 and other applicable provisions of the Companies Act, 2013, for transfer and
+vesting of the Company's Realty Undertaking to LTRPL, on a going concern basis by way of slump sale with appointed date of April 01, 2026 or such other date as may be mutually agreed._The
+Scheme is subject to approval of the Hon'ble National Company Law Tribunal ("NCLT"), Mumbai Bench and such other regulatory and other approvals as may be required. Pending receipt of
+requisite approvals, the financial results of the said undertaking continue to be included in the results of the Company.
+(iii) The Company entered into a Share Purchase Agreement on April 29, 2026 with Hyderabad Metro Rail Limited, a Government of Telangana Enterprise for the divestment of its entire equity stake in its
+subsidiary, L&T Metro Rail ( Hyderabad) Limited ("LTMRHL"}. The divestment process is underway and the estimated completion date for the transaction has been revised to December 31, 2026.
+Pursuant to this, the investment in LTMRHL continues to be classified as "Held for Sale" as at September 30, 2026.
+{iv) The Company entered into a Business Transfer Agreement on August 11, 2026 to transfer its Data Center and Cloud Service Business, forming part of the Others segment, by way of a sale on a
+going concern basis to Vyoma.AI Limited, a wholly owned subsidiary. Additionally, ihe Company has entered into a Share Purchase Agreement on August 11, 2026 to transfer its entire stake in L&T
+Network Services Private Limited, a wholly owned subsidiary, to Vyoma,AI Limited. Accordingly, the related assets and liabilities of the said business and the investment are classified as "Held for
+Sale". The transfer is expected to be completed by 03 2026-27.

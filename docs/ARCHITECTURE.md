@@ -74,9 +74,9 @@ flowchart LR
 |---|---|---|---|
 | Filing one-liner + materiality | cheap | turns "Announcement under Regulation 30 (LODR)-General" into a sentence | filing text only; zod-validated JSON |
 | People in management changes | cheap | free-text annexures vary wildly | must quote the filing; years only if stated |
-| Results lines when the standardised table lags | cheap | copy three columns of a table | **no arithmetic by the model**: EBITDA = PBT + finance cost + D&A − other income is computed in code, and cross-checked against screener when both exist |
+| Results lines when the standardised table lags | cheap | copy three columns of a table | **no arithmetic by the model**: EBITDA = PBT + finance cost + D&A − other income is computed in code. Only the P&L table pages are sent; every copied figure must appear digit-for-digit in the filing, and PAT/PBT must be plausible in every column, or the numbers are dropped. Cross-checked against screener when both exist |
 | Transcript guidance extraction (map) | cheap | find explicit promises + verbatim quotes in a 40-page call | quotes must be verbatim; outside knowledge forbidden |
-| Promised vs delivered, narrative vs numbers, bull/bear (reduce) | strong | genuine reasoning across 4 quarters + a numbers table | numbers table computed in code; "unverifiable" and "pending" are explicit verdicts |
+| Promised vs delivered, narrative vs numbers, bull/bear (reduce) | strong | genuine reasoning across 4 quarters + a numbers table | numbers table (incl. capex = CFO − FCF) computed in code; a later call can settle an earlier promise (re-set against the investor = missed, in their favour = raised); company-defined metrics are never judged against a differently-defined table row; "unverifiable" and "pending" are explicit verdicts |
 
 What is **not** a model call:
 - Classifying ~400 filings (rules on BSE's own taxonomy; milliseconds, free)
@@ -101,6 +101,7 @@ What is **not** a model call:
 - The network is a clearly-labelled synthetic file.
 - Real people appear only through public exchange disclosures, such as an appointee's profile in a Regulation 30 filing.
 - No personal data is sent to any model.
+- The demo's AI ran on Gemini's free tier, whose terms let Google use prompts to improve its products. That's acceptable here only because every prompt is a public exchange filing or transcript. Production would use a paid tier with no-training, zero-retention terms.
 
 **Production design**
 - **Isolation.** Each investor's network lives in their own tenant, either Postgres with row-level security keyed on the user or an on-device store. It's encrypted at rest with a per-tenant key. Matching runs in-process; the network is never in a prompt and never in logs.

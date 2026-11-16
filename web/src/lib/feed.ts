@@ -3,7 +3,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { resultsCut, resultsFromFiling, type FilingResults, type ResultsCut } from "./engine/fundamentals";
-import { Network, type ExternalPerson, type Link, type NetworkData } from "./engine/network";
+import { Network, sameName, type ExternalPerson, type Link, type NetworkData } from "./engine/network";
 import type { Category, CompanyMeta, Filing, ScreenerCompany, Snapshot, Tier } from "./types";
 
 const DATA = path.join(process.cwd(), "data");
@@ -170,7 +170,8 @@ function smartTitle(f: Filing): string {
     if (sub && !/^(general|none|others?)$/i.test(sub) && !t.toLowerCase().includes(sub.toLowerCase().slice(0, 8)) && /outcome|intimation|disclosure|update/i.test(t))
       t = `${sub}: ${t}`;
   }
-  t = t.replace(/_/g, " ").replace(/\s+/g, " ").trim();
+  // BSE's feed loses the rupee sign ("face value ?10/-") and doubles quotes (''CPDPL'').
+  t = t.replace(/_/g, " ").replace(/\?\s?(?=\d)/g, "₹").replace(/''/g, '"').replace(/\s+/g, " ").trim();
   if (USELESS.test(t)) {
     const s = subjectLine(f.id);
     if (s && s.length > 10) t = s;
@@ -238,13 +239,17 @@ export function buildFeed(): FeedItem[] {
     open.set(key, item);
   }
 
+  const resultsShown = new Set<string>();
   for (const it of items) {
     const co = companies.get(it.symbol)!;
     const e = enrichments[it.id];
     if (e?.summary) it.summary = e.summary;
     if (e?.materiality === "low" && it.tier === "act" && it.cat !== "management_change") it.tier = "know";
 
-    if (it.cat === "results" && it.tier === "act") {
+    // One results grid per company: items run oldest-first here, so the results filing itself gets it,
+    // not a later press release or call notice about the same numbers.
+    if (it.cat === "results" && it.tier === "act" && !resultsShown.has(it.symbol)) {
+      resultsShown.add(it.symbol);
       const data = companyData(it.symbol);
       const cut = data && resultsCut(data, co.isLender);
       // Standardised table first, but only if it already contains the quarter this filing announced.
@@ -294,7 +299,30 @@ export function buildFeed(): FeedItem[] {
       it.who = network.linksToCompany(it.symbol, co.sector).slice(0, 3).map(toLite);
     }
   }
-  return items.sort((a, b) => b.ts.localeCompare(a.ts));
+
+  // The same appointment often arrives twice (board approval, then the regulator's): one card per
+  // story. Same company, same person, within 30 days → fold the older card into the newer one.
+  const out: FeedItem[] = [];
+  for (const it of items.sort((a, b) => b.ts.localeCompare(a.ts))) {
+    const keep =
+      it.cat === "management_change" && it.people?.length
+        ? out.find(
+            (k) =>
+              k.cat === "management_change" &&
+              k.symbol === it.symbol &&
+              new Date(k.ts).getTime() - new Date(it.ts).getTime() < 30 * 864e5 &&
+              k.people?.some((p) => it.people!.some((q) => sameName(p.name, q.name))),
+          )
+        : undefined;
+    if (!keep) {
+      out.push(it);
+      continue;
+    }
+    keep.related.push({ id: it.id, title: it.title, pdfUrl: it.pdfUrl, ts: it.ts }, ...it.related);
+    if (TIER_RANK[it.tier] < TIER_RANK[keep.tier]) keep.tier = it.tier;
+    keep.summary ??= it.summary;
+  }
+  return out;
 }
 
 export function shortName(n: string) {

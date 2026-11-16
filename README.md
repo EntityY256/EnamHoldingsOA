@@ -16,13 +16,13 @@ An investor's scarcest resource is attention, so FINN's headline is a subtractio
 
 1. **Brief.**
    - Switch the window from *24h* to *Week*.
-   - Results cards show Revenue / EBITDA / PBT / PAT, QoQ and YoY.
+   - Results cards show Revenue / EBITDA / PBT / PAT, QoQ and YoY (lenders: Revenue / PBT / PAT, since EBITDA isn't meaningful for them). Kaynes filed after screener.in updated, so its card is read straight from the filing.
    - Management-change cards show the new person's career from the filing, plus **your path to them** (violet always means "someone you know").
    - The ⚙︎ sheet sets what counts as unusual (volume × 20-day average, ±% move, which filing types interrupt you).
 2. **Research.**
    - Open a company in the research list, or type **any** NSE ticker.
    - Trajectory, balance sheet and cash quality are computed from reported statements.
-   - *Promised vs delivered* reads the last four concall transcripts and the annual report, and checks every explicit promise against the numbers.
+   - *Promised vs delivered* reads the last four concall transcripts and the annual report, and checks every explicit promise against the numbers and against later calls. Try **DEEPAKNTR** (two missed timelines) and **CREDITACC** (five targets raised).
 3. **Network.**
    - Search "Anup Bagchi" (the new HDFC Bank CEO), "semiconductors" or "Tata Power".
    - You'll see second-degree paths, batchmates, ex-colleagues and an expertise map.

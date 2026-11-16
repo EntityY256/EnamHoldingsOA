@@ -51,6 +51,7 @@ export const CATEGORY_LABEL: Record<Category, string> = {
 const SENIOR =
   /\b(chief executive|ceo|chief financial|cfo|managing director|m\.?d\.?\b|chairman|chairperson|whole[- ]?time director|executive director|chief operating|coo|chief risk|chief business|deputy managing|president)\b/i;
 
+/** A rule matches on `sub` or `text`; when it sets both, both must match. */
 type Rule = { cat: Category; sub?: RegExp; text?: RegExp };
 
 // Order matters: the first matching rule wins.
@@ -63,10 +64,12 @@ const RULES: Rule[] = [
   { cat: "insider_trading", sub: /29 ?\(2\)|insider|7 ?\(2\)/i },
   { cat: "insider_trading", text: /\bsast\b|substantial acquisition of shares|regulation 29|regulation 7 ?\(2\)|prohibition of insider trading/i },
   { cat: "results", sub: /financial results/i },
-  { cat: "results", text: /financial results|integrated filing \(financial\)/i },
   { cat: "earnings_call", sub: /earnings call/i },
-  { cat: "earnings_call", text: /transcript|audio recording|conference call|earnings call|con-?call|webcast/i },
+  // Analyst-meet notices often say "financial results" but are call logistics, not the results themselves.
+  { cat: "earnings_call", sub: /analyst \/ investor meet/i, text: /transcript|audio recording|conference call|earnings call|con-?call|webcast/i },
   { cat: "investor_meetings", sub: /analyst \/ investor meet/i },
+  { cat: "results", text: /financial results|integrated filing \(financial\)/i },
+  { cat: "earnings_call", text: /transcript|audio recording|conference call|earnings call|con-?call|webcast/i },
   { cat: "results", sub: /investor presentation/i },
   { cat: "management_change", sub: /change in (management|directorate)|resignation|retirement|cessation|appointment of company secretary|demise/i },
   { cat: "management_change", text: /\b(appoint|re-?appoint|resign|cessation|retire|demise)\w*|managing director|chief executive|chief financial|\bceo\b|\bcfo\b/i },
@@ -99,7 +102,8 @@ export function classify(f: Pick<BseFiling, "category" | "subcategory" | "subjec
   const text = `${f.subject} ${f.headline}`;
   let cat: Category = "unclassified";
   for (const r of RULES) {
-    if ((r.sub && r.sub.test(sub)) || (r.text && r.text.test(text))) {
+    const hit = r.sub && r.text ? r.sub.test(sub) && r.text.test(text) : (r.sub?.test(sub) ?? false) || (r.text?.test(text) ?? false);
+    if (hit) {
       cat = r.cat;
       break;
     }

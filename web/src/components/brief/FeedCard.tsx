@@ -61,9 +61,9 @@ export function FeedCard({ item, now, alert }: { item: FeedItem; now: string; al
           )}
           {p.education.length > 0 && <p className="mt-1.5 text-[12px] text-muted">{p.education.map((e) => `${e.school}${e.year ? ` '${String(e.year).slice(2)}` : ""}`).join(" · ")}</p>}
           {p.links.length > 0 ? (
-            <WhoToCall links={p.links} title={`Your path to ${p.name.split(" ")[0]}`} compact />
+            <WhoToCall links={p.links} title={`Your path to ${callName(p.name)}`} compact />
           ) : (
-            <p className="mt-2 text-[12px] text-muted">No one in your network overlaps with {p.name.split(" ")[0]}&apos;s career yet.</p>
+            <p className="mt-2 text-[12px] text-muted">No one in your network overlaps with {callName(p.name)}&apos;s career yet.</p>
           )}
         </div>
       ))}
@@ -108,6 +108,7 @@ export function FeedCard({ item, now, alert }: { item: FeedItem; now: string; al
 }
 
 function ResultsGrid({ r }: { r: NonNullable<FeedItem["results"]> }) {
+  const lender = !r.metrics.some((m) => m.key === "ebitda");
   return (
     <div className="mt-3 rounded-xl bg-surface-2 p-3">
       <div className="grid grid-cols-[1fr_auto_auto_auto] items-baseline gap-x-4 gap-y-1.5 text-[13px]">
@@ -135,8 +136,9 @@ function ResultsGrid({ r }: { r: NonNullable<FeedItem["results"]> }) {
       <p className="mt-1 text-[10px] text-faint">
         vs {r.prevPeriod} (QoQ) and {r.yoyPeriod} (YoY) ·{" "}
         {r.source === "filing"
-          ? "read from the results filing by FINN; EBITDA = PBT + finance cost + D&A − other income"
+          ? `read from the results filing by FINN${lender ? "" : "; EBITDA = PBT + finance cost + D&A − other income"}`
           : `standardised by screener.in${r.verified ? " · ✓ matches the filing" : ""}`}
+        {lender && " · a lender, so no EBITDA line"}
       </p>
     </div>
   );
@@ -155,4 +157,11 @@ function Row({ label, cur, qoq, yoy }: { label: string; cur: number | null; qoq:
       </span>
     </>
   );
+}
+
+/** How you'd refer to someone: "Shri Shrirang Anilrao Kothe" → "Shrirang"; "V. Srinivasa Rangan" → "Srinivasa Rangan". */
+function callName(full: string) {
+  const parts = full.replace(/^(mr|ms|mrs|dr|shri|smt|sri)\.?\s+/i, "").split(/\s+/);
+  const initial = (s: string) => s.length <= 2 || s.endsWith(".");
+  return initial(parts[0]) ? parts.filter((s) => !initial(s)).join(" ") || full : parts[0];
 }

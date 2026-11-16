@@ -1,0 +1,3331 @@
+{
+ "67929fe6-6570-46ec-ba78-311a3d1b4af7": {
+  "summary": "Shri Shrirang Anilrao Kothe has been appointed as the CEO (Helicopter Complex) of Hindustan Aeronautics Ltd effective November 13, 2026.",
+  "materiality": "low",
+  "people": [
+   {
+    "name": "Shrirang Anilrao Kothe",
+    "role": "CEO (Helicopter Complex)",
+    "action": "appointed",
+    "effective": "13.11.2026",
+    "bio": null,
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "78f9d4d5-fbf1-4832-ab55-8642caa3401a": {
+  "summary": "Kaynes Technology reported an 18% YoY revenue increase to Rs 18,987 million for H1 FY27, with an order book crossing INR 100,000 million.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "0601a5f4-8b64-4c51-ba0e-f6e3d7c9cc3d": {
+  "summary": "Kaynes Technology approved a joint venture to manufacture TFT modules and initiated a voluntary strike-off for its subsidiary, Kaynes Embedded Systems.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "dc263173-7e12-49d9-b82c-161c6452a3ec": {
+  "summary": "Kaynes Technology executed a binding term sheet with Vishay Intertechnology to establish a semiconductor joint venture via subsidiary KSPL, where Vishay will acquire a 49% stake.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "Raghu Panicker",
+    "role": "Managing Director and Chief Executive Officer of KSPL",
+    "action": "appointed",
+    "effective": "November 12, 2026",
+    "bio": "Appointed as the Managing Director and Chief Executive Officer of Kaynes Semicon Private Limited, responsible for day-to-day management and operation of the business.",
+    "roles": [
+     {
+      "org": "Kaynes Semicon Private Limited",
+      "title": "Managing Director and Chief Executive Officer",
+      "from": null,
+      "to": null
+     }
+    ],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "09e5eff9-08fd-4d44-8f42-2d98cfedf129": {
+  "summary": "Navin Fluorine commenced commercial operations at its new ₹236.50 crore hydrofluorocarbons (HFC) plant in Surat, adding up to 15K MTPA R32 equivalent capacity.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "Niraj B. Mankad",
+    "role": "President Legal and Company Secretary",
+    "action": "other",
+    "effective": null,
+    "bio": null,
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "63fe6a7a-bf4e-4efd-8703-36ef93693abc": {
+  "summary": "Tata Power appointed Sanjay Banga as Additional Director and CEO Designate, transitioning to CEO and Managing Director starting May 1, 2027.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "Sanjay Banga",
+    "role": "CEO and Managing Director",
+    "action": "appointed",
+    "effective": "May 1, 2027",
+    "bio": "Sanjay Banga is currently the CEO and Managing Director of Tata Power Renewable Energy Limited and President - Renewables of Tata Power, with over three decades of experience in the power sector. He previously served as President of Transmission and Distribution businesses and CEO of Tata Power Delhi Distribution Limited.",
+    "roles": [
+     {
+      "org": "The Tata Power Company Limited",
+      "title": "President - Renewables",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Tata Power Renewable Energy Limited",
+      "title": "Chief Executive Officer and Managing Director",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "The Tata Power Company Limited",
+      "title": "President of the Transmission and Distribution businesses",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Tata Power Delhi Distribution Limited (TPDDL)",
+      "title": "Chief Executive Officer",
+      "from": 2003,
+      "to": null
+     },
+     {
+      "org": "Reliance Energy (formerly BSES Limited)",
+      "title": "Operations, maintenance, planning, design and project engineering roles",
+      "from": 1996,
+      "to": 2003
+     },
+     {
+      "org": "National Thermal Power Corporation Limited (NTPC)",
+      "title": "Engineer Trainee",
+      "from": 1989,
+      "to": 1995
+     }
+    ],
+    "education": [
+     {
+      "school": "National Institute of Technology, Kurukshetra",
+      "degree": null,
+      "year": null
+     },
+     {
+      "school": "Faculty of Management Studies, University of Delhi",
+      "degree": "Master of Business Administration",
+      "year": null
+     },
+     {
+      "school": "Harvard Business School",
+      "degree": "Senior Executive Leadership Program",
+      "year": null
+     }
+    ]
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "d13d3afb-08f4-482b-9b7c-55bd80a4e76a": {
+  "summary": "Tata Power approved an ₹11,871 crore investment to add a 1,800 MW Pumped Storage Project at Shirwata, Maharashtra over 51 months to support renewable energy.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "006c3bb9-365b-4dd0-b130-da5117324516": {
+  "summary": "ICRA Limited has withdrawn Hindustan Aeronautics' long-term and short-term credit ratings at the company's request following bankers' NOCs.",
+  "materiality": "low",
+  "people": [
+   {
+    "name": "Shailesh Bansal",
+    "role": "Company Secretary & Compliance Officer",
+    "action": "other",
+    "effective": null,
+    "bio": null,
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "64936a52-eff1-44b5-8d2c-7b6f402261a2": {
+  "summary": "Larsen & Toubro secured a significant order from Noida Metro Rail Corporation for the Aqua Line Extension project, boosting its heavy civil infrastructure order book.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "c49c17d4-2697-46d5-96f2-6e9b77f10b8e": {
+  "summary": "Tata Steel increased its equity stake in subsidiary Creative Port Development Private Limited by 6.5% to 57.5% through the conversion of preference shares.",
+  "materiality": "medium",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "16286674-572c-48bc-a47c-b8a9d5c07363": {
+  "summary": "Reserve Bank of India approved the re-appointment of Mr. V. Srinivasa Rangan as Whole-time Director (designated as Executive Director) of HDFC Bank Limited for one year.",
+  "materiality": "medium",
+  "people": [
+   {
+    "name": "V. Srinivasa Rangan",
+    "role": "Whole-time Director (designated as Executive Director)",
+    "action": "reappointed",
+    "effective": "November 23, 2026",
+    "bio": "Mr. V. Srinivasa Rangan is not related to any other Director or Key Managerial Personnel of the Bank and is not debarred from holding the office of a director by any SEBI order or other authority.",
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "a21e7cd0-569d-424c-9edd-b2c6e657187e": {
+  "summary": "Tata Steel reported consolidated revenues of Rs 65,436 crores and an EBITDA of Rs 10,665 crores for the quarter ended September 30, 2026.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "3b5706e9-8062-4f28-ae69-9e7d6e5ec668": {
+  "summary": "Tata Steel reported consolidated quarterly EBITDA of Rs 10,665 crores and half-year EBITDA of Rs 20,035 crores, driven by strong growth in the Indian operations.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "4f4ea23c-0c48-4420-a9bc-7e963dd8cefe": {
+  "summary": "Tata Steel reported audited financial results for the quarter and half-year ended September 30, 2026, and announced the retirement of Vice Chairman Noel Naval Tata.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "Noel Naval Tata",
+    "role": "Non-Executive, Non-Independent Director and Vice Chairman",
+    "action": "retired",
+    "effective": "November 11, 2026",
+    "bio": "Associated with the Company since March 2022, providing valuable guidance and strategic direction.",
+    "roles": [
+     {
+      "org": "Tata Steel Limited",
+      "title": "Non-Executive, Non-Independent Director and Vice Chairman",
+      "from": null,
+      "to": null
+     }
+    ],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "results": {
+   "basis": "consolidated",
+   "unit": "crore",
+   "quarter": "Sep 2026",
+   "prevQuarter": "Jun 2026",
+   "yoyQuarter": "Sep 2025",
+   "revenue": {
+    "cur": 65436.24,
+    "prev": 60794.29,
+    "yoy": 58689.29
+   },
+   "otherIncome": {
+    "cur": 248.28,
+    "prev": 232.68,
+    "yoy": 363.55
+   },
+   "financeCost": {
+    "cur": 2005.32,
+    "prev": 1770.51,
+    "yoy": 1774.96
+   },
+   "depreciation": {
+    "cur": 3781.83,
+    "prev": 3639.65,
+    "yoy": 2893
+   },
+   "pbt": {
+    "cur": 5455.15,
+    "prev": 3837.53,
+    "yoy": 4222.47
+   },
+   "pat": {
+    "cur": 3699.59,
+    "prev": 2385.24,
+    "yoy": 3183.09
+   }
+  }
+ },
+ "d1aaeb85-6ca1-4b7d-9c05-4eb4916c7455": {
+  "summary": "Shareholders approved the appointment of Mr. Leo Puri as an Independent Director for five years, and he will assume office as Chairman on 23rd January 2027.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "Leo Puri",
+    "role": "Independent Director",
+    "action": "appointed",
+    "effective": "7th September 2026",
+    "bio": "Appointed as an Additional and Independent Director for a first term of five consecutive years from 7th September 2026 to 6th September 2031, and shall assume office as Chairman of the Board with effect from 23rd January 2027.",
+    "roles": [],
+    "education": []
+   },
+   {
+    "name": "R. Seshasayee",
+    "role": "Chairman and Independent Director",
+    "action": "other",
+    "effective": "22nd January 2027",
+    "bio": null,
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "4de0b0df-dd85-401a-9d6b-dd85fc660c4f": {
+  "summary": "Noel Naval Tata is retiring as Non-Executive, Non-Independent Director and Vice-Chairman of Tata Steel, impacting leadership as auditor flags uncertainties in Dutch subsidiary fair value.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "Noel Naval Tata",
+    "role": "Non-Executive, Non-Independent Director and Vice-Chairman",
+    "action": "retired",
+    "effective": "November 11, 2026",
+    "bio": "Associated with the Company since March 2022, providing valuable guidance and strategic direction during his tenure.",
+    "roles": [
+     {
+      "org": "Tata Steel Limited",
+      "title": "Non-Executive, Non-Independent Director and Vice-Chairman",
+      "from": 2022,
+      "to": 2026
+     }
+    ],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "4309c275-8b2b-4c7e-ab79-d462ab07815f": {
+  "summary": "Asian Paints shareholders approved the appointment of Leo Puri as an Independent Director for a five-year term through a postal ballot.",
+  "materiality": "medium",
+  "people": [
+   {
+    "name": "Leo Puri",
+    "role": "Independent Director",
+    "action": "appointed",
+    "effective": "7th September 2026",
+    "bio": null,
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "4e64425b-a1b2-4110-9300-00521a8fab34": {
+  "summary": "Asian Paints shareholders approved the appointment of Mr. Leo Puri as an Independent Director for a five-year term ending September 2031 via postal ballot.",
+  "materiality": "medium",
+  "people": [
+   {
+    "name": "Leo Puri",
+    "role": "Independent Director",
+    "action": "appointed",
+    "effective": "7th September 2026",
+    "bio": "Appointed as an Independent Director of the Company, not liable to retire by rotation, for a term of five consecutive years commencing from 7th September 2026 to 6th September 2031.",
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "a617b51a-4ae7-4b4e-9eee-58db1bfd396f": {
+  "summary": "Adani Ports agreed to acquire a 100% stake in Europe's second-largest independent liquid storage operator, Evos B.V., for an equity value of EUR 1,184 million.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "7092e87c-667d-42ce-8cce-59c8bdb0421a": {
+  "summary": "Equitas Small Finance Bank announced the immediate resignation of MD & CEO P. N. Vasudevan and appointed Whole-Time Director Balaji Nuthalapadi as interim MD & CEO.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "P. N. Vasudevan",
+    "role": "Managing Director & Chief Executive Officer",
+    "action": "resigned",
+    "effective": "November 06, 2026",
+    "bio": "Served as the Managing Director & Chief Executive Officer of the Bank and was relieved from services with immediate effect following his resignation letter dated November 5, 2026.",
+    "roles": [],
+    "education": []
+   },
+   {
+    "name": "Balaji Nuthalapadi",
+    "role": "Interim MD & CEO",
+    "action": "appointed",
+    "effective": "November 06, 2026",
+    "bio": "Whole-Time Director (Executive Director) of the Bank appointed as interim MD & CEO for three months or until a regular MD & CEO is appointed. He has over 28 years of continuous experience with CITI and previously served as Managing Director & Head, Centralized Controls Testing Execution.",
+    "roles": [
+     {
+      "org": "CITI",
+      "title": "Managing Director & Head, Centralized Controls Testing Execution",
+      "from": 2024,
+      "to": null
+     },
+     {
+      "org": "CITI",
+      "title": "Head of South Asia Operations & Technology (O&T)",
+      "from": 2021,
+      "to": null
+     }
+    ],
+    "education": [
+     {
+      "school": "Indian Institute of Management (IIM) Ahmedabad",
+      "degree": "post-graduation",
+      "year": 1996
+     }
+    ]
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "0dcd0538-da50-45bb-9f64-cf80d42ed38e": {
+  "summary": "Tata Power Renewables commissioned a 300 MW solar project in Karnataka for SECI, boosting TPREL's total renewable utility capacity to 12 GW.",
+  "materiality": "medium",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "a01f5f02-c553-41c1-8da0-df23bfcd9902": {
+  "summary": "FSN E-Commerce Ventures reported Q2 FY2027 consolidated revenue of ₹3,006.04 crore and net profit of ₹101.19 crore, and approved acquiring an 82% stake in Simply Nam Beauty for up to ₹33 crore.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite",
+  "results": {
+   "basis": "consolidated",
+   "unit": "crore",
+   "quarter": "September 30, 2026",
+   "prevQuarter": "June 30, 2026",
+   "yoyQuarter": "September 30, 2025",
+   "revenue": {
+    "cur": 3006.04,
+    "prev": 2782,
+    "yoy": 2345.98
+   },
+   "otherIncome": {
+    "cur": 9.52,
+    "prev": 9.31,
+    "yoy": 8.03
+   },
+   "financeCost": {
+    "cur": 30.52,
+    "prev": 26.74,
+    "yoy": 31.47
+   },
+   "depreciation": {
+    "cur": 93.05,
+    "prev": 89.46,
+    "yoy": 79.09
+   },
+   "pbt": {
+    "cur": 148.51,
+    "prev": 129.16,
+    "yoy": 55.38
+   },
+   "pat": {
+    "cur": 101.19,
+    "prev": 79.76,
+    "yoy": 32.98
+   }
+  }
+ },
+ "ad1c9201-62df-411a-9c88-8afe94b568ca": {
+  "summary": "FSN E-Commerce Ventures approved the acquisition of an 82% stake in Simply Nam Beauty Private Limited for up to ₹33 crores.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "b015ae26-44dc-4fa5-966c-94649458ac75": {
+  "summary": "Nykaa approved its September 2026 quarter financial results and agreed to acquire an 82% equity stake in Simply Nam Beauty Private Limited for up to INR 33 crores.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite",
+  "results": {
+   "basis": "consolidated",
+   "unit": "crore",
+   "quarter": "September 30, 2026",
+   "prevQuarter": "June 30, 2026",
+   "yoyQuarter": "September 30, 2025",
+   "revenue": {
+    "cur": 3006.04,
+    "prev": 2782,
+    "yoy": 2345.98
+   },
+   "otherIncome": {
+    "cur": 9.52,
+    "prev": 9.31,
+    "yoy": 8.03
+   },
+   "financeCost": {
+    "cur": 30.52,
+    "prev": 26.74,
+    "yoy": 31.47
+   },
+   "depreciation": {
+    "cur": 93.05,
+    "prev": 89.46,
+    "yoy": 79.09
+   },
+   "pbt": {
+    "cur": 148.51,
+    "prev": 129.16,
+    "yoy": 55.38
+   },
+   "pat": {
+    "cur": 101.19,
+    "prev": 79.76,
+    "yoy": 32.98
+   }
+  }
+ },
+ "90d4d0da-7873-410e-ac11-fef10a5063d1": {
+  "summary": "TCS released a global enterprise AI study highlighting productivity as the top benefit, while security and governance remain key concerns.",
+  "materiality": "low",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "99d7b0e5-ef80-4080-9b73-b9d07b484712": {
+  "summary": "Equitas Small Finance Bank announced Balaji Nuthalapadi as Interim CEO following the resignation of P.N. Vasudevan, pending RBI approval.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "Balaji Nuthalapadi",
+    "role": "Interim Chief Executive Officer",
+    "action": "appointed",
+    "effective": null,
+    "bio": "Currently serving as a Whole-Time Director (Executive Director) of the Bank, he previously spent 28 years at Citi, including as Managing Director and Head of India Citi Solutions Centers and Head of India Operations and Technology.",
+    "roles": [
+     {
+      "org": "Equitas Small Finance Bank Limited",
+      "title": "Interim Chief Executive Officer",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Equitas Small Finance Bank Limited",
+      "title": "Whole-Time Director (Executive Director)",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Citi",
+      "title": "Managing Director and Head of India Citi Solutions Centers and Head of India Operations and Technology",
+      "from": null,
+      "to": null
+     }
+    ],
+    "education": []
+   },
+   {
+    "name": "P. N. Vasudevan",
+    "role": "Managing Director and CEO",
+    "action": "resigned",
+    "effective": null,
+    "bio": "Resigned from his position as Managing Director and CEO of the Bank.",
+    "roles": [
+     {
+      "org": "Equitas Small Finance Bank Limited",
+      "title": "Managing Director and CEO",
+      "from": null,
+      "to": null
+     }
+    ],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "aa9f67f9-d2df-4e64-b288-9b8b3fc1a25d": {
+  "summary": "Bajaj Finance shareholders approved issuing preferential warrants to promoter Bajaj Finserv and raising funds through a Qualified Institutions Placement.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "7e144594-351c-471b-9ce8-be6e518e95c7": {
+  "summary": "Kotak Mahindra Bank received approval from the Competition Commission of India for its planned acquisition of Deutsche Bank AG's Indian retail, private banking, and wealth management businesses.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "d54969ca-272a-40e4-847f-c2974d356786": {
+  "summary": "Equitas Small Finance Bank appointed Whole-Time Director Balaji Nuthalapadi as Interim CEO following the resignation of MD & CEO P.N. Vasudevan, subject to RBI approval.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "Balaji Nuthalapadi",
+    "role": "Interim CEO",
+    "action": "appointed",
+    "effective": null,
+    "bio": "Mr. Balaji Nuthalapadi has over 28 years of continuous experience with Citi and has been serving as the Whole-time Director (Executive Director) of the Bank since March 29, 2025. He completed his post-graduation from IIM Ahmedabad in 1996.",
+    "roles": [
+     {
+      "org": "Equitas Small Finance Bank Limited",
+      "title": "Interim CEO",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Equitas Small Finance Bank Limited",
+      "title": "Whole-Time Director (Executive Director)",
+      "from": 2025,
+      "to": null
+     },
+     {
+      "org": "CITI",
+      "title": "Managing Director & Head, Centralized Controls Testing Execution",
+      "from": 2024,
+      "to": null
+     },
+     {
+      "org": "Citi",
+      "title": "Head of South Asia Operations & Technology (O&T)",
+      "from": 2021,
+      "to": null
+     },
+     {
+      "org": "Citi",
+      "title": "Employee",
+      "from": 1997,
+      "to": null
+     }
+    ],
+    "education": [
+     {
+      "school": "Indian Institute of Management (IIM) Ahmedabad",
+      "degree": "Post-graduation",
+      "year": 1996
+     }
+    ]
+   },
+   {
+    "name": "P. N. Vasudevan",
+    "role": "MD & CEO",
+    "action": "resigned",
+    "effective": null,
+    "bio": "Mr. P. N. Vasudevan served as the MD & CEO of the Bank.",
+    "roles": [
+     {
+      "org": "Equitas Small Finance Bank Limited",
+      "title": "MD & CEO",
+      "from": null,
+      "to": null
+     }
+    ],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "af2b83ef-b621-415d-9fac-416f75bf694f": {
+  "summary": "Tata Steel completed its amalgamation with wholly owned subsidiary Rujuvalika Investments, resulting in an increased authorized share capital of ₹32,621.05 crore.",
+  "materiality": "medium",
+  "people": [
+   {
+    "name": "Parvatheesam Kanchinadham",
+    "role": "Company Secretary and Chief Legal Officer",
+    "action": "other",
+    "effective": "2026-11-03",
+    "bio": null,
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "9b3b98e4-83e6-4b21-b477-1eba9573c09d": {
+  "summary": "Tata Steel's amalgamation with its wholly owned subsidiary Rujuvalika Investments became effective on November 3, 2026, increasing Tata Steel's authorized share capital to ₹32,621.05 crore.",
+  "materiality": "medium",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "4912db6e-c1a7-4283-afbb-d72af3e50efc": {
+  "summary": "Sun Pharma clarified that an older August 2026 news report about its Assam eye-care plant did not warrant disclosure, and it is unaware of undisclosed material events explaining recent share price movements.",
+  "materiality": "low",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "a4e0871b-409f-4d68-9e23-52ed889cf870": {
+  "summary": "Kaynes Technology India Limited incorporated a wholly owned subsidiary, Kaynes Arabia Electronics Company, in Saudi Arabia to expand its electronic manufacturing footprint.",
+  "materiality": "medium",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "be305212-ae95-4757-93fe-23429494a3c8": {
+  "summary": "Mr. Sanjay D’Souza, Group Head of Business Banking, Emerging & Micro Enterprises Group and Senior Management Personnel, superannuated from HDFC Bank after nearly 27 years of service.",
+  "materiality": "medium",
+  "people": [
+   {
+    "name": "Sanjay D’Souza",
+    "role": "Group Head – Business Banking, Emerging & Micro Enterprises Group and Senior Management Personnel",
+    "action": "retired",
+    "effective": "October 31, 2026",
+    "bio": "He superannuated from the services of the Bank after an association of nearly 27 years, serving as one of the key architects of the Bank’s SME business across both Credit and Business.",
+    "roles": [
+     {
+      "org": "HDFC Bank Limited",
+      "title": "Group Head – Business Banking, Emerging & Micro Enterprises Group and Senior Management Personnel",
+      "from": null,
+      "to": 2026
+     }
+    ],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "833e55a7-6c4c-498a-b036-5aba03db10d8": {
+  "summary": "L&T secured significant orders ranging from ₹1,000 to ₹2,500 crore for residential developments in Mumbai and Bengaluru, a commercial tower in Hyderabad, and ongoing project add-ons.",
+  "materiality": "medium",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "924bbea8-ad95-4772-af15-b51226af9464": {
+  "summary": "Sun Pharmaceutical Industries shareholders approved special resolutions via postal ballot, including a new employee stock option plan, secondary equity acquisitions, and enhanced borrowing and investment limits.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "e37c5322-e4c3-4831-b3c6-48d5930f6d19": {
+  "summary": "Larsen & Toubro extended the completion timeline for its business transfer and share sale to subsidiary Vyoma.AI to March 31, 2027.",
+  "materiality": "low",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "60a417d2-0bcb-4c4f-a166-e36d2d5dda85": {
+  "summary": "NTPC declared a first interim dividend of ₹3 per share for FY 2026-27 alongside reporting financial results for the quarter and half year ended 30 September 2026.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite",
+  "noResultsTable": true
+ },
+ "7bbcaf67-e404-4ffb-b7fd-07ff385fdb0a": {
+  "summary": "Sun Pharmaceutical Industries reported financial results for the quarter and half year ended 30 September 2026, approved by the Board.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite",
+  "noResultsTable": true
+ },
+ "7c2063f1-f3cd-4f4d-944f-9e1f7346bc2d": {
+  "summary": "Navin Fluorine declared an interim dividend of ₹8 per share for FY 2026-27, with a record date of November 5, 2026.",
+  "materiality": "low",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "a56e304a-a629-417a-8882-023924df0b88": {
+  "summary": "Sun Pharma received U.S. FDA approval for ILUMYA to treat active psoriatic arthritis, expanding its high-growth innovative dermatology portfolio.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "4e229fdc-f89a-46e6-9239-8e74048ba1bb": {
+  "summary": "Equitas Small Finance Bank reported unaudited financial results for September 30, 2026, reappointed its Part-Time Chairman, and relocated its registered office.",
+  "materiality": "medium",
+  "people": [
+   {
+    "name": "Anil Kumar Sharma",
+    "role": "Part-Time Chairman",
+    "action": "reappointed",
+    "effective": "25 April 2027",
+    "bio": "Re-appointed as Part-Time Chairman of the Bank for a further period of three consecutive years commencing from April 25, 2027.",
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "noResultsTable": true
+ },
+ "da1667f9-349a-427c-935a-096e4842ff16": {
+  "summary": "Fitch Ratings affirmed Adani Ports and Special Economic Zone Ltd's Long-Term Foreign-Currency Issuer Default Rating and unsecured note at 'BBB-' with a Stable outlook.",
+  "materiality": "low",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "37dd4c42-b030-4d7b-9513-bf3026388a2d": {
+  "summary": "Trent announces major board changes including Noel N. Tata's retirement as Chairman, Bahram Vakil's appointment as Chairman, and new additions to the board.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "Noel N. Tata",
+    "role": "Chairman and Director",
+    "action": "retired",
+    "effective": "11 Nov 2026",
+    "bio": "Associated with the Company since 1997. Appointed as Chairman Emeritus effective 12th November 2026.",
+    "roles": [
+     {
+      "org": "Trent Limited",
+      "title": "Chairman and Director",
+      "from": 1997,
+      "to": 2026
+     }
+    ],
+    "education": []
+   },
+   {
+    "name": "Bahram Vakil",
+    "role": "Chairman",
+    "action": "appointed",
+    "effective": "12 Nov 2026",
+    "bio": null,
+    "roles": [],
+    "education": []
+   },
+   {
+    "name": "Rajiv Dube",
+    "role": "Additional Director (Non-Executive, Non-Independent)",
+    "action": "appointed",
+    "effective": "30 Oct 2026",
+    "bio": "An Indian industry veteran with over 40 years of multi-sector experience, having served at Tata and Aditya Birla. Currently an Independent Director on Boards, an advisory board member, professor of practice at Deakin Business School, and a senior advisor.",
+    "roles": [
+     {
+      "org": "Aditya Birla group",
+      "title": "Executive Director",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Tata Motors",
+      "title": "President of car business",
+      "from": null,
+      "to": null
+     }
+    ],
+    "education": []
+   },
+   {
+    "name": "Kalpana Merchant",
+    "role": "Independent Director",
+    "action": "appointed",
+    "effective": "30 Oct 2026",
+    "bio": "Has over 45 years of experience in the legal profession, dealing with commercial property, infrastructure, project finance, banking, dispute resolution, capital markets, and M&A. Associated with Kanga & Co., AZB & Partners, and Jerome Merchant + Partners.",
+    "roles": [
+     {
+      "org": "Kanga & Co.",
+      "title": "Partner",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "AZB & Partners",
+      "title": "Partner",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Jerome Merchant + Partners",
+      "title": "Partner",
+      "from": null,
+      "to": null
+     }
+    ],
+    "education": [
+     {
+      "school": "",
+      "degree": "Bachelor of Laws (LL.B.)",
+      "year": null
+     },
+     {
+      "school": "",
+      "degree": "Bachelor of Arts in Psychology",
+      "year": null
+     }
+    ]
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "34e227a1-ebd2-4b77-98fb-cb8e66c7450e": {
+  "summary": "Trent Ltd reported standalone revenue of ₹5,787.64 crore and net profit of ₹489.65 crore for the quarter ended 30th September 2026.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite",
+  "results": {
+   "basis": "standalone",
+   "unit": "crore",
+   "quarter": "30th Sept, 2026",
+   "prevQuarter": "30th June, 2026",
+   "yoyQuarter": "30th Sept, 2025",
+   "revenue": {
+    "cur": 5787.64,
+    "prev": 5666.3,
+    "yoy": 4724.06
+   },
+   "otherIncome": {
+    "cur": 34.15,
+    "prev": 30.18,
+    "yoy": 119.21
+   },
+   "financeCost": {
+    "cur": 41.92,
+    "prev": 45.12,
+    "yoy": 41.28
+   },
+   "depreciation": {
+    "cur": 401.01,
+    "prev": 393.8,
+    "yoy": 315.29
+   },
+   "pbt": {
+    "cur": 644.89,
+    "prev": 701.82,
+    "yoy": 575.88
+   },
+   "pat": {
+    "cur": 489.65,
+    "prev": 531.77,
+    "yoy": 450.77
+   }
+  }
+ },
+ "e21d6d79-1804-4e55-ba1f-ef7ab6f6586a": {
+  "summary": "Laurus Labs reported strong Q2 FY27 results with revenue up 33% and announced strategic majority acquisitions in Galenvs Sciences and SI &C Resins.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "7b1df9a1-0d33-476c-beff-88631afb37a7": {
+  "summary": "Laurus Labs has declared an interim dividend of Re. 1.00 per share for FY 2026-27, with November 6, 2026 as the record date.",
+  "materiality": "medium",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "1c40368c-93aa-4496-bd45-36b33930760c": {
+  "summary": "Laurus Labs is acquiring a 52% stake in SI & C Resins for Rs. 32.50 crores to integrate its peptide manufacturing capabilities.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "995ced01-895f-4c27-948b-998b5e5e5642": {
+  "summary": "Laurus Labs reported Q2 FY27 consolidated revenue of ₹2,206.37 crore, declared an interim dividend of Re. 1 per share, and appointed Kundan Kumar Jha as Joint Company Secretary.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "Kundan Kumar Jha",
+    "role": "Joint Company Secretary",
+    "action": "appointed",
+    "effective": "November 1, 2026",
+    "bio": "Associate Member of the Institute of Company Secretaries of India holding Membership No. A17612.",
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "2191e039-ac93-46a6-8c5f-5557cd0a1890": {
+  "summary": "Laurus Labs reported Q2 FY27 financial results and declared an interim dividend of Re. 1.00 per share, alongside appointing a joint company secretary.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "Kundan Kumar Jha",
+    "role": "Joint Company Secretary",
+    "action": "appointed",
+    "effective": "November 1, 2026",
+    "bio": "Associate Member of the Institute of Company Secretaries of India holding Membership No. A17612.",
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "results": {
+   "basis": "consolidated",
+   "unit": "crore",
+   "quarter": "Sep-26",
+   "prevQuarter": "Jun-26",
+   "yoyQuarter": "30-Sep-25",
+   "revenue": {
+    "cur": 2206.37,
+    "prev": 2026.31,
+    "yoy": 1653.47
+   },
+   "otherIncome": {
+    "cur": 13.01,
+    "prev": 9.18,
+    "yoy": 26.96
+   },
+   "financeCost": {
+    "cur": 44.1,
+    "prev": 42.22,
+    "yoy": 40
+   },
+   "depreciation": {
+    "cur": 127.39,
+    "prev": 123.87,
+    "yoy": 120.49
+   },
+   "pbt": {
+    "cur": 591.82,
+    "prev": 481.36,
+    "yoy": 269.73
+   },
+   "pat": {
+    "cur": 436.74,
+    "prev": 361.99,
+    "yoy": 193.75
+   }
+  }
+ },
+ "490c43fb-6833-4899-acd6-d81b5ad86f15": {
+  "summary": "Laurus Labs is acquiring a 60% stake in Canadian CRO/CDMO Galenvs Sciences for USD 3.75 million to expand its oligonucleotide and nanoparticle capabilities.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "ccccce96-73ac-469b-ba6d-1478cb42beb9": {
+  "summary": "MD and CEO P.N. Vasudevan has resigned to remove perceived conflict-of-interest overhangs regarding his daughter's NBFC, and will continue until a successor takes over.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "P. N. Vasudevan",
+    "role": "Managing Director & Chief Executive Officer",
+    "action": "resigned",
+    "effective": null,
+    "bio": "Instrumental in the journey of Equitas since its inception as a microfinance institution in 2007 and its subsequent transition into a Small Finance Bank in 2016.",
+    "roles": [
+     {
+      "org": "Equitas Small Finance Bank",
+      "title": "Managing Director & Chief Executive Officer",
+      "from": 2007,
+      "to": null
+     },
+     {
+      "org": "DCB Bank",
+      "title": "Employee / Stint",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Cholamandalam",
+      "title": "Employee",
+      "from": null,
+      "to": null
+     }
+    ],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "ee25b760-fea6-4b6c-8129-d2fc952f596e": {
+  "summary": "Equitas Small Finance Bank reported September 2026 financial results, re-appointed its Part-Time Chairman, and shifted its registered office location in Chennai.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "Anil Kumar Sharma",
+    "role": "Part-Time Chairman",
+    "action": "reappointed",
+    "effective": "25 April 2027",
+    "bio": "Re-appointed as Part-Time Chairman for a further period of three consecutive years commencing from April 25, 2027 and ending on April 24, 2030, subject to regulatory approvals.",
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "noResultsTable": true
+ },
+ "2239e671-a371-4539-a9c1-edcb7d4d78c6": {
+  "summary": "Equitas Small Finance Bank reported its September 2026 financial results, re-appointed Anil Kumar Sharma as Part-Time Chairman, and relocated its registered office.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "Anil Kumar Sharma",
+    "role": "Part-Time Chairman",
+    "action": "reappointed",
+    "effective": "25 Apr 2027",
+    "bio": null,
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "noResultsTable": true
+ },
+ "d6bab95e-f802-44e9-befa-9f21ac8aa4bf": {
+  "summary": "Asian Paints announced an interim dividend of Rs. 5.75 per share along with standalone and consolidated financial results for the quarter ended September 30, 2026.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "05acb0c8-79a4-4a10-8699-9d45e9c4421e": {
+  "summary": "Asian Paints declared an interim dividend of Rs. 5.75 per share and reported financial results for the quarter and half year ended September 30, 2026.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "4680660e-cf3c-4b0c-99fa-9949e760babe": {
+  "summary": "Asian Paints reported its financial results for the quarter and half year ended September 30, 2026, and declared an interim dividend of Rs. 5.75 per share.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "1f0df7d6-ab0a-4d13-b4e7-5f477f62005d": {
+  "summary": "Asian Paints declared an interim dividend of Rs. 5.75 per share and reported its financial results for the quarter ended September 30, 2026.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite",
+  "noResultsTable": true
+ },
+ "1e42f4cc-1281-4e85-abe4-874e9b70a670": {
+  "summary": "Asian Paints approved an interim dividend of Rs 5.75 per share and reported financial results for the quarter ended September 30, 2026.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "92071a93-de8f-4923-85b6-f853a765c9b9": {
+  "summary": "Asian Paints announced its financial results for the quarter ended September 30, 2026, and declared an interim dividend of Rs. 5.75 per share.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite",
+  "noResultsTable": true
+ },
+ "69d271ca-7ad7-4b55-adac-41fd20b62583": {
+  "summary": "Hindustan Aeronautics appointed Shri P B Rangarao as Director (Operations) for a five-year term, while Shri Kota Ravi ceased holding the additional charge.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "P B Rangarao",
+    "role": "Director (Operations)",
+    "action": "appointed",
+    "effective": "28th October, 2026",
+    "bio": "Shri P B Rangarao has over three decades of experience at HAL, previously serving as Chief Executive Officer (Helicopter Complex) and holding key roles across manufacturing, plant maintenance, and planning.",
+    "roles": [
+     {
+      "org": "Hindustan Aeronautics Ltd",
+      "title": "Director (Operations)",
+      "from": 2026,
+      "to": null
+     },
+     {
+      "org": "Hindustan Aeronautics Ltd",
+      "title": "Chief Executive Officer (Helicopter Complex)",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Hindustan Aeronautics Ltd",
+      "title": "Executive Director, Helicopter Division",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Hindustan Aeronautics Ltd",
+      "title": "General Manager, Helicopter Division",
+      "from": null,
+      "to": null
+     }
+    ],
+    "education": [
+     {
+      "school": "Regional Engineering College, Warangal",
+      "degree": "Bachelor’s degree in Mechanical Engineering",
+      "year": null
+     },
+     {
+      "school": "XIME, Bengaluru",
+      "degree": "Post Graduate Diploma in Business Management",
+      "year": null
+     },
+     {
+      "school": "Indian Institute of Management (IIM), Ahmedabad",
+      "degree": "Leadership Development Program",
+      "year": null
+     }
+    ]
+   },
+   {
+    "name": "Kota Ravi",
+    "role": "Chairman and Managing Director",
+    "action": "ceased",
+    "effective": "28th October, 2026",
+    "bio": "Chairman and Managing Director of the Company who ceased to hold the additional charge of Director (Operations).",
+    "roles": [
+     {
+      "org": "Hindustan Aeronautics Ltd",
+      "title": "Chairman and Managing Director",
+      "from": null,
+      "to": null
+     }
+    ],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "a900e043-39a6-415b-ac5b-b504323657ca": {
+  "summary": "Tata Power signed an MoU with BPCL to develop 110 kV power infrastructure for BPCL's PRFCCU project in Mumbai, involving an estimated outlay of ₹250 crore.",
+  "materiality": "medium",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "23b4e4f8-3d8b-4f89-a385-4bc94ffbf939": {
+  "summary": "L&T's Transportation Infrastructure business won major Design & Build orders valued between ₹5,000 to ₹10,000 crore for Dhaka Metro Line 1 in Bangladesh.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "eee0209e-2a9c-4d1c-91a1-8b1dbc6868a2": {
+  "summary": "Anup Bagchi has assumed charge as the new Managing Director and Chief Executive Officer of HDFC Bank, succeeding Sashidhar Jagdishan whose tenure ended.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "Sashidhar Jagdishan",
+    "role": "Managing Director and Chief Executive Officer",
+    "action": "ceased",
+    "effective": "October 26, 2026",
+    "bio": "Vacated the office of MD & CEO on completion of tenure, noted for his strategic vision, performance stewardship, customer-centric approach, and steering one of the largest corporate mergers in India.",
+    "roles": [],
+    "education": []
+   },
+   {
+    "name": "Anup Bagchi",
+    "role": "Managing Director and Chief Executive Officer",
+    "action": "appointed",
+    "effective": "October 27, 2026",
+    "bio": "Assumed charge as the new Managing Director and Chief Executive Officer of the Bank.",
+    "roles": [],
+    "education": []
+   },
+   {
+    "name": "Kaizad Bharucha",
+    "role": "Deputy Managing Director",
+    "action": "other",
+    "effective": "October 27, 2026",
+    "bio": null,
+    "roles": [],
+    "education": []
+   },
+   {
+    "name": "V. Srinivasa Rangan",
+    "role": "Executive Director",
+    "action": "other",
+    "effective": "October 27, 2026",
+    "bio": null,
+    "roles": [],
+    "education": []
+   },
+   {
+    "name": "Srinivasan Vaidyanathan",
+    "role": "Chief Financial Officer",
+    "action": "other",
+    "effective": "October 27, 2026",
+    "bio": null,
+    "roles": [],
+    "education": []
+   },
+   {
+    "name": "Ajay Agarwal",
+    "role": "Company Secretary",
+    "action": "other",
+    "effective": "October 27, 2026",
+    "bio": null,
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "ff41e8af-b971-4cbe-8988-24b582f4f2a3": {
+  "summary": "Kotak Mahindra Bank appointed Ms. Anu Aggarwal as a Senior Management Personnel in the Wholesale Banking Group, effective October 24, 2026.",
+  "materiality": "medium",
+  "people": [
+   {
+    "name": "Anu Aggarwal",
+    "role": "Senior Management Personnel (President in the Wholesale Banking Group)",
+    "action": "appointed",
+    "effective": "October 24, 2026",
+    "bio": "Ms. Anu Aggarwal is currently the Head-Corporate and Transaction Banking and has been associated with the Bank for over 19 years. She holds a B.Com. degree and an MBA from JBIMS, Mumbai.",
+    "roles": [
+     {
+      "org": "Kotak Mahindra Bank Ltd.",
+      "title": "Head-Corporate and Transaction Banking, Wholesale Banking Group",
+      "from": 2025,
+      "to": null
+     },
+     {
+      "org": "Kotak Mahindra Bank Ltd.",
+      "title": "Various roles in Wholesale Banking Division (Conglomerates, Multinationals, New Age companies, etc.)",
+      "from": 2007,
+      "to": 2025
+     },
+     {
+      "org": "Citibank",
+      "title": "Global Corporate and Investment Banking Team",
+      "from": null,
+      "to": null
+     }
+    ],
+    "education": [
+     {
+      "school": "Punjab University",
+      "degree": "B.Com. in Commerce and Economics",
+      "year": null
+     },
+     {
+      "school": "Jamnalal Bajaj Institute of Management Studies (JBIMS), Mumbai",
+      "degree": "MBA",
+      "year": null
+     }
+    ]
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "c7003360-9115-4ebe-a0ed-f64bfb260347": {
+  "summary": "Kotak Mahindra Bank reported standalone PAT of ₹4,212 crore and consolidated PAT of ₹5,645 crore for Q2FY27, driven by strong loan and deposit growth.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "Avan Doomasia",
+    "role": "President & Company Secretary",
+    "action": "other",
+    "effective": null,
+    "bio": null,
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "7f6f9ced-39f5-4f3b-b532-5ff705e162bf": {
+  "summary": "Kotak Mahindra Bank appointed Anup Kumar Saha as Managing Director & CEO and re-appointed Ashu Suyash as Independent Director.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "Anup Kumar Saha",
+    "role": "Managing Director & CEO",
+    "action": "appointed",
+    "effective": "January 1, 2027",
+    "bio": "Mr. Anup Kumar Saha has over 32 years of professional experience, including 25 years in financial services across banking and non-banking financial institutions. He currently serves as a Whole-time Director (Executive Director) of the Bank.",
+    "roles": [
+     {
+      "org": "Kotak Mahindra Bank Limited",
+      "title": "Managing Director & CEO",
+      "from": 2027,
+      "to": null
+     },
+     {
+      "org": "Kotak Mahindra Bank Limited",
+      "title": "Whole-time Director (Executive Director)",
+      "from": 2026,
+      "to": 2026
+     },
+     {
+      "org": "Bajaj Finance Limited",
+      "title": "Managing Director & CEO",
+      "from": 2025,
+      "to": 2025
+     },
+     {
+      "org": "Bajaj Finance Limited",
+      "title": "Deputy Managing Director",
+      "from": 2024,
+      "to": 2025
+     },
+     {
+      "org": "Bajaj Finance Limited",
+      "title": "Executive Director",
+      "from": 2023,
+      "to": 2024
+     },
+     {
+      "org": "Bajaj Finance Limited",
+      "title": "Deputy CEO–Consumer, MSME, Marketing, Operations & Service and Digital platform",
+      "from": 2019,
+      "to": 2022
+     },
+     {
+      "org": "Bajaj Finance Limited",
+      "title": "President–Consumer Finance",
+      "from": 2017,
+      "to": 2019
+     },
+     {
+      "org": "ICICI Bank Limited",
+      "title": "Senior roles leading Retail Secured Assets, Business Intelligence, Retail and Rural Collections, Credit Cards and Retail Structured Finance",
+      "from": 2003,
+      "to": 2017
+     },
+     {
+      "org": "GE Capital",
+      "title": "Credit cards, sales and analytics",
+      "from": 1999,
+      "to": 2003
+     },
+     {
+      "org": "Bharat Heavy Electricals Limited",
+      "title": "Production engineering",
+      "from": 1991,
+      "to": 1995
+     }
+    ],
+    "education": [
+     {
+      "school": "IIT Kharagpur",
+      "degree": "B. Tech degree in Engineering",
+      "year": null
+     },
+     {
+      "school": "IIM Lucknow",
+      "degree": "MBA",
+      "year": null
+     }
+    ]
+   },
+   {
+    "name": "Ashu Suyash",
+    "role": "Independent Director",
+    "action": "reappointed",
+    "effective": "January 24, 2027",
+    "bio": "Ms. Ashu Suyash has over three decades of experience across banking, investment management and global information services sectors. She is the Founder & CEO of Colossa Ventures LLP and previously served as the Managing Director & CEO of CRISIL Limited.",
+    "roles": [
+     {
+      "org": "Colossa Ventures LLP",
+      "title": "Founder & CEO",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "CRISIL Limited",
+      "title": "Managing Director & CEO",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "L&T Investment Management Limited",
+      "title": "CEO",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Fidelity's Indian Mutual Fund Business",
+      "title": "Country Head and Managing Director",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Citibank India",
+      "title": "Key positions across corporate and investment banking group",
+      "from": null,
+      "to": null
+     }
+    ],
+    "education": [
+     {
+      "school": "Institute of Chartered Accountants of India",
+      "degree": "Chartered Accountant",
+      "year": null
+     },
+     {
+      "school": "University of Mumbai",
+      "degree": "Bachelor’s Degree in Commerce",
+      "year": null
+     }
+    ]
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "fd8f06cf-fd65-4a93-944c-e6463ce1eda6": {
+  "summary": "HDFC Bank announced its Q2 FY27 earnings conference call transcript, highlighting strong retail and deposit momentum alongside top leadership transition details.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "Anup Bagchi",
+    "role": "MD and CEO",
+    "action": "appointed",
+    "effective": null,
+    "bio": "Welcomed to the institution as MD and CEO, taking over leadership as Sashi's long innings comes to an end.",
+    "roles": [
+     {
+      "org": "HDFC Bank Limited",
+      "title": "MD and CEO",
+      "from": null,
+      "to": null
+     }
+    ],
+    "education": []
+   },
+   {
+    "name": "Sashidhar Jagdishan",
+    "role": "Managing Director and Chief Executive Officer",
+    "action": "retired",
+    "effective": null,
+    "bio": "Completed a 6-year leadership tenure successfully navigating the post-pandemic phase, the HDFC Limited merger, and scaling branch networks.",
+    "roles": [
+     {
+      "org": "HDFC Bank Limited",
+      "title": "Managing Director and Chief Executive Officer",
+      "from": null,
+      "to": null
+     }
+    ],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "d3016b7e-4efb-458a-95ee-01a85d813dc5": {
+  "summary": "Trent's subsidiary agreed to divest its entire stake in Netria Property Holdings to TreBits Investment Trust for ₹11.25 per share plus loan repayments.",
+  "materiality": "medium",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "ce77353e-4987-4ce8-b231-170f5e9944c4": {
+  "summary": "Sun Pharma will present long-term follow-up data for UNLOXCYT in advanced cutaneous squamous cell carcinoma at the ESMO 2026 Congress.",
+  "materiality": "low",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "6666ef23-c2e3-4284-9fe9-039a6a578297": {
+  "summary": "NTPC Limited appointed Shri Diwakar Nath Misra as an Additional Government Nominee Director representing the Ministry of Power, effective 23rd October 2026.",
+  "materiality": "medium",
+  "people": [
+   {
+    "name": "Diwakar Nath Misra",
+    "role": "Additional Director (Government Nominee Director)",
+    "action": "appointed",
+    "effective": "23rd October 2026",
+    "bio": "Shri Diwakar Nath Misra is a 2000 batch IAS officer of the Assam-Meghalaya cadre and Additional Secretary, Ministry of Power, with over two decades of administrative experience. He is not related to any other Director of the Company and holds no shares in NTPC Limited.",
+    "roles": [
+     {
+      "org": "Ministry of Power, Government of India",
+      "title": "Additional Secretary",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Department of Revenue, Ministry of Finance",
+      "title": "Additional Secretary",
+      "from": 2025,
+      "to": null
+     },
+     {
+      "org": "SJVN Limited",
+      "title": "Board Member",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "NHPC Limited",
+      "title": "Board Member",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Ministry of Commerce & Industry",
+      "title": "Joint Secretary, Department of Commerce",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Oil Industry Development Board (OIDB)",
+      "title": "Secretary",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Ministry of Petroleum & Natural Gas",
+      "title": "Joint Secretary / Director",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Department of Personnel & Training (DoPT)",
+      "title": "Director",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Ministry of Defence",
+      "title": "Private Secretary",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Cabinet Secretariat",
+      "title": "Deputy Secretary",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Government of Assam",
+      "title": "Additional Secretary, Panchayat & Rural Development Department",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Government of Assam",
+      "title": "Principal Secretary, North C Hills (Haflong)",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Government of Assam",
+      "title": "Member, Board of Revenue",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Government of Assam",
+      "title": "Deputy Commissioner of Dhemaji and Golaghat districts",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Government of Assam",
+      "title": "Staff Officer in the Chief Secretary’s Office",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Government of Assam",
+      "title": "Joint Secretary, Home & Political Department",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Government of Assam",
+      "title": "Additional Deputy Commissioner, Kamrup",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Government of Assam",
+      "title": "SDO (Civil), Rangia",
+      "from": null,
+      "to": null
+     }
+    ],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "aa2ff20b-8cd0-4341-bc00-987cf8b20788": {
+  "summary": "L&T secured two large orders valued between ₹2,500 crore to ₹5,000 crore each for constructing government buildings in New Delhi and Andhra Pradesh.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "cac85464-18f1-469b-9a9f-cd6483e8621b": {
+  "summary": "NTPC clarified that a media report regarding its profit growth and stock buyback is factually incorrect and misleading.",
+  "materiality": "low",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "92bfa9a7-469a-4360-af1e-71de13927b80": {
+  "summary": "Sun Pharma announced that UNLOXCYT received a Category 2A preferred designation in the NCCN Guidelines for locally advanced cutaneous squamous cell carcinoma.",
+  "materiality": "medium",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "913014a6-a273-4cfc-8a62-a2fccb69a061": {
+  "summary": "Bajaj Finance approved issuing 49,00,737 equity shares of face value Re. 1 to the BFL Employee Welfare Trust under their stock option scheme.",
+  "materiality": "medium",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "35bf242b-58db-4820-9ded-2d759a71d9f8": {
+  "summary": "Bajaj Finance reported unaudited standalone and consolidated financial results for the quarter and half year ended September 30, 2026.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite",
+  "noResultsTable": true
+ },
+ "bef4c126-a01e-4636-9c8b-e50fc1a82879": {
+  "summary": "Bajaj Finance reported standalone profit after tax of ₹5,536.10 crore for the quarter ended September 30, 2026.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite",
+  "noResultsTable": true
+ },
+ "c37d335d-6a92-418d-a7ec-d1b4092ae322": {
+  "summary": "TCS expanded its partnership with Indian Bank to deploy TCS BaNCS for Treasury at its Colombo branch, marking the platform's entry into Sri Lanka.",
+  "materiality": "low",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "39411793-001f-4adf-82c6-2fa5985df914": {
+  "summary": "Harish Bhat resigned as Non-Executive Non-Independent Director of Trent Ltd effective 17th October 2026 due to professional and personal commitments.",
+  "materiality": "medium",
+  "people": [
+   {
+    "name": "Harish Bhat",
+    "role": "Non-Executive Non-Independent Director",
+    "action": "resigned",
+    "effective": "17th October 2026",
+    "bio": "Served on the Board of Trent Ltd. for the past several years.",
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "01894d11-473e-4d23-b680-8ff3a6ae8eb7": {
+  "summary": "HDFC Bank made the audio recording of its earnings call for the quarter and half-year ended September 30, 2026, available on its website.",
+  "materiality": "low",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "ae8b989d-e24d-45bf-8958-f610b3c0e66a": {
+  "summary": "HDFC Bank reported its unaudited standalone and consolidated financial results for the quarter and half-year ended September 30, 2026, showing key performance metrics.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite",
+  "results": {
+   "basis": "standalone",
+   "unit": "crore",
+   "quarter": "30.09.2026",
+   "prevQuarter": "30.06.2026",
+   "yoyQuarter": "30.09.2025",
+   "revenue": {
+    "cur": 79362.78,
+    "prev": 76690.7,
+    "yoy": 154160.9
+   },
+   "otherIncome": {
+    "cur": 12821.6,
+    "prev": 14350.02,
+    "yoy": 36079.85
+   },
+   "financeCost": {
+    "cur": 45828.83,
+    "prev": 45139.2,
+    "yoy": 91171.43
+   },
+   "depreciation": {
+    "cur": null,
+    "prev": null,
+    "yoy": null
+   },
+   "pbt": {
+    "cur": 26108.3,
+    "prev": 24423.07,
+    "yoy": 46716.4
+   },
+   "pat": {
+    "cur": 19069.72,
+    "prev": 18641.28,
+    "yoy": 36796.49
+   }
+  }
+ },
+ "a6f4cedd-b93b-432b-ade8-bfca19b19d22": {
+  "summary": "Tata Steel received the NCLT order approving the amalgamation of its wholly-owned subsidiary, Rujuvalika Investments, simplifying the corporate structure.",
+  "materiality": "medium",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "d29db3bf-13e1-4d63-bc32-d133ad424558": {
+  "summary": "Tata Steel received the NCLT Mumbai bench certified order approving the amalgamation of its wholly owned subsidiary Rujuvalika Investments to simplify corporate structure.",
+  "materiality": "medium",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "9dee1f7f-faae-476c-ba1c-731af8c05f3f": {
+  "summary": "NTPC Ltd signed a cooperation agreement with Africa50 to jointly develop power-generation projects and cross-border electricity trading opportunities across Africa.",
+  "materiality": "medium",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "85a90a42-ccad-4d29-983b-6c2164f010e0": {
+  "summary": "Tata Consultancy Services has completed the acquisition of a 100% partnership interest in BBY Services India LLP, making it a wholly owned subsidiary.",
+  "materiality": "medium",
+  "people": [
+   {
+    "name": "Yashaswin Sheth",
+    "role": "Company Secretary",
+    "action": "other",
+    "effective": "October 15, 2026",
+    "bio": null,
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "f478aa4a-86b6-4aca-a3c4-bfb9633a571a": {
+  "summary": "TCS launched the Industrial Intelligence Foundry to help manufacturing and engineering enterprises scale AI applications, potentially reducing new product timelines by 25%.",
+  "materiality": "low",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "4dfb8847-0910-4133-85a8-02689a866868": {
+  "summary": "MyState Limited selected TCS BaNCS to transform core banking operations and support post-merger integration following the merger of MyState Bank with Auswide Bank.",
+  "materiality": "low",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "4db1b0f9-a847-4e64-aa9e-892a00327d60": {
+  "summary": "Tata Power announced a 2.8 GW+ data centre opportunity pipeline across 18 players, supported by its ₹15,000 crore Mumbai Grid Upgradation Plan.",
+  "materiality": "medium",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "a6201033-6636-4149-b8cb-1c70f2a99fcc": {
+  "summary": "HDFC Bank will host an earnings call with analysts and investors on October 17, 2026, to discuss financial results for the quarter and half-year ended September 30, 2026.",
+  "materiality": "low",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "78d6f1c8-ee9b-4d8c-bdce-2a60dcb1a147": {
+  "summary": "Three independent directors ceased office upon completing their second consecutive terms, altering board composition.",
+  "materiality": "medium",
+  "people": [
+   {
+    "name": "Anjali Bansal",
+    "role": "Independent Director",
+    "action": "ceased",
+    "effective": "October 13, 2026",
+    "bio": null,
+    "roles": [],
+    "education": []
+   },
+   {
+    "name": "Vibha Padalkar",
+    "role": "Independent Director",
+    "action": "ceased",
+    "effective": "October 13, 2026",
+    "bio": null,
+    "roles": [],
+    "education": []
+   },
+   {
+    "name": "Sanjay Vijay Bhandarkar",
+    "role": "Independent Director",
+    "action": "ceased",
+    "effective": "October 13, 2026",
+    "bio": null,
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "4c5d7941-8471-400b-a0e6-0e3fe1a499bf": {
+  "summary": "Tata Power signed an MoU with Imperial College London to collaborate on research, technology, and knowledge exchange for next-generation energy systems and net-zero ambitions.",
+  "materiality": "low",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "e3e14132-9769-42f3-8c08-0ee46f64140a": {
+  "summary": "Sun Pharma approved raising up to ₹10,000 crore via non-convertible debentures and noted the resignation of independent director Gautam Doshi.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "Gautam Doshi",
+    "role": "Non-Executive, Independent Director",
+    "action": "resigned",
+    "effective": "12 October 2026",
+    "bio": null,
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "2bf94b24-85d4-42e6-b68f-3fc26dd4570f": {
+  "summary": "Tata Power Renewables reported over 130% YoY growth in utility-scale execution in Q2 FY27, delivering 419 MW of capacity and expanding its operational portfolio to 7.2 GW.",
+  "materiality": "medium",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "dd76c268-8dfa-4eaf-9e78-d75b0113d6a9": {
+  "summary": "NTPC's step-down subsidiary commissioned the fourth part capacity of 66.18 MW of the Kalasar Solar Energy Project, raising NTPC group's total installed capacity to 91,572 MW.",
+  "materiality": "medium",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "716097f6-5403-4b5d-b43e-2bb65eca15b1": {
+  "summary": "Tata Consultancy Services declared a second interim dividend of INR 12 per share, payable on October 30, 2026.",
+  "materiality": "medium",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "863b0a42-c155-4f19-ba03-a37b6388d5a0": {
+  "summary": "CARE Ratings reaffirmed Equitas Small Finance Bank's issuer rating and Tier II bond ratings at CARE AA-; Stable following annual surveillance.",
+  "materiality": "low",
+  "people": [
+   {
+    "name": "P N Vasudevan",
+    "role": "MD & CEO",
+    "action": "other",
+    "effective": null,
+    "bio": null,
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "966b7e15-3cad-43bb-b36a-028ed1b58f26": {
+  "summary": "Tata Consultancy Services declared a second interim dividend of INR 12 per equity share and approved financial results for the quarter and six months ended September 30, 2026.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite",
+  "results": {
+   "basis": "consolidated",
+   "unit": "crore",
+   "quarter": "September 30, 2026",
+   "prevQuarter": "June 30, 2026",
+   "yoyQuarter": "September 30, 2025",
+   "revenue": {
+    "cur": 73188,
+    "prev": 72275,
+    "yoy": 65799
+   },
+   "otherIncome": {
+    "cur": 1337,
+    "prev": 1568,
+    "yoy": 867
+   },
+   "financeCost": {
+    "cur": 252,
+    "prev": 273,
+    "yoy": 229
+   },
+   "depreciation": {
+    "cur": 1262,
+    "prev": 1239,
+    "yoy": 1413
+   },
+   "pbt": {
+    "cur": 18638,
+    "prev": 17944,
+    "yoy": 16068
+   },
+   "pat": {
+    "cur": 13934,
+    "prev": 13420,
+    "yoy": 12131
+   }
+  }
+ },
+ "fb99b35b-67f2-496c-8d21-d1fcea8ab5e2": {
+  "summary": "TCS declared a second interim dividend of INR 12 per equity share for financial year 2026-27, payable on October 30, 2026.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "Yashaswin Sheth",
+    "role": "Company Secretary",
+    "action": "other",
+    "effective": null,
+    "bio": null,
+    "roles": [],
+    "education": []
+   },
+   {
+    "name": "Aniruddha Godbole",
+    "role": "Partner",
+    "action": "other",
+    "effective": null,
+    "bio": null,
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "61876d65-47c3-4388-9177-82f24276b8c3": {
+  "summary": "TCS reported Q2 FY27 revenue of ₹73,188 crore and net profit of ₹13,884 crore, alongside major strategic deals with Porsche AG and Best Buy.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "d18ba403-4844-4404-9b53-c44e567f0a01": {
+  "summary": "Tata Power's manufacturing arm, TP Solar, recorded 1GW of module and 0.9GW of cell production in Q2 FY27 at its Tirunelveli facility.",
+  "materiality": "low",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "96780902-be14-44d6-a8bd-6368ee1b09da": {
+  "summary": "Tata Steel reported provisional 2QFY2027 production of 6.21 million tons and deliveries of 5.97 million tons for its India operations, showing strong QoQ and YoY growth.",
+  "materiality": "medium",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "4f54fc97-9a9e-4d4e-b3ac-273e35db7aea": {
+  "summary": "Sun Pharmaceutical Industries' board will meet on October 12, 2026, to consider issuing non-convertible debentures up to INR 15,000 Crore.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "28fc54cc-f4e4-4418-8c1f-f4e7d2127b47": {
+  "summary": "Asian Paints is seeking shareholder approval via postal ballot to appoint Mr. Leo Puri as an Independent Director for a five-year term.",
+  "materiality": "medium",
+  "people": [
+   {
+    "name": "Leo Puri",
+    "role": "Independent Director",
+    "action": "appointed",
+    "effective": "7th September 2026",
+    "bio": null,
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "a8c6d1ec-661b-4d68-8b6d-46e9885dd4dc": {
+  "summary": "Tata Power partnered with Norway's Ocean Sun to pilot an innovative ~300 kWp membrane-based floating solar technology at its Mulshi reservoir in Maharashtra.",
+  "materiality": "low",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "4361d6d5-3668-47bf-b2fc-b02d6c18ead8": {
+  "summary": "L&T Energy CarbonLite Solutions secured a major Limited Notice to Proceed for the 1,600 MW Chandrapura thermal power plant main plant package from DVC CIL Power Private Ltd.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "13f36ba0-2bfa-4b0a-8f26-4484d87636ac": {
+  "summary": "Hindustan Aeronautics appointed Shri Anindya Biswas as a Government Nominee Director, replacing Dr. K Rajalakshmi Menon effective 7th October 2026.",
+  "materiality": "medium",
+  "people": [
+   {
+    "name": "Dr. K Rajalakshmi Menon",
+    "role": "Non-Executive Director [Government Nominee Director]",
+    "action": "ceased",
+    "effective": "7th October, 2026",
+    "bio": null,
+    "roles": [],
+    "education": []
+   },
+   {
+    "name": "Shri Anindya Biswas",
+    "role": "Non-Executive Director [Government Nominee Director]",
+    "action": "appointed",
+    "effective": "7th October, 2026",
+    "bio": "Shri Anindya Biswas is DS & DG (Aero), DRDO and DS & Director RCI, renowned for his R&D efforts towards indigenous design, development and production of avionic sub-systems for indigenous missiles. He joined DRDO in 1992 and has been conferred with the DRDO Young Scientists Award and Scientist of the Year Award.",
+    "roles": [
+     {
+      "org": "DRDO",
+      "title": "DS & DG (Aero) / Director RCI",
+      "from": 1992,
+      "to": null
+     }
+    ],
+    "education": [
+     {
+      "school": "Bengal Engineering College, Shibpur",
+      "degree": "Graduation in Electronics and Telecommunications",
+      "year": null
+     },
+     {
+      "school": "IIT Kharagpur",
+      "degree": "M. Tech in Electronics and Communication Engineering",
+      "year": null
+     }
+    ]
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "9d7346ee-f579-47b3-9ca0-a8c1a13d8708": {
+  "summary": "Asian Paints scheduled a board meeting on 29th October 2026 to consider financial results and a potential interim dividend, setting the record date as 4th November 2026.",
+  "materiality": "medium",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "58605f30-4be7-45e6-9b34-adf98228ed67": {
+  "summary": "Asian Paints scheduled a board meeting for October 29, 2026, to consider financial results and an interim dividend, setting November 4, 2026, as the record date.",
+  "materiality": "medium",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "bebc28ad-bf5e-4647-83a0-3a91226fe413": {
+  "summary": "Laurus Labs invested INR 12.09 crores to acquire 1,20,96,050 equity shares in its associate company Kurnool Renewables Private Limited via a rights issue, maintaining its 26% shareholding.",
+  "materiality": "medium",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "23e85012-12a8-4a1f-b193-2df005ad97ba": {
+  "summary": "Shri Piyush Singh ceased to be the Government Nominee Director of NTPC Limited effective October 5, 2026, following his relief from duties in the Ministry of Power.",
+  "materiality": "low",
+  "people": [
+   {
+    "name": "Piyush Singh",
+    "role": "Government Nominee Director",
+    "action": "ceased",
+    "effective": "5th October 2026",
+    "bio": "Government Nominee Director of NTPC Limited who ceased to hold the position upon relieving from his duties in the Ministry of Power.",
+    "roles": [
+     {
+      "org": "NTPC Limited",
+      "title": "Government Nominee Director",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Ministry of Power",
+      "title": "Duties in Ministry of Power",
+      "from": null,
+      "to": null
+     }
+    ],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "c5c9570c-5471-4280-a1d5-2be2cf45579d": {
+  "summary": "Trent reported a 23% YoY growth in Q2 FY27 standalone revenue to Rs 5,788 crores and expanded its store portfolio to 1,342 stores.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "12313689-7d57-4c50-9dba-f54e45049aec": {
+  "summary": "Bajaj Finance reported Q2 FY27 provisional consolidated figures showing customer franchise at 128.85 million, AUM up 26.5% to ₹584,750 crore, and deposits at ₹69,750 crore.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "R. Vijay",
+    "role": "Company Secretary",
+    "action": "other",
+    "effective": null,
+    "bio": null,
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "e09a9a7a-2530-4384-bd67-3d05c9072329": {
+  "summary": "L&T's Power Transmission & Distribution business secured Mega orders (₹10,000 to ₹15,000 crore) in India, Saudi Arabia, and UAE for infrastructure and renewable energy evacuation.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "52d08a9e-3ae5-42ae-8581-1992e98c3b89": {
+  "summary": "Bajaj Finance approved raising up to ₹11,700 crore via QIP and up to ₹5,800 crore via preferential warrants to its holding company, subject to shareholder approval.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "860141ba-6a41-47fe-b3b7-85ea7ce6091a": {
+  "summary": "Bajaj Finance approved raising up to ₹11,700 crore via QIP and ₹5,800 crore via warrants preferential issue to Bajaj Finserv.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "47dc0c32-15d5-445a-86fa-677e86cda5db": {
+  "summary": "Tata Consultancy Services signed a strategic agreement to transition Best Buy's Global Capability Center in India into an AI-native capability center under a multi-year partnership.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "b665c797-4a14-4ca7-90df-bc94c93ddb2b": {
+  "summary": "Bajaj Finance approved raising up to ₹11,700 crore via QIP and up to ₹5,800 crore via a preferential warrant issue to its promoter, Bajaj Finserv.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "25f3312c-2c87-4aad-8564-22db915a9103": {
+  "summary": "Tata Consultancy Services Limited is acquiring a 100% partnership interest in BBY Services India LLP for INR 1 Lakh to establish an AI Native Capability Center.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "42062c47-efa7-42fc-8815-68f293f2a487": {
+  "summary": "The NCLT approved the amalgamation of Rujuvalika Investments into Tata Steel, simplifying the corporate structure and eliminating compliance costs without issuing new shares.",
+  "materiality": "medium",
+  "people": [
+   {
+    "name": "Parvatheesam Kanchinadham",
+    "role": "Company Secretary and Chief Legal Officer",
+    "action": "other",
+    "effective": null,
+    "bio": null,
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "6e3c474d-87f3-4052-a183-1963b1aeab0e": {
+  "summary": "NTPC's subsidiary, NGEL, operationalized a 50 MW solar capacity in Rajasthan, pushing the group's total installed capacity to 91,506 MW.",
+  "materiality": "medium",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "ee9cd11a-03da-4573-8d52-64ec45997960": {
+  "summary": "Sun Pharma announced two-year clinical data for LEQSELVI demonstrating sustained efficacy and safety in severe alopecia areata at the EADV Congress 2026.",
+  "materiality": "low",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "8cbd5277-7388-4bff-8508-de842f917650": {
+  "summary": "RBI approved Anup Kumar Saha as the new Managing Director & CEO of Kotak Mahindra Bank for a three-year term starting January 1, 2027.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "Anup Kumar Saha",
+    "role": "Managing Director & CEO",
+    "action": "appointed",
+    "effective": "January 1, 2027",
+    "bio": "Currently Whole-time Director (Executive Director) of the Bank, Mr. Saha has over 32 years of professional experience across banking and non-banking financial institutions.",
+    "roles": [
+     {
+      "org": "Kotak Mahindra Bank Limited",
+      "title": "Whole-time Director (Executive Director)",
+      "from": 2026,
+      "to": null
+     },
+     {
+      "org": "Bajaj Finance Limited",
+      "title": "Managing Director & CEO",
+      "from": 2025,
+      "to": 2025
+     },
+     {
+      "org": "Bajaj Finance Limited",
+      "title": "Deputy Managing Director",
+      "from": 2024,
+      "to": 2025
+     },
+     {
+      "org": "Bajaj Finance Limited",
+      "title": "Executive Director",
+      "from": 2023,
+      "to": 2024
+     },
+     {
+      "org": "Bajaj Finance Limited",
+      "title": "Deputy CEO–Consumer, MSME, Marketing, Operations & Service and Digital platform",
+      "from": 2019,
+      "to": 2022
+     },
+     {
+      "org": "Bajaj Finance Limited",
+      "title": "President–Consumer Finance",
+      "from": 2017,
+      "to": 2019
+     },
+     {
+      "org": "ICICI Bank Limited",
+      "title": "Senior roles (Retail Secured Assets, Business Intelligence, Collections, Credit Cards, Retail Structured Finance)",
+      "from": 2003,
+      "to": 2017
+     },
+     {
+      "org": "GE Capital",
+      "title": "Credit cards, sales and analytics",
+      "from": 1999,
+      "to": 2003
+     },
+     {
+      "org": "Bharat Heavy Electricals Limited",
+      "title": "Production engineering",
+      "from": 1991,
+      "to": 1995
+     }
+    ],
+    "education": [
+     {
+      "school": "IIM Lucknow",
+      "degree": "MBA",
+      "year": null
+     },
+     {
+      "school": "IIT Kharagpur",
+      "degree": "B. Tech degree in Engineering",
+      "year": null
+     }
+    ]
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "6700ab32-e31a-4343-9fc1-0d2a592f97b9": {
+  "summary": "Mr. Sudhir Kumar Jha superannuated as Group Head - Legal & Group General Counsel, and Mr. Jigar Shah assumes the position effective October 1, 2026.",
+  "materiality": "medium",
+  "people": [
+   {
+    "name": "Sudhir Kumar Jha",
+    "role": "Group Head - Legal & Group General Counsel / Senior Management Personnel",
+    "action": "retired",
+    "effective": "September 30, 2026",
+    "bio": "He has superannuated after 22 years of association with HDFC Group, including Housing Development Finance Corporation Limited and the Bank, where he strengthened the legal and compliance framework.",
+    "roles": [
+     {
+      "org": "HDFC Bank Limited",
+      "title": "Group Head - Legal & Group General Counsel",
+      "from": null,
+      "to": 2026
+     },
+     {
+      "org": "HDFC Group (including Housing Development Finance Corporation Limited and the Bank)",
+      "title": "Associated for 22 years",
+      "from": null,
+      "to": 2026
+     }
+    ],
+    "education": []
+   },
+   {
+    "name": "Jigar Shah",
+    "role": "General Counsel",
+    "action": "appointed",
+    "effective": "October 1, 2026",
+    "bio": "Previously General Counsel – Designate, he assumes the position of General Counsel of the Bank in place of Mr. Jha.",
+    "roles": [
+     {
+      "org": "HDFC Bank Limited",
+      "title": "General Counsel",
+      "from": 2026,
+      "to": null
+     }
+    ],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "e8d38dad-449d-42d1-80c3-6f3a36381a12": {
+  "summary": "Larsen & Toubro extended the estimated completion date for disposing of its stake in L&T Metro Rail (Hyderabad) Limited to December 31, 2026.",
+  "materiality": "low",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "f81c66d5-177b-4b3c-85a7-7269649cc2d4": {
+  "summary": "NTPC announced the cessation of senior management due to superannuation, impacting key executive personnel.",
+  "materiality": "low",
+  "people": [
+   {
+    "name": "Chandan Kumar Samanta",
+    "role": "Executive Director (Senior Management)",
+    "action": "ceased",
+    "effective": "30th September 2026",
+    "bio": "Executive Director (Senior Management) ceasing due to superannuation.",
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "412fbec6-dba7-49e8-b3a5-cabaa432b5b2": {
+  "summary": "NTPC announced the commercial operation of parts of the Kalasar Solar Energy Project, raising the group's total installed capacity to 91,456 MW.",
+  "materiality": "medium",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "51ff9a97-093b-4ba5-a1d2-46ea26704d14": {
+  "summary": "HDFC Bank announced that Mr. V. N. Srivatsan will be appointed as the Chief Compliance Officer effective January 4, 2027, succeeding Mr. Rakesh Kumar Rajput.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "Rakesh Kumar Rajput",
+    "role": "Chief Compliance Officer",
+    "action": "ceased",
+    "effective": "September 30, 2026",
+    "bio": "Mr. Rakesh Kumar Rajput served as the Bank's Chief Compliance Officer since October 1, 2023, and his term concluded from the close of business hours on September 30, 2026. He will continue to be a full-time employee of the Bank.",
+    "roles": [],
+    "education": [
+     {
+      "school": "Indian Institute of Bankers",
+      "degree": "Certified Associate",
+      "year": null
+     }
+    ]
+   },
+   {
+    "name": "V. N. Srivatsan",
+    "role": "Chief Compliance Officer",
+    "action": "appointed",
+    "effective": "January 4, 2027",
+    "bio": "Mr. V. N. Srivatsan has approximately 34 years of overall professional experience, including around 25 years in the BFSI sector and close to 10 years of direct experience in Compliance and Regulatory Inspection. He currently serves as Head – Compliance: Overseas Banking and Subsidiaries & Data Privacy Officer at ICICI Bank Limited.",
+    "roles": [
+     {
+      "org": "ICICI Bank Limited",
+      "title": "Head – Compliance: Overseas Banking and Subsidiaries & Data Privacy Officer",
+      "from": null,
+      "to": null
+     }
+    ],
+    "education": [
+     {
+      "school": "PSG College of Technology",
+      "degree": "Post Graduate degree in Business Administration",
+      "year": null
+     },
+     {
+      "school": "Sri Venkateshwara University",
+      "degree": "Bachelor of Technology (B. Tech)",
+      "year": null
+     }
+    ]
+   },
+   {
+    "name": "Venkateswaran L",
+    "role": "Chief Compliance Officer",
+    "action": "other",
+    "effective": null,
+    "bio": "Currently serves as Compliance Head - Credit, Asset Product & Regulatory Reporting, and shall hold the responsibility as the Chief Compliance Officer during the intervening period.",
+    "roles": [
+     {
+      "org": "HDFC Bank Limited",
+      "title": "Compliance Head - Credit, Asset Product & Regulatory Reporting",
+      "from": null,
+      "to": null
+     }
+    ],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "421f0ddd-b493-4936-a959-52023c249ab3": {
+  "summary": "Hindustan Aeronautics acquired the remaining 50% stake in HATSOFF Helicopter Training from CAE Canada at nil consideration, making it a wholly-owned subsidiary.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "ffa8ae18-f840-4cf4-965a-616cd00c62ee": {
+  "summary": "Noel N. Tata is retiring as Chairman and Director of Trent Ltd., with Bahram Vakil appointed as his successor alongside two new board appointments.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "Noel N. Tata",
+    "role": "Chairman and Director",
+    "action": "retired",
+    "effective": "11th November 2026",
+    "bio": "Mr. Noel N. Tata has been associated with the Company since 1997 and provided leadership and strategic direction. He has been appointed as Chairman Emeritus with effect from 12th November 2026.",
+    "roles": [],
+    "education": []
+   },
+   {
+    "name": "Bahram Vakil",
+    "role": "Chairman",
+    "action": "appointed",
+    "effective": "12th November 2026",
+    "bio": null,
+    "roles": [],
+    "education": []
+   },
+   {
+    "name": "Rajiv Dube",
+    "role": "Additional Director (Non-Executive, Non-Independent)",
+    "action": "appointed",
+    "effective": "30th October 2026",
+    "bio": "Mr. Rajiv Dube is an Indian industry veteran with over 40 years of multi-sector experience, having served at Tata and Aditya Birla. He is currently an Independent Director on Boards, an advisory board member, a professor of practice at the Deakin Business School, Melbourne, and a senior advisor to firms in India and Australia.",
+    "roles": [
+     {
+      "org": "Tata Motors",
+      "title": "President of car business",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Aditya Birla group",
+      "title": "Executive Director on group board",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Deakin Business School, Melbourne",
+      "title": "Professor of practice",
+      "from": null,
+      "to": null
+     }
+    ],
+    "education": []
+   },
+   {
+    "name": "Kalpana Merchant",
+    "role": "Independent Director",
+    "action": "appointed",
+    "effective": "30th October 2026",
+    "bio": "Ms. Kalpana Merchant has over 45 years of experience in the legal profession, with significant experience in commercial property matters, infrastructure, project finance, banking, dispute resolution, capital markets, and M&A. She has been associated with Kanga & Co., AZB & Partners, and Jerome Merchant + Partners.",
+    "roles": [
+     {
+      "org": "Kanga & Co.",
+      "title": "Partner",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "AZB & Partners",
+      "title": "Partner",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Jerome Merchant + Partners",
+      "title": "Partner",
+      "from": null,
+      "to": null
+     }
+    ],
+    "education": [
+     {
+      "school": "",
+      "degree": "Bachelor of Laws (LL.B.)",
+      "year": null
+     },
+     {
+      "school": "",
+      "degree": "Bachelor of Arts with a major in Psychology",
+      "year": null
+     }
+    ]
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "55fb605b-9f23-4ca9-b278-e5c042ca95b9": {
+  "summary": "Anup Bagchi is appointed as Managing Director & CEO of HDFC Bank for three years starting October 27, 2026, succeeding Sashidhar Jagdishan.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "Anup Bagchi",
+    "role": "MD & CEO",
+    "action": "appointed",
+    "effective": "October 27, 2026",
+    "bio": "A seasoned financial services leader with over three decades of experience across banking, capital markets, wealth management, and insurance. Previously served as MD & CEO of ICICI Prudential Life Insurance and Executive Director of ICICI Bank.",
+    "roles": [
+     {
+      "org": "ICICI Prudential Life Insurance",
+      "title": "MD & CEO",
+      "from": 2023,
+      "to": null
+     },
+     {
+      "org": "ICICI Bank",
+      "title": "Executive Director",
+      "from": 2017,
+      "to": 2023
+     }
+    ],
+    "education": [
+     {
+      "school": "Indian Institute of Management, Bangalore",
+      "degree": "Management degree",
+      "year": null
+     },
+     {
+      "school": "Indian Institute of Technology, Kanpur",
+      "degree": "Engineering degree",
+      "year": null
+     }
+    ]
+   },
+   {
+    "name": "Sashidhar Jagdishan",
+    "role": "MD & CEO",
+    "action": "retired",
+    "effective": "October 26, 2026",
+    "bio": null,
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "500e55df-adcc-4bfd-8746-c98db7f76de7": {
+  "summary": "Tata Power reported its highest-ever quarterly PAT of ₹1,652 crore for Q2 FY27, driven by strong growth across renewable, generation, and transmission segments.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite",
+  "noResultsTable": true
+ },
+ "59b404be-fb76-4c1c-b5f9-827c79d5f477": {
+  "summary": "Nykaa reported a strong Q2 FY2027 with consolidated net revenue up 28% YoY and PAT up 207%, while also acquiring an 82% stake in Simply Nam.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite",
+  "results": {
+   "basis": "consolidated",
+   "unit": "crore",
+   "quarter": "Sep 2026",
+   "prevQuarter": "prev. quarter",
+   "yoyQuarter": "Sep 2025",
+   "revenue": {
+    "cur": 3006,
+    "prev": null,
+    "yoy": null
+   },
+   "otherIncome": {
+    "cur": null,
+    "prev": null,
+    "yoy": null
+   },
+   "financeCost": {
+    "cur": null,
+    "prev": null,
+    "yoy": null
+   },
+   "depreciation": {
+    "cur": null,
+    "prev": null,
+    "yoy": null
+   },
+   "pbt": {
+    "cur": 149,
+    "prev": null,
+    "yoy": null
+   },
+   "pat": {
+    "cur": 101,
+    "prev": null,
+    "yoy": null
+   }
+  }
+ },
+ "5a8ca278-0774-4878-9c01-cf38f96a3ab6": {
+  "summary": "Navin Fluorine reported Q2 FY2027 consolidated total income of ₹1,190.74 crore and net profit after tax of ₹269.24 crore, declaring an interim dividend of ₹8.00 per share.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "Niraj B. Mankad",
+    "role": "President Legal & Company Secretary",
+    "action": "other",
+    "effective": null,
+    "bio": null,
+    "roles": [],
+    "education": []
+   },
+   {
+    "name": "Nitin G. Kulkarni",
+    "role": "Managing Director",
+    "action": "other",
+    "effective": "2026-10-30",
+    "bio": null,
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "results": {
+   "basis": "consolidated",
+   "unit": "crore",
+   "quarter": "30th Sept, 2026",
+   "prevQuarter": "prev. quarter",
+   "yoyQuarter": "30th Sept, 2025",
+   "revenue": {
+    "cur": 1190.74,
+    "prev": null,
+    "yoy": 758.42
+   },
+   "otherIncome": {
+    "cur": null,
+    "prev": null,
+    "yoy": null
+   },
+   "financeCost": {
+    "cur": null,
+    "prev": null,
+    "yoy": null
+   },
+   "depreciation": {
+    "cur": null,
+    "prev": null,
+    "yoy": null
+   },
+   "pbt": {
+    "cur": 351.56,
+    "prev": null,
+    "yoy": 197.5
+   },
+   "pat": {
+    "cur": 269.24,
+    "prev": null,
+    "yoy": 148.37
+   }
+  }
+ },
+ "e12a0431-78d7-4f7d-85dc-2be70cc0647d": {
+  "summary": "Trent reported Q2 FY27 standalone revenue growth of 23% and PAT of ₹490 crore, while announcing the conclusion of Noel N Tata's tenure as Chairman.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "Noel N Tata",
+    "role": "Chairman",
+    "action": "retired",
+    "effective": null,
+    "bio": "Concluded his tenure as Chairman of Trent Limited, having overseen the company's transformation into a leading fashion and retail player.",
+    "roles": [
+     {
+      "org": "Trent Limited",
+      "title": "Chairman",
+      "from": null,
+      "to": null
+     }
+    ],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "noResultsTable": true
+ },
+ "4711b2e3-42f9-4095-a3ca-3e2c2ad856c3": {
+  "summary": "Adani Ports and Special Economic Zone reported its standalone and consolidated financial results for the quarter and half year ended September 30, 2026.",
+  "materiality": "low",
+  "people": [
+   {
+    "name": "Kamlesh Bhagia",
+    "role": "Company Secretary",
+    "action": "other",
+    "effective": null,
+    "bio": null,
+    "roles": [],
+    "education": []
+   },
+   {
+    "name": "Samip Shah",
+    "role": "Partner",
+    "action": "other",
+    "effective": "2026-10-28",
+    "bio": null,
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "results": {
+   "basis": "consolidated",
+   "unit": "crore",
+   "quarter": "September 30, 2026",
+   "prevQuarter": "June 30, 2026",
+   "yoyQuarter": "September 30, 2025",
+   "revenue": {
+    "cur": 11340.4,
+    "prev": 10820.8,
+    "yoy": 9167.46
+   },
+   "otherIncome": {
+    "cur": 269.37,
+    "prev": 852.91,
+    "yoy": 836.6
+   },
+   "financeCost": {
+    "cur": 1006.05,
+    "prev": 1087.17,
+    "yoy": 1222.88
+   },
+   "depreciation": {
+    "cur": 1712.96,
+    "prev": 1711.27,
+    "yoy": 1263.52
+   },
+   "pbt": {
+    "cur": 4465.76,
+    "prev": 4307.31,
+    "yoy": 3690.28
+   },
+   "pat": {
+    "cur": 3682.44,
+    "prev": 3649.5,
+    "yoy": 3120.2
+   }
+  }
+ },
+ "4abd11fa-35c6-4be5-a96f-cd13405c1fd3": {
+  "summary": "Adani Ports reported strong Q2 FY27 financial results with revenue up 24% and EBITDA up 23%, while raising its full-year guidance for revenue, EBITDA, and capex.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite",
+  "noResultsTable": true
+ },
+ "84f672d2-60a7-4cef-adec-3711a9c76668": {
+  "summary": "Larsen & Toubro reported Q2 FY2027 consolidated revenues of ₹78,750 crore and PAT of ₹5,202 crore, alongside record order inflows of ₹147,665 crore.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "Subramanian Narayan",
+    "role": "Company Secretary & Compliance Officer",
+    "action": "other",
+    "effective": null,
+    "bio": null,
+    "roles": [],
+    "education": []
+   },
+   {
+    "name": "S N Subrahmanyan",
+    "role": "Chairman and Managing Director",
+    "action": "other",
+    "effective": null,
+    "bio": null,
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "results": {
+   "basis": "consolidated",
+   "unit": "crore",
+   "quarter": "September 30, 2026",
+   "prevQuarter": "June 30, 2026",
+   "yoyQuarter": "September 30, 2025",
+   "revenue": {
+    "cur": 78749.94,
+    "prev": 67941.74,
+    "yoy": 67983.53
+   },
+   "otherIncome": {
+    "cur": 2306.26,
+    "prev": 2376.73,
+    "yoy": 1384.28
+   },
+   "financeCost": {
+    "cur": 2441.8,
+    "prev": 2571.33,
+    "yoy": 2469.64
+   },
+   "depreciation": {
+    "cur": 1036.91,
+    "prev": 1032.28,
+    "yoy": 1091.77
+   },
+   "pbt": {
+    "cur": 7641.06,
+    "prev": 6922.26,
+    "yoy": 6336.11
+   },
+   "pat": {
+    "cur": 5949.15,
+    "prev": 4988.03,
+    "yoy": 4678.01
+   }
+  }
+ },
+ "b94a51f1-ff90-43b4-90dc-4edf0de9596b": {
+  "summary": "Kotak Mahindra Bank announced that its Board approved the consolidated and standalone unaudited financial results for the quarter and half-year ended September 30, 2026.",
+  "materiality": "medium",
+  "people": [
+   {
+    "name": "Avan Doomasia",
+    "role": "President & Company Secretary",
+    "action": "other",
+    "effective": null,
+    "bio": null,
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "results": {
+   "basis": "consolidated",
+   "unit": "crore",
+   "quarter": "30-Sep-26",
+   "prevQuarter": "30-June-26",
+   "yoyQuarter": "30-Sep-25",
+   "revenue": {
+    "cur": 19855.87,
+    "prev": 18354.57,
+    "yoy": 17198.74
+   },
+   "otherIncome": {
+    "cur": 9571.01,
+    "prev": 11714.03,
+    "yoy": 7702.65
+   },
+   "financeCost": {
+    "cur": 8680.6,
+    "prev": 7702.54,
+    "yoy": 7332.56
+   },
+   "depreciation": {
+    "cur": null,
+    "prev": null,
+    "yoy": null
+   },
+   "pbt": {
+    "cur": 7530.3,
+    "prev": 7508.86,
+    "yoy": 5962.77
+   },
+   "pat": {
+    "cur": 5645.38,
+    "prev": 5480.46,
+    "yoy": 4468.27
+   }
+  }
+ },
+ "3edbe0c3-f3ed-4804-92a8-a4bc45e22fb6": {
+  "summary": "Bajaj Finance reported robust Q2 FY2027 results with AUM growing 26.5% to ₹5,84,624 crores and PAT rising 29% to ₹6,367 crores.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "9f479947-019f-43b7-b145-e75f77043e24": {
+  "summary": "Sun Pharmaceutical Industries will announce its financial results for the second quarter ended 30 September 2026 on 30 October 2026, followed by an earnings call.",
+  "materiality": "low",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "ea84d51e-b0fc-4b7e-aea0-0b7e5c24bb2c": {
+  "summary": "Bajaj Finance scheduled an earnings conference call for 19 October 2026 to discuss its financial results for the quarter ended 30 September 2026.",
+  "materiality": "low",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "47fe4353-fc19-48df-8f32-133520ed3cd2": {
+  "summary": "TCS reported its Q2 and H1 financial results and declared a second interim dividend of INR 12 per share.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite",
+  "results": {
+   "basis": "consolidated",
+   "unit": "crore",
+   "quarter": "September 30, 2026",
+   "prevQuarter": "June 30, 2026",
+   "yoyQuarter": "September 30, 2025",
+   "revenue": {
+    "cur": 73188,
+    "prev": 72275,
+    "yoy": 65799
+   },
+   "otherIncome": {
+    "cur": 1337,
+    "prev": 1568,
+    "yoy": 867
+   },
+   "financeCost": {
+    "cur": 252,
+    "prev": 273,
+    "yoy": 229
+   },
+   "depreciation": {
+    "cur": 1262,
+    "prev": 1239,
+    "yoy": 1413
+   },
+   "pbt": {
+    "cur": 18638,
+    "prev": 17944,
+    "yoy": 16068
+   },
+   "pat": {
+    "cur": 13934,
+    "prev": 13420,
+    "yoy": 12131
+   }
+  }
+ },
+ "b0847910-ddd5-48fc-8f2c-7f15b2038d45": {
+  "summary": "Kaynes Technology approved second quarter financial results, a joint venture for TFT display modules, and the voluntary strike-off of subsidiary KESPL.",
+  "materiality": "medium",
+  "people": [],
+  "model": "gemini-3.5-flash-lite",
+  "results": {
+   "basis": "consolidated",
+   "unit": "million",
+   "quarter": "30th September 2026",
+   "prevQuarter": "30th June 2026",
+   "yoyQuarter": "30th September 2025",
+   "revenue": {
+    "cur": 9525.15,
+    "prev": 9462.12,
+    "yoy": 9121.25
+   },
+   "otherIncome": {
+    "cur": 186.15,
+    "prev": 165.21,
+    "yoy": 340.84
+   },
+   "financeCost": {
+    "cur": 387.26,
+    "prev": 371.36,
+    "yoy": 132.63
+   },
+   "depreciation": {
+    "cur": 347.33,
+    "prev": 402.53,
+    "yoy": 198.98
+   },
+   "pbt": {
+    "cur": 647.31,
+    "prev": 772.21,
+    "yoy": 1481.19
+   },
+   "pat": {
+    "cur": 398,
+    "prev": 454.13,
+    "yoy": 1157.11
+   }
+  }
+ },
+ "3de57b54-efa3-4790-9b4c-020b2887de9b": {
+  "summary": "Tata Power reported financial results and disclosed ongoing legal setbacks in Singapore regarding an unfavourable arbitration award of USD 490.32 million.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite",
+  "results": {
+   "basis": "consolidated",
+   "unit": "crore",
+   "quarter": "Sep 2026",
+   "prevQuarter": "Jun 2026",
+   "yoyQuarter": "Sep 2025",
+   "revenue": {
+    "cur": 19635.94,
+    "prev": 19051.26,
+    "yoy": 15544.91
+   },
+   "otherIncome": {
+    "cur": 328.36,
+    "prev": 388.39,
+    "yoy": 505.41
+   },
+   "financeCost": {
+    "cur": 1384.93,
+    "prev": 1406.78,
+    "yoy": 1318.65
+   },
+   "depreciation": {
+    "cur": 1286.55,
+    "prev": 1259.86,
+    "yoy": 1162.05
+   },
+   "pbt": {
+    "cur": 2179.85,
+    "prev": 1823.34,
+    "yoy": 1679.9
+   },
+   "pat": {
+    "cur": 1652.04,
+    "prev": 1400.86,
+    "yoy": 1245.39
+   }
+  }
+ },
+ "1e1d75bd-b0df-43f8-bb2f-531f94c9d671": {
+  "summary": "Tata Power reported financial results for September 30, 2026, while facing enforcement notices to attach Singapore subsidiary shares due to an unfavorable arbitration award.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite",
+  "results": {
+   "basis": "consolidated",
+   "unit": "crore",
+   "quarter": "Sep 2026",
+   "prevQuarter": "Jun 2026",
+   "yoyQuarter": "Sep 2025",
+   "revenue": {
+    "cur": 19635.94,
+    "prev": 19051.26,
+    "yoy": 15544.91
+   },
+   "otherIncome": {
+    "cur": 328.36,
+    "prev": 388.39,
+    "yoy": 505.41
+   },
+   "financeCost": {
+    "cur": 1384.93,
+    "prev": 1406.78,
+    "yoy": 1318.65
+   },
+   "depreciation": {
+    "cur": 1286.55,
+    "prev": 1259.86,
+    "yoy": 1162.05
+   },
+   "pbt": {
+    "cur": 2179.85,
+    "prev": 1823.34,
+    "yoy": 1679.9
+   },
+   "pat": {
+    "cur": 1652.04,
+    "prev": 1400.86,
+    "yoy": 1245.39
+   }
+  }
+ },
+ "f774f918-058b-4b02-a932-730ddf8b1434": {
+  "summary": "NTPC Limited approved its September 2026 financial results and declared a first interim dividend of ₹3 per equity share.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite",
+  "noResultsTable": true
+ },
+ "38ac0fde-0e52-4141-8ddf-6a9a84956d60": {
+  "summary": "NTPC Limited approved financial results for the quarter ended September 30, 2026, and declared a first interim dividend of ₹3 per share.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "44ba0161-d9e4-4bd1-aae7-eb3bc46319dd": {
+  "summary": "HDFC Bank re-appointed V. Srinivasa Rangan as Whole-time Director (Executive Director) for one year starting November 23, 2026, subject to shareholder approval.",
+  "materiality": "medium",
+  "people": [
+   {
+    "name": "V. Srinivasa Rangan",
+    "role": "Whole-time Director (designated as Executive Director)",
+    "action": "reappointed",
+    "effective": "November 23, 2026",
+    "bio": "Aged 66, he heads Human Resources, Corporate Legal, Group Oversight & Secretarial, Investment Banking, Information Security, Ethics, and Fraud & Vigilance functions. He previously served as Executive Director & Chief Financial Officer of HDFC Limited.",
+    "roles": [
+     {
+      "org": "HDFC Bank Limited",
+      "title": "Whole-time Director (designated as Executive Director)",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "HDFC Limited",
+      "title": "Executive Director & Chief Financial Officer",
+      "from": null,
+      "to": 2023
+     }
+    ],
+    "education": [
+     {
+      "school": "University of Delhi",
+      "degree": "Bachelor’s degree in Commerce",
+      "year": null
+     }
+    ]
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "ec707522-529d-49a5-bc71-3e7f7df28129": {
+  "summary": "Sun Pharmaceutical Industries appointed Deloitte Haskins & Sells Chartered Accountants LLP as statutory auditors for five years, replacing S R B C & CO LLP upon mandatory rotation.",
+  "materiality": "low",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "780d9944-2b1d-4ec2-bf26-58a66a967812": {
+  "summary": "Navin Fluorine declared an interim dividend of ₹8 per share for FY 2026-2027, with a record date of November 5, 2026.",
+  "materiality": "low",
+  "people": [
+   {
+    "name": "Niraj B. Mankad",
+    "role": "President Legal and Company Secretary",
+    "action": "other",
+    "effective": "30 Oct 2026",
+    "bio": null,
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "6a34e916-2e0a-4d0e-a8ed-6f19c1764902": {
+  "summary": "Navin Fluorine announced strong Q2 FY27 financial results and declared an interim dividend of ₹8 per share.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite",
+  "noResultsTable": true
+ },
+ "cf8a6ba5-d3c7-4647-8a03-9fc3e3d5055a": {
+  "summary": "NTPC's subsidiary declared the commercial operation of a 95.6 MW solar capacity in Rajasthan, pushing the group's total installed capacity to 91,668 MW.",
+  "materiality": "medium",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "35d69a8e-dc46-4958-a12a-a0159c518ec5": {
+  "summary": "Equitas Small Finance Bank reported its highest-ever quarterly PAT of ₹218 crore in Q2FY27, with total business crossing ₹1 lakh crore.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "N Ramanathan",
+    "role": "Company Secretary",
+    "action": "other",
+    "effective": null,
+    "bio": null,
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "noResultsTable": true
+ },
+ "9817a9b7-6de3-4bfa-8e80-ac4cf87d1d6a": {
+  "summary": "Bajaj Finance re-appointed Prashant Verma as Chief Information Security Officer for three years effective February 1, 2027.",
+  "materiality": "low",
+  "people": [
+   {
+    "name": "Prashant Verma",
+    "role": "Chief Information Security Officer",
+    "action": "reappointed",
+    "effective": "1 February 2027",
+    "bio": "Prashant Verma is the Chief Information Security Officer of Bajaj Finance Ltd since February 1, 2024, with around 21 years of full-time experience in the security domain. He is CISSP and a co-author of a couple of security books.",
+    "roles": [
+     {
+      "org": "Bajaj Finance Ltd",
+      "title": "Chief Information Security Officer",
+      "from": null,
+      "to": null
+     },
+     {
+      "org": "Bajaj Finance Ltd",
+      "title": "Head of Cyber Risk Unit",
+      "from": null,
+      "to": null
+     }
+    ],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "54325e14-23f6-4f99-a982-5b6e40e86f04": {
+  "summary": "Shri Diwakar Nath Misra was appointed as the Government Nominee Director on the board of NTPC Ltd.",
+  "materiality": "medium",
+  "people": [
+   {
+    "name": "Diwakar Nath Misra",
+    "role": "Government Nominee Director",
+    "action": "appointed",
+    "effective": "19th October 2026",
+    "bio": "Additional Secretary, Ministry of Power, appointed as a Government Nominee Director on the Board of the Company.",
+    "roles": [
+     {
+      "org": "Ministry of Power",
+      "title": "Additional Secretary",
+      "from": null,
+      "to": null
+     }
+    ],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "8a57b0a9-8570-41ad-90a3-970cbc391c7b": {
+  "summary": "L&T secured a Limited Notice to Proceed for the ultra-mega New Tashkent International Airport project in Uzbekistan, commencing initial pre-construction engineering and design activities.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "dd99e487-a84f-407c-b584-b17ced57c0dc": {
+  "summary": "Laurus Labs invested ₹107.8 crore to acquire 10.78 crore equity shares in its joint venture, KRKA Pharma Private Limited, maintaining its 49% stake.",
+  "materiality": "medium",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "f039d44f-8dbf-42dd-bf8b-d2a9e290ecb6": {
+  "summary": "CRISIL and ICRA assigned top credit ratings to Sun Pharma's proposed NCD programme while factoring in the planned acquisition of Organon & Co.",
+  "materiality": "high",
+  "people": [
+   {
+    "name": "Anoop Deshpande",
+    "role": "Company Secretary and Compliance Officer",
+    "action": "other",
+    "effective": null,
+    "bio": null,
+    "roles": [],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "738f2bee-0fcb-4e4b-8115-2b3afbc7e0e2": {
+  "summary": "Larsen & Toubro promoted four senior officials to Senior Vice President, expanding its senior management team across human resources and key infrastructure verticals.",
+  "materiality": "medium",
+  "people": [
+   {
+    "name": "C Jayakumar",
+    "role": "Senior Vice President & Head - Corporate Human Resources",
+    "action": "appointed",
+    "effective": "2026-07-01",
+    "bio": "Dr. C. Jayakumar is a distinguished HR leader with over 38 years of experience in strategic HRM and organizational transformation. He currently serves as the CHRO of L&T Ltd.",
+    "roles": [
+     {
+      "org": "Larsen & Toubro Limited",
+      "title": "Senior Vice President & Head - Corporate Human Resources",
+      "from": null,
+      "to": null
+     }
+    ],
+    "education": [
+     {
+      "school": "LBS",
+      "degree": null,
+      "year": null
+     }
+    ]
+   },
+   {
+    "name": "Suresh Kumar Narang",
+    "role": "Senior Vice President & IC Head - CarbonLite Solutions IC & Chief Executive – LMB",
+    "action": "appointed",
+    "effective": "2026-07-01",
+    "bio": "Mr. Suresh Kumar Narang has over four decades of experience across the power sector. He previously served as Chief Executive of Nabha Power Ltd from 2021 to 2026.",
+    "roles": [
+     {
+      "org": "Larsen & Toubro",
+      "title": "Senior Vice President & IC Head - CarbonLite Solutions IC",
+      "from": null,
+      "to": null
+     }
+    ],
+    "education": [
+     {
+      "school": "Punjab Engineering College",
+      "degree": "Honours graduate in Electrical Engineering",
+      "year": null
+     }
+    ]
+   },
+   {
+    "name": "S Ramkumar",
+    "role": "Senior Vice President & IC Head - Transportation Infrastructure IC",
+    "action": "appointed",
+    "effective": "2026-07-01",
+    "bio": "Mr. S. Ramkumar is an Electrical Engineer from NIT Durgapur with over three decades at Larsen & Toubro, currently heading the Transportation Infrastructure Division.",
+    "roles": [
+     {
+      "org": "Larsen & Toubro",
+      "title": "Senior Vice President & IC Head - Transportation Infrastructure IC",
+      "from": null,
+      "to": null
+     }
+    ],
+    "education": [
+     {
+      "school": "NIT Durgapur",
+      "degree": "Electrical Engineering",
+      "year": null
+     },
+     {
+      "school": "London Business School",
+      "degree": null,
+      "year": null
+     }
+    ]
+   },
+   {
+    "name": "Sriraman T",
+    "role": "Senior Vice President & IC Head - Residential, Commercial Buildings & Factories IC",
+    "action": "appointed",
+    "effective": "2026-07-01",
+    "bio": "Mr. T. Sriraman joined L&T as a Graduate Engineer Trainee in 1992 and has over 34 years of experience across diverse functions and business verticals within L&T Construction.",
+    "roles": [
+     {
+      "org": "L&T Construction",
+      "title": "Senior Vice President & IC Head - Residential, Commercial Buildings & Factories IC",
+      "from": null,
+      "to": null
+     }
+    ],
+    "education": []
+   }
+  ],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "d1f8e649-ab86-4e59-8c13-4d65a8072d23": {
+  "summary": "Sun Pharma established a $2.5 million endowed professorship at Mount Sinai to advance dermatologic research and education, installing Dr. Mark G. Lebwohl as the inaugural professor.",
+  "materiality": "low",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "b1861635-a4ef-4c78-82c0-6ec3557bf627": {
+  "summary": "APSEZ doubled its Colombo West International Terminal capacity to 3.2 million TEUs via a USD 750 million investment, boosting its international transshipment footprint.",
+  "materiality": "medium",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ },
+ "34116125-5add-405b-92e4-8322cc784a78": {
+  "summary": "L&T secured twin large and significant contracts from Dubai's RTA for the Latifa Bint Hamdan Corridor development, scheduled for completion by late 2028.",
+  "materiality": "high",
+  "people": [],
+  "model": "gemini-3.5-flash-lite"
+ }
+}

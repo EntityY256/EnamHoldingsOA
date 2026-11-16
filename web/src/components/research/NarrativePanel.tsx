@@ -5,6 +5,7 @@ import { SectionTitle, Tag } from "../ui";
 
 const VERDICT: Record<string, { label: string; tone: "up" | "down" | "warn" | "muted" | "accent" }> = {
   delivered: { label: "Delivered", tone: "up" },
+  ahead: { label: "Raised", tone: "up" },
   partly: { label: "Partly", tone: "warn" },
   missed: { label: "Missed", tone: "down" },
   pending: { label: "Pending", tone: "accent" },

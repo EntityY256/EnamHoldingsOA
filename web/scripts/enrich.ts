@@ -11,7 +11,9 @@
 import fs from "node:fs";
 import path from "node:path";
 import { z } from "zod";
-import { llmJSON, llmProvider, modelFor, usageLedger } from "../src/lib/llm";
+import { LlmUnavailable, llmJSON, llmProvider, modelFor } from "../src/lib/llm";
+import { appendLedger } from "./ledger";
+import type { FilingResults } from "../src/lib/engine/fundamentals";
 import type { Snapshot } from "../src/lib/types";
 
 const ROOT = path.resolve(__dirname, "..");
@@ -40,10 +42,10 @@ const Enrichment = z.object({
 const Triple = z.object({ cur: z.number().nullable(), prev: z.number().nullable(), yoy: z.number().nullable() });
 const ResultsExtract = z.object({
   basis: z.enum(["consolidated", "standalone"]).describe("Prefer consolidated if both are present"),
-  unit: z.enum(["crore", "lakh", "million", "thousand"]).describe("Unit the table states, e.g. '₹ in crore' → crore"),
-  quarter: z.string().describe("Quarter just ended, e.g. 'Sep 2026'"),
-  prevQuarter: z.string(),
-  yoyQuarter: z.string(),
+  unit: z.string().describe("Unit the table states: one of crore, lakh, million, thousand"),
+  quarter: z.string().nullable().describe("Quarter just ended, e.g. 'Sep 2026'; null if there is no results table"),
+  prevQuarter: z.string().nullable(),
+  yoyQuarter: z.string().nullable(),
   revenue: Triple.describe("Revenue from operations"),
   otherIncome: Triple,
   financeCost: Triple,
@@ -64,6 +66,56 @@ const RESULTS_SYSTEM = `You read the financial-results table of an Indian listed
 Copy numbers exactly as printed for: the quarter just ended, the preceding quarter, and the corresponding quarter of the previous year.
 Do not compute anything. Use null where a figure is absent. Negative numbers (losses) keep their sign.`;
 
+/** The pages holding the P&L table (consolidated first), or null if the filing has none. */
+function tablePages(text: string): string | null {
+  const pages = text.split(/(?=\[page \d+\])/);
+  const isTable = (p: string) => /before\s+(exceptional\s+items\s+and\s+)?tax/i.test(p) && /revenue from operations|total income|interest earned/i.test(p);
+  const hits = pages.filter(isTable);
+  if (!hits.length) return null;
+  const ordered = [...hits.filter((p) => /consolidated/i.test(p)), ...hits.filter((p) => !/consolidated/i.test(p))];
+  return ordered.slice(0, 3).join("\n").slice(0, 24_000);
+}
+
+/**
+ * True if a number the model copied appears in the source table. Compared digit-for-digit per number
+ * token, because PDF text mangles separators: "1,19074" (lost point), "79362,78" (comma as point),
+ * "53,145.6928,738.39" (two cells glued). A rounded or computed figure still fails.
+ */
+function appearsIn(text: string, v: number | null): boolean {
+  if (v == null) return true;
+  const abs = Math.abs(v);
+  const forms = [String(abs), abs.toFixed(2)].map((s) => s.replace(/\D/g, ""));
+  for (const tok of text.match(/\d[\d.,]*/g) ?? []) {
+    const d = tok.replace(/\D/g, "");
+    const glued = (tok.match(/\./g) ?? []).length > 1;
+    if (forms.some((f) => d === f || (glued && d.startsWith(f)))) return true;
+  }
+  return false;
+}
+
+/**
+ * Catches column mix-ups the verbatim check can't (every number real, but from the wrong column):
+ * in each column with a profit, PAT must be a plausible share of PBT.
+ */
+type Col = { cur: number | null; prev: number | null; yoy: number | null };
+function columnsConsistent(pbt: Col, pat: Col): boolean {
+  return (["cur", "prev", "yoy"] as const).every((k) => {
+    const b = pbt[k];
+    const a = pat[k];
+    if (b == null || a == null || b <= 0) return true;
+    const r = a / b;
+    return r >= 0.3 && r <= 1.2;
+  });
+}
+
+function normUnit(u: string): FilingResults["unit"] | null {
+  if (/crore|\bcr\b/i.test(u)) return "crore";
+  if (/lakh|lac/i.test(u)) return "lakh";
+  if (/million|\bmn\b/i.test(u)) return "million";
+  if (/thousand|'000/i.test(u)) return "thousand";
+  return null;
+}
+
 async function main() {
   if (!llmProvider()) {
     console.error("No LLM key. Set ANTHROPIC_API_KEY or GEMINI_API_KEY (free at aistudio.google.com).");
@@ -72,37 +124,79 @@ async function main() {
   console.log(`Provider: ${llmProvider()} · cheap model: ${modelFor("cheap")}`);
   const snap: Snapshot = JSON.parse(fs.readFileSync(path.join(SNAP, "feed.json"), "utf8"));
   const outPath = path.join(SNAP, "enrichments.json");
-  const out: Record<string, z.infer<typeof Enrichment> & { model: string; results?: z.infer<typeof ResultsExtract> }> = fs.existsSync(outPath)
-    ? JSON.parse(fs.readFileSync(outPath, "utf8"))
-    : {};
+  const out: Record<string, z.infer<typeof Enrichment> & { model: string; results?: FilingResults; noResultsTable?: boolean }> =
+    fs.existsSync(outPath) ? JSON.parse(fs.readFileSync(outPath, "utf8")) : {};
   const names = new Map(snap.companies.map((c) => [c.symbol, c.name]));
 
-  const todo = snap.filings.filter((f) => f.hasText && !out[f.id]);
+  const needsResults = (f: Snapshot["filings"][number]) => f.cat === "results" && !out[f.id]?.results && !out[f.id]?.noResultsTable;
+  const todo = snap.filings.filter((f) => f.hasText && (!out[f.id] || needsResults(f)));
   console.log(`${todo.length} filings to enrich (${Object.keys(out).length} already done)`);
   let i = 0;
+  let stop = false;
+  let done = 0;
   const worker = async () => {
-    while (i < todo.length) {
+    while (i < todo.length && !stop) {
       const f = todo[i++];
-      const text = fs.readFileSync(path.join(SNAP, "texts", `${f.id}.txt`), "utf8").slice(0, 14_000);
+      const full = fs.readFileSync(path.join(SNAP, "texts", `${f.id}.txt`), "utf8");
       try {
-        const { data, usage } = await llmJSON({
-          tier: "cheap",
-          system: SYSTEM,
-          schema: Enrichment,
-          prompt: `Company: ${names.get(f.symbol)} (${f.symbol})\nBSE category: ${f.bseCategory} / ${f.bseSub}\nTitle: ${f.subject}\nHeadline: ${f.headline}\n\nFiling text:\n"""\n${text}\n"""`,
-        });
-        out[f.id] = { ...data, model: usage.model };
-        if (f.cat === "results") {
-          const r = await llmJSON({
+        let cached = true;
+        if (!out[f.id]) {
+          const { data, usage } = await llmJSON({
             tier: "cheap",
-            system: RESULTS_SYSTEM,
-            schema: ResultsExtract,
-            prompt: `Company: ${names.get(f.symbol)}\n\nResults filing text:\n"""\n${text}\n"""`,
+            system: SYSTEM,
+            schema: Enrichment,
+            prompt: `Company: ${names.get(f.symbol)} (${f.symbol})\nBSE category: ${f.bseCategory} / ${f.bseSub}\nTitle: ${f.subject}\nHeadline: ${f.headline}\n\nFiling text:\n"""\n${full.slice(0, 14_000)}\n"""`,
           });
-          out[f.id].results = r.data;
+          out[f.id] = { ...data, model: usage.model };
+          cached = usage.cached;
         }
-        process.stdout.write(usage.cached ? "c" : ".");
+        if (needsResults(f)) {
+          // Separate try: a filing without a usable results table still keeps its summary.
+          try {
+            const table = tablePages(full);
+            if (!table) {
+              out[f.id].noResultsTable = true; // a press release or notice: never extract numbers from prose
+            } else {
+              const r = await llmJSON({
+                tier: "cheap",
+                system: RESULTS_SYSTEM,
+                schema: ResultsExtract,
+                prompt: `Company: ${names.get(f.symbol)}\n\nResults table pages:\n"""\n${table}\n"""`,
+              });
+              const unit = normUnit(r.data.unit);
+              // Keep only a complete table whose key figures appear verbatim in the filing.
+              const copied = [r.data.revenue, r.data.pbt, r.data.pat].flatMap((t) => [t.cur, t.prev, t.yoy]);
+              const ok =
+                unit &&
+                r.data.quarter &&
+                r.data.revenue.cur != null &&
+                r.data.pat.cur != null &&
+                copied.every((v) => appearsIn(table, v)) &&
+                columnsConsistent(r.data.pbt, r.data.pat);
+              if (ok)
+                out[f.id].results = {
+                  ...r.data,
+                  unit,
+                  quarter: r.data.quarter!,
+                  prevQuarter: r.data.prevQuarter ?? "prev. quarter",
+                  yoyQuarter: r.data.yoyQuarter ?? "year-ago quarter",
+                };
+              else {
+                out[f.id].noResultsTable = true;
+                const missing = copied.filter((v) => !appearsIn(table, v));
+                console.error(`\n  ${f.symbol} ${f.id}: dropped (unit ${r.data.unit}, quarter ${r.data.quarter}; ${missing.length ? `not found verbatim: ${missing.join(", ")}` : "PAT/PBT columns inconsistent"})`);
+              }
+            }
+          } catch (e) {
+            if (e instanceof LlmUnavailable) throw e;
+            console.error(`\n  ${f.symbol} ${f.id}: no usable results table (${(e as Error).message.slice(0, 80)})`);
+          }
+        }
+        process.stdout.write(cached ? "c" : ".");
+        // Save as we go so a quota stop or crash keeps finished work.
+        if (++done % 10 === 0) fs.writeFileSync(outPath, JSON.stringify(out, null, 1));
       } catch (e) {
+        if (e instanceof LlmUnavailable) stop = true;
         process.stdout.write("x");
         console.error(`\n  ${f.symbol} ${f.id}: ${(e as Error).message}`);
       }
@@ -111,22 +205,8 @@ async function main() {
   await Promise.all([worker(), worker(), worker()]);
   fs.writeFileSync(outPath, JSON.stringify(out, null, 1));
 
-  const led = usageLedger();
-  const total = led.reduce((s, u) => s + u.costUsd, 0);
-  const ledgerPath = path.join(SNAP, "llm-ledger.json");
-  const prev = fs.existsSync(ledgerPath) ? JSON.parse(fs.readFileSync(ledgerPath, "utf8")) : { runs: [] };
-  prev.runs.push({
-    script: "enrich",
-    at: new Date().toISOString(),
-    calls: led.length,
-    cachedCalls: led.filter((u) => u.cached).length,
-    inputTokens: led.reduce((s, u) => s + u.inputTokens, 0),
-    outputTokens: led.reduce((s, u) => s + u.outputTokens, 0),
-    costUsd: +total.toFixed(4),
-    models: [...new Set(led.map((u) => u.model))],
-  });
-  fs.writeFileSync(ledgerPath, JSON.stringify(prev, null, 1));
-  console.log(`\nDone. ${led.length} calls, $${total.toFixed(4)} (${led.filter((u) => u.cached).length} served from cache)`);
+  const run = appendLedger("enrich");
+  console.log(`\nDone. ${run.calls} calls, $${run.total.toFixed(4)} (${run.cached} served from cache)`);
 }
 
 main().catch((e) => {

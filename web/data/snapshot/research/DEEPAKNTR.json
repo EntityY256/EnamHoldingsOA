@@ -1,0 +1,133 @@
+{
+ "symbol": "DEEPAKNTR",
+ "generatedAt": "2026-11-16T05:53:01.051Z",
+ "business": {
+  "what": "Deepak Nitrite Ltd is a leading integrated chemical intermediates company with a comprehensive portfolio spanning Advanced Intermediates and Phenolics. It makes money by manufacturing and selling a wide range of chemical products across domestic and global markets for diverse industrial applications.",
+  "segments": [
+   {
+    "name": "Advanced Intermediates",
+    "detail": "Generated a revenue of ₹ 2,553 Crores with an EBIT of ₹ 107 Crores in FY 2025-26."
+   },
+   {
+    "name": "Phenolics",
+    "detail": "Generated a revenue of ₹ 5,401 Crores with an EBIT of ₹ 695 Crores in FY 2025-26."
+   }
+  ],
+  "strategy": [
+   "Value chain integration",
+   "Expansion into Speciality and performance chemicals",
+   "Innovation-led differentiation and R&D investment",
+   "Operational excellence and cost efficiency"
+  ]
+ },
+ "narrative": {
+  "read": "Deepak Nitrite has seen a sharp operational acceleration in FY27, with Q2 FY27 revenue reaching ₹3,076 crore and operating margin expanding to 20%, up from 13% in FY26. However, annual cash from operations dropped to ₹539 crore in FY26 while capex reached ₹1,197 crore, highlighting cash flow pressure amid aggressive capital expenditure plans.",
+  "promises": [
+   {
+    "said": "Q3 FY26 call",
+    "promise": "Favourable performance expected in Q4 FY26",
+    "delivered": "Q4 FY26 sales increased to ₹2,120 crore (vs ₹1,975 crore in Q3 FY26), OPM expanded to 18% (vs 11%), and net profit doubled to ₹220 crore.",
+    "verdict": "delivered",
+    "quote": "With this positive backdrop, the Group expects a favourable performance in Q4 FY26."
+   },
+   {
+    "said": "Q3 FY26 call",
+    "promise": "Commissioning of MIBK/MIBC project within Q3 FY26",
+    "delivered": "In the subsequent Q4 FY26 call, management delayed the commissioning target to the tail end of Q1 or early part of Q2 FY27.",
+    "verdict": "missed",
+    "quote": "The MIBK/ MIBC project is progressing well and is targeted for commissioning within this quarter."
+   },
+   {
+    "said": "Q3 FY26 call",
+    "promise": "Nitric acid, nitration, and hydrogenation utilization running at 95% to 100% from Q3 FY26",
+    "delivered": "Management reported in the Q4 FY26 call that nitric acid plant utilization was constrained to about 45% during Q4 due to technical issues.",
+    "verdict": "missed",
+    "quote": "Now on the nitric acid investment, on the nitration and on the hydrogenation, we are expecting to run at 100% or close enough to 100% utilization from this quarter onwards. They may be between 95% to 100%, 105%."
+   },
+   {
+    "said": "Q4 FY26 call",
+    "promise": "Commissioning of MIBK and MIBC asset by tail end of Q1 or early Q2 FY27",
+    "delivered": "Product-specific commissioning dates and asset performance are not detailed in the financial table.",
+    "verdict": "unverifiable",
+    "quote": "at some point, maybe perhaps at the tail end of Q1 or the early part of Q2 is when we will be looking at commissioning of the asset"
+   },
+   {
+    "said": "Q4 FY26 call",
+    "promise": "Commissioning of integrated polycarbonate project by June 2028",
+    "delivered": "Horizon date of June 2028 has not yet arrived.",
+    "verdict": "pending",
+    "quote": "we are expecting it to be commissioned by June 2028."
+   },
+   {
+    "said": "Q1 FY27 call",
+    "promise": "Spend an additional ₹1,000 crore to ₹1,500 crore on capex in FY27",
+    "delivered": "Full year FY27 cash flow and capex figures are not yet reported in the annual table.",
+    "verdict": "pending",
+    "quote": "Further this year, we'll spend around another INR 1,000 crore to INR 1,500 crore this year further."
+   }
+  ],
+  "credibility": "Management successfully delivered on its short-term Q4 FY26 earnings target but missed initial timelines and utilization guidance for its MIBK and nitric acid facilities.",
+  "narrativeVsNumbers": [
+   {
+    "claim": "Management anticipated favourable performance in Q4 FY26.",
+    "reality": "Q4 FY26 revenue grew to ₹2,120 crore from ₹1,975 crore sequentially, with operating profit rising from ₹211 crore to ₹376 crore and OPM improving to 18%.",
+    "aligned": true
+   },
+   {
+    "claim": "Management reported best-ever operating history performance with record Revenue and EBITDA in Q2 FY27.",
+    "reality": "Q2 FY27 (Sep 2026) revenue hit a record ₹3,076 crore and operating profit reached ₹627 crore at a 20% OPM, outperforming all prior quarters in the table.",
+    "aligned": true
+   },
+   {
+    "claim": "Strategic execution is backed by value chain integration and cash generation strength.",
+    "reality": "Cash from operations steadily dropped from ₹874 crore in FY24 to ₹539 crore in FY26, even as annual capex rose from ₹764 crore to ₹1,197 crore.",
+    "aligned": false
+   }
+  ],
+  "bull": [
+   "Quarterly financial trajectory showed substantial expansion in FY27, with sales growing to ₹3,076 crore and operating profit hitting ₹627 crore in Sep 2026.",
+   "OPM expanded from 10% in Jun 2025 to 21% in Jun 2026 and 20% in Sep 2026, demonstrating operating leverage.",
+   "TTM net profit reached ₹1,062 crore, recovering strongly from ₹551 crore in FY26."
+  ],
+  "bear": [
+   "Cash flow from operations weakened to ₹539 crore in FY26 from ₹874 crore in FY24, worsening free cash flow generation during high capex spend.",
+   "Annual capex elevated significantly to ₹1,197 crore in FY26 with heavy multi-year capex targets planned through FY29.",
+   "Execution hiccups surfaced in core projects, including technical issues limiting nitric acid plant utilization to ~45% in Q4 FY26 and delaying MIBK commissioning."
+  ],
+  "askManagement": [
+   "What specific technical bottlenecks limited nitric acid plant utilization to 45% in Q4 FY26, and what is its current operating rate?",
+   "Given that cash flow from operations fell to ₹539 crore in FY26 while FY28 capex is targeted at ₹2,200–2,400 crore, what is the planned funding structure?",
+   "How much of the revenue increase to ₹3,076 crore in Q2 FY27 was driven by higher spreads in Phenolics versus volume ramp-ups in Advanced Intermediates?"
+  ]
+ },
+ "sources": [
+  {
+   "label": "Concall transcript, Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5dfbdab4-d040-4a99-b694-bbe26f015f14.pdf"
+  },
+  {
+   "label": "Concall transcript, Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=830edde9-d00b-4243-98bd-a0e7c77d716b.pdf"
+  },
+  {
+   "label": "Concall transcript, May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=589629dc-be30-42d5-8ed4-bb605071a9bc.pdf"
+  },
+  {
+   "label": "Concall transcript, Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5fe2e422-45bb-44a8-a6e2-c9677c942a8d.pdf"
+  },
+  {
+   "label": "Annual report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e9576f6d-6ec3-4f36-b0e0-2af594782e65.pdf"
+  }
+ ],
+ "usage": {
+  "calls": 6,
+  "costUsd": 0.0635,
+  "models": [
+   "gemini-3.5-flash-lite",
+   "gemini-3.6-flash"
+  ]
+ }
+}

@@ -1,6 +1,6 @@
 "use client";
 import Link from "next/link";
-import { useEffect, useMemo, useState } from "react";
+import { useMemo, useState, useSyncExternalStore } from "react";
 import { CATEGORY_LABEL, type Category } from "@/lib/engine/classify";
 import { DEFAULT_SETTINGS, marketAlerts, type AlertSettings, type MarketAlert } from "@/lib/alerts";
 import type { FeedItem } from "@/lib/feed";
@@ -17,34 +17,54 @@ const WINDOWS = [
 ] as const;
 type WindowKey = (typeof WINDOWS)[number]["key"];
 
-export type WarmNudge = { contactId: string; name: string; months: number; connection: string; event: { symbol: string; label: string } };
+// Per-viewer preferences (window, alert thresholds) in localStorage, read through
+// useSyncExternalStore so the server render and first client render agree. Falls back to memory
+// when storage is blocked (private mode), so the controls still work for the session.
+const memoryPrefs = new Map<string, string>();
+const PREF_EVENT = "finn-pref";
+function readPref(key: string): string | null {
+  try {
+    const v = localStorage.getItem(key);
+    if (v != null) return v;
+  } catch {}
+  return memoryPrefs.get(key) ?? null;
+}
+function writePref(key: string, value: string) {
+  memoryPrefs.set(key, value);
+  try {
+    localStorage.setItem(key, value);
+  } catch {}
+  window.dispatchEvent(new Event(PREF_EVENT));
+}
+function subscribePref(cb: () => void) {
+  window.addEventListener("storage", cb);
+  window.addEventListener(PREF_EVENT, cb);
+  return () => {
+    window.removeEventListener("storage", cb);
+    window.removeEventListener(PREF_EVENT, cb);
+  };
+}
+function usePref(key: string) {
+  return useSyncExternalStore(subscribePref, () => readPref(key), () => null);
+}
+
+export type WarmNudge ={ contactId: string; name: string; months: number; connection: string; event: { symbol: string; label: string } };
 
 export function Brief({ items, eod, asOf, warm, companies }: { items: FeedItem[]; eod: Record<string, Bar[]>; asOf: string; warm: WarmNudge[]; companies: number }) {
-  const [win, setWin] = useState<WindowKey>("24h");
-  const [settings, setSettings] = useState<AlertSettings>(DEFAULT_SETTINGS);
+  const rawWin = usePref("finn.window");
+  const win: WindowKey = WINDOWS.some((x) => x.key === rawWin) ? (rawWin as WindowKey) : "24h";
+  const rawSettings = usePref("finn.settings");
+  const settings = useMemo<AlertSettings>(() => {
+    try {
+      return rawSettings ? { ...DEFAULT_SETTINGS, ...JSON.parse(rawSettings) } : DEFAULT_SETTINGS;
+    } catch {
+      return DEFAULT_SETTINGS;
+    }
+  }, [rawSettings]);
   const [showSettings, setShowSettings] = useState(false);
   const [showRoutine, setShowRoutine] = useState(false);
-
-  useEffect(() => {
-    try {
-      const s = localStorage.getItem("finn.settings");
-      if (s) setSettings({ ...DEFAULT_SETTINGS, ...JSON.parse(s) });
-      const w = localStorage.getItem("finn.window") as WindowKey | null;
-      if (w && WINDOWS.some((x) => x.key === w)) setWin(w);
-    } catch {}
-  }, []);
-  const save = (s: AlertSettings) => {
-    setSettings(s);
-    try {
-      localStorage.setItem("finn.settings", JSON.stringify(s));
-    } catch {}
-  };
-  const pickWindow = (w: WindowKey) => {
-    setWin(w);
-    try {
-      localStorage.setItem("finn.window", w);
-    } catch {}
-  };
+  const save = (s: AlertSettings) => writePref("finn.settings", JSON.stringify(s));
+  const pickWindow = (w: WindowKey) => writePref("finn.window", w);
 
   const hours = WINDOWS.find((w) => w.key === win)!.hours;
   const since = new Date(new Date(asOf).getTime() - hours * 3600e3);
@@ -103,6 +123,7 @@ export function Brief({ items, eod, asOf, warm, companies }: { items: FeedItem[]
           <button
             key={w.key}
             onClick={() => pickWindow(w.key)}
+            aria-pressed={win === w.key}
             className={`shrink-0 rounded-full px-3.5 py-1.5 text-[13px] font-medium ${win === w.key ? "bg-ink text-bg" : "border border-line bg-surface text-ink-2"}`}
           >
             {w.label}

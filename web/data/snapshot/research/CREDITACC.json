@@ -1,0 +1,140 @@
+{
+ "symbol": "CREDITACC",
+ "generatedAt": "2026-11-16T05:52:52.788Z",
+ "business": {
+  "what": "CreditAccess Grameen Ltd is India's largest NBFC-MFI that empowers women entrepreneurs and low-income households by providing flexible and responsible financial solutions. It makes money through interest and other charges on a wide range of group loans and retail loans, such as livelihood loans, retail finance, and housing loans, supported by diversified borrowings and cost-effective operations.",
+  "segments": [
+   {
+    "name": "Group Loans",
+    "detail": "Includes joint liability group (JLG) products such as livelihood loans, IGLG pragati loans, emergency loans, water loans, and sanitation loans."
+   },
+   {
+    "name": "Retail Loans",
+    "detail": "Includes individual and retail finance products such as Unnati loans, Vikas loans, housing loans, and two-wheeler loans, reaching an AUM of ₹53.62 billion."
+   }
+  ],
+  "strategy": [
+   "Strengthen the balance sheet, improve portfolio quality, and focus on sustainable business growth",
+   "Expand presence in the retail finance space through tailored products addressing diverse financial needs",
+   "Scale business guided by diligence, MFIN Guardrails, regulatory norms, and internal risk thresholds",
+   "Diversify the liability franchise and leverage technology for digital platforms like Mahi"
+  ]
+ },
+ "narrative": {
+  "read": "CreditAccess Grameen has staged a dramatic operational turnaround, with quarterly Net Profit surging from a loss of ₹100 crore in Dec 2024 to ₹502 crore in Sep 2026. Financing Margin % expanded from -8% in Dec 2024 to 36% in Sep 2026 while Gross NPA % declined from 4.76% in Mar 2025 to 2.18% in Jun 2026.",
+  "promises": [
+   {
+    "said": "Q3 FY26 call",
+    "promise": "FY27 credit cost guidance of 4.0% to 4.5%",
+    "delivered": "Re-set lower in Q4 FY26 call to 3.0%-4.0% (and maintained in Q2 FY27), which is in the investor's favour.",
+    "verdict": "ahead",
+    "quote": "Our FY27 credit cost guidance of 4% to 4.5% reflects a new PAR 15 accretion rate of 30-35 bps per month."
+   },
+   {
+    "said": "Q3 FY26 call",
+    "promise": "Foreign borrowings target of 25-30% by FY28",
+    "delivered": "Target horizon is FY28; table does not report borrowing composition.",
+    "verdict": "pending",
+    "quote": "Our foreign borrowings stood healthy at 24.3%, moving closer to the medium-term target of 25-30% by FY28 as we scale our business."
+   },
+   {
+    "said": "Q4 FY26 call",
+    "promise": "FY27 NIM guidance of 12.8-13.2%",
+    "delivered": "Raised in Q2 FY27 call to 14.4%-14.7% due to healthy asset quality and lower borrowing costs.",
+    "verdict": "ahead",
+    "quote": "For FY27, we are guiding an AUM growth of 20.0-25.0%, NIM of 12.8-13.2%, cost to income of 33.0-35.0%, credit cost of 3.0-4.0%, ROA of 4.0-4.8%, and an ROE of 16.0-20.0%."
+   },
+   {
+    "said": "Q4 FY26 call",
+    "promise": "FY27 Cost to income guidance of 33.0-35.0%",
+    "delivered": "Lowered in Q2 FY27 call to 29%-30% as operating costs remained well under control.",
+    "verdict": "ahead",
+    "quote": "For FY27, we are guiding an AUM growth of 20.0-25.0%, NIM of 12.8-13.2%, cost to income of 33.0-35.0%, credit cost of 3.0-4.0%, ROA of 4.0-4.8%, and an ROE of 16.0-20.0%."
+   },
+   {
+    "said": "Q4 FY26 call",
+    "promise": "FY27 ROA of 4.0-4.8% and ROE of 16.0-20.0%",
+    "delivered": "Raised in Q2 FY27 call to ROA of 5.2%-5.8% and ROE of 21%-24% based on strong H1 FY27 performance.",
+    "verdict": "ahead",
+    "quote": "For FY27, we are guiding an AUM growth of 20.0-25.0%, NIM of 12.8-13.2%, cost to income of 33.0-35.0%, credit cost of 3.0-4.0%, ROA of 4.0-4.8%, and an ROE of 16.0-20.0%."
+   },
+   {
+    "said": "Q1 FY27 call",
+    "promise": "Reach INR 50,000 Crore AUM by calendar year 2028",
+    "delivered": "Horizon is CY28; AUM is an unlisted company metric not detailed in standard financial tables.",
+    "verdict": "pending",
+    "quote": "We remain fully committed to our medium-term guidance of INR 50,000 Crore AUM by calendar year 2028, confidence reinforced by the strength of the start we have made this quarter"
+   },
+   {
+    "said": "Q2 FY27 call",
+    "promise": "Maintain FY27 AUM growth guidance of 20% to 25%",
+    "delivered": "FY27 is ongoing; AUM growth rate is an internal company metric not present in reported tables.",
+    "verdict": "pending",
+    "quote": "We retain our AUM growth guidance of 20% to 25%, supported by return to growth in Group Loan portfolio, coupled with continued momentum in Retail Finance."
+   }
+  ],
+  "credibility": "Management demonstrated strong operational control by upgrading all major FY27 profitability targets (ROA, ROE, NIM, cost-to-income) in Q2 FY27, though reported financials trace generic line items rather than company-defined metrics.",
+  "narrativeVsNumbers": [
+   {
+    "claim": "Asset quality normalization and PAR accretion reduction driving operational turnaround.",
+    "reality": "Gross NPA % dropped continuously from a high of 4.76% in Mar 2025 to 2.18% in Jun 2026.",
+    "aligned": true
+   },
+   {
+    "claim": "Strong rebound in bottom-line performance entering FY27.",
+    "reality": "Net Profit recovered from a loss of ₹100 crore in Dec 2024 to ₹493 crore in Jun 2026 and ₹502 crore in Sep 2026.",
+    "aligned": true
+   },
+   {
+    "claim": "Top-line revenue expansion driven by business scaling.",
+    "reality": "Quarterly Revenue increased consistently from ₹1,380 crore in Dec 2024 to ₹1,904 crore in Sep 2026.",
+    "aligned": true
+   }
+  ],
+  "bull": [
+   "Substantial expansion in quarterly Net Profit, rising from a loss of ₹100 crore in Dec 2024 to ₹502 crore in Sep 2026.",
+   "Strong recovery in Financing Margin %, expanding from -8% in Dec 2024 to 38% in Jun 2026 and 36% in Sep 2026.",
+   "Significant reduction in asset quality stress, with Gross NPA % declining from 4.76% in Mar 2025 to 2.18% in Jun 2026."
+  ],
+  "bear": [
+   "Historical earnings vulnerability to credit cycles, reflected in annual Net Profit dropping from ₹1,446 crore in Mar 2024 to ₹531 crore in Mar 2025.",
+   "Potential credit cost pressure in H2 FY27 highlighted by management regarding drought conditions in Maharashtra and flood impacts in other operating states.",
+   "Lending rate reduction of 50 bps implemented in H2 FY27 could weigh on yield expectations if marginal borrowing costs escalate."
+  ],
+  "askManagement": [
+   "How will the 50 bps lending rate cut impact NIM targets for H2 FY27 given rising marginal bank borrowing rates?",
+   "What is the quantitative impact of localized drought conditions in Maharashtra on H2 FY27 credit cost run rates?",
+   "As Retail Finance expands to 23.3% of total AUM, how do credit costs and write-offs in individual/secured loans compare to traditional joint liability group loans?"
+  ]
+ },
+ "sources": [
+  {
+   "label": "Concall transcript, Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4eacadb3-416d-45e9-909a-ab2904fdb667.pdf"
+  },
+  {
+   "label": "Concall transcript, Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=20638c58-388a-4ef2-a609-1d5b07810693.pdf"
+  },
+  {
+   "label": "Concall transcript, May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5c5b2d3a-78a0-4ade-b850-fc25575d1640.pdf"
+  },
+  {
+   "label": "Concall transcript, Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f93ac9cb-0e79-4395-90df-9cb5c15c5d62.pdf"
+  },
+  {
+   "label": "Annual report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad1c539d-d91c-4844-90ca-2b4913c547ef.pdf"
+  }
+ ],
+ "usage": {
+  "calls": 6,
+  "costUsd": 0.0696,
+  "models": [
+   "gemini-3.5-flash-lite",
+   "gemini-3.6-flash"
+  ]
+ }
+}

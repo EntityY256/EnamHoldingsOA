@@ -43,8 +43,8 @@ export function modelFor(tier: LlmTier): string | null {
 }
 
 export class LlmUnavailable extends Error {
-  constructor() {
-    super("No LLM key configured (set ANTHROPIC_API_KEY or GEMINI_API_KEY)");
+  constructor(message = "No LLM key configured (set ANTHROPIC_API_KEY or GEMINI_API_KEY)") {
+    super(message);
   }
 }
 
@@ -91,9 +91,9 @@ export async function llmJSON<S extends z.ZodType>(opts: {
     .slice(0, 32);
   const hit = cacheGet<{ data: z.infer<S>; usage: LlmUsage }>(key);
   if (hit) {
-    const usage = { ...hit.usage, cached: true, costUsd: 0 };
-    ledger.push(usage);
-    return { data: opts.schema.parse(hit.data), usage };
+    // Spend ledger: a cache hit costs nothing now. Caller: keeps what producing the answer cost.
+    ledger.push({ ...hit.usage, cached: true, costUsd: 0 });
+    return { data: opts.schema.parse(hit.data), usage: { ...hit.usage, cached: true } };
   }
 
   const out =
@@ -145,7 +145,8 @@ async function callGemini<S extends z.ZodType>(
 ) {
   const jsonSchema = JSON.stringify(z.toJSONSchema(opts.schema));
   let lastErr: unknown;
-  for (let attempt = 0; attempt < 2; attempt++) {
+  let parseFailures = 0;
+  for (let attempt = 0; attempt < 6 && parseFailures < 2; attempt++) {
     const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`, {
       method: "POST",
       headers: { "Content-Type": "application/json", "x-goog-api-key": process.env.GEMINI_API_KEY! },
@@ -161,15 +162,23 @@ async function callGemini<S extends z.ZodType>(
       }),
     });
     if (res.status === 429 || res.status >= 500) {
+      const body = await res.text();
+      // A spent daily quota will not recover by waiting; per-minute limits will.
+      if (res.status === 429 && /PerDay/i.test(body)) throw new LlmUnavailable(`Gemini daily quota reached for ${model}`);
       lastErr = new Error(`Gemini ${res.status}`);
-      await new Promise((r) => setTimeout(r, 4000 * (attempt + 1)));
+      const hinted = Number(/"retryDelay":\s*"(\d+(?:\.\d+)?)s"/.exec(body)?.[1]);
+      const waitMs = Number.isFinite(hinted) && hinted > 0 ? hinted * 1000 + 1000 : 5000 * 2 ** attempt;
+      await new Promise((r) => setTimeout(r, Math.min(waitMs, 65_000)));
       continue;
     }
     if (!res.ok) throw new Error(`Gemini ${res.status}: ${(await res.text()).slice(0, 300)}`);
     const j = await res.json();
     const text: string = j?.candidates?.[0]?.content?.parts?.map((p: { text?: string }) => p.text ?? "").join("") ?? "";
     try {
-      const data = opts.schema.parse(JSON.parse(text.replace(/^```(?:json)?\s*|\s*```$/g, "")));
+      let parsed = JSON.parse(text.replace(/^```(?:json)?\s*|\s*```$/g, ""));
+      // Gemini occasionally wraps a single object in an array.
+      if (Array.isArray(parsed) && parsed.length === 1 && !(opts.schema instanceof z.ZodArray)) parsed = parsed[0];
+      const data = opts.schema.parse(parsed);
       return {
         data: data as z.infer<S>,
         inputTokens: j?.usageMetadata?.promptTokenCount ?? 0,
@@ -177,6 +186,7 @@ async function callGemini<S extends z.ZodType>(
       };
     } catch (e) {
       lastErr = e; // malformed JSON: retry once
+      parseFailures++;
     }
   }
   throw lastErr instanceof Error ? lastErr : new Error(String(lastErr));

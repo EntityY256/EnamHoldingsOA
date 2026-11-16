@@ -3639,3 +3639,1946 @@ year
 Chennai
 1
 si
+
+[page 7]
+Notes
+:
+5
+The
+above
+unaudited
+financial
+results
+(
+along
+with
+the
+notes
+given
+below
+)
+hereafter
+referred
+to
+as
+the
+"
+Statement
+”
+of
+Equitas
+Small
+Finance
+Bank Limited
+(
+“
+Bank
+”
+or“ESFBL
+”
+)
+for
+the
+quarter
+and
+half
+year
+ended
+September 30
+,
+2026
+were
+reviewed
+by
+the
+Audit
+Committee
+and
+approved by
+the Board
+of
+Directors
+at
+their
+respective
+meetings
+held
+on
+October
+28
+,
+2026
+and
+October 29
+,
+2026
+and have been
+subjected
+to
+limited
+review by
+the
+joint
+statutory
+auditors
+of
+the
+Bank
+(
+M
+/
+s
+Suri
+&
+Co
+,
+Chartered
+Accountants
+and
+M
+/
+s
+Sundaram &
+Srinivasan
+,
+Chartered
+Accountants
+)
+.
+The
+report thereon
+is
+unmodified
+.
+6
+The
+above
+financial
+results
+of
+the
+Bank
+have
+been
+prepared
+in
+accordance
+with
+the
+recognition
+and
+measurement principles
+laid
+down
+in
+Accounting Standardsspecified
+under
+Section
+133
+of
+the
+Companies
+Act
+,
+2013
+read
+with
+relevant
+rules
+thereunder
+,
+in so
+far
+as
+they
+apply
+to
+the
+Banks
+,
+the
+relevant
+provisions
+of
+the
+Banking
+Regulation
+Act
+,
+1949
+,
+the
+circulars
+,
+guidelines
+and
+directions
+issued
+by
+the
+Reserve Bank
+of
+India
+(
+"
+the
+RBI
+"
+)
+from
+time
+to
+time
+and
+other accounting principles
+generally
+accepted
+in
+India
+,
+and
+are
+in
+compliance
+with
+the
+presentation
+and
+disclosure
+requirements
+of
+the Regulation
+33
+and
+Regulation
+52
+read with
+Regulation
+63
+(
+2
+)
+of
+the Securities and
+Exchange
+Board
+of
+India
+(
+Listing
+Obligations
+and
+Disclosure
+Requirements
+)
+Regulations
+,
+2015 (
+"
+SEBI
+Regulations
+"
+)
+as
+amended
+including
+relevant
+circulars
+issued
+by
+the
+SEBI
+from
+time
+to
+time
+.
+The
+Bank
+has
+applied
+its
+significant
+accounting
+policies
+,
+in
+the
+preparation of
+these
+financial results
+,
+consistent
+with
+those
+followed
+in
+the
+annual
+financial
+statements
+for
+the
+year
+ended
+March
+31
+,
+2026
+.
+Any
+circulars
+/
+directions
+issued
+by the
+RBI
+are
+implemented
+prospectively
+when
+they
+become
+applicable
+,
+unless
+specifically
+required
+under
+those
+circulars
+/
+directions
+.
+7
+8 The
+Capital adequacy
+ratio
+has been
+computed
+as
+per
+the
+operating
+guidelines
+for
+Small
+Finance
+Banks
+in
+accordance
+with
+RBI
+Circular
+No
+.
+RBI
+/
+2016
+-
+17
+/
+81
+DBR
+.
+NBD
+.
+No
+.
+26
+/
+16.13
+.
+218
+/
+2016
+-
+17
+dated
+October
+6
+,
+2016
+and
+other
+related
+guidelines
+issued
+thereto
+.
+Accordingly
+,
+the
+Bank
+has been
+following
+Basel
+II
+standardized
+approach
+for credit
+risk
+in
+accordance
+with
+the
+aforesaid
+guidelines
+and
+no
+separate
+capital
+charge
+is
+prescribed
+for
+market
+risk
+and
+operational
+risk
+.
+Basel
+II
+Standardized
+approach
+is
+followed
+in
+accordance
+with
+RBI
+Master
+Directions
+RBI
+/DOR
+/
+2025
+-
+26/
+182
+DOR
+.
+CAP
+.REC
+.
+101
+/
+21
+-
+01
+-
+002
+/
+2025
+-
+26
+dated
+November
+28
+,
+2025
+on
+Reserve
+Bank
+of
+India
+(
+Small
+Finance Banks
+-
+Prudential
+Norms
+on
+Capital
+Adequacy
+)
+Directions
+, 2025
+and
+any amendments
+in
+this
+regard
+from
+time
+to time
+.
+The
+Bank
+makes
+Pillar
+Ml
+disclosures
+as
+part
+of
+Market
+Discipline
+as
+per
+above
+the
+referred
+RBI
+directions
+.
+In
+addition
+to this
+,
+the
+Bank
+provides
+disclosures
+on
+Leverage
+ratio
+as
+per
+Basel
+III
+- Capital
+Regulations which is
+also
+detailed
+out
+in
+the
+above
+mentioned
+directions
+.
+Further
+,
+the
+Bank
+makes
+disclosures
+on
+Liquidity
+Coverage
+Ratio
+and Net
+Stable
+Funding
+Ratio
+(
+vide
+ref
+.
+RBI
+/
+DOR
+/
+2025
+-
+26
+/
+194
+DOR
+.
+LRG
+.
+No
+.
+113
+/
+13
+-
+10
+-
+002
+/
+2025
+-
+26
+dated
+November
+28
+,
+2025
+on
+Reserve
+Bank
+of India
+(
+Small
+Finance
+Banks
+-
+Asset
+Liability
+Management)
+Directions
+,
+2025
+)
+and
+any
+amendments
+in
+this
+regard
+from
+time
+to
+time
+.
+These disclosures
+are
+available
+on
+the
+Bank
+'
+s
+website
+at
+the
+following
+link
+:
+https:
+/
+/
+ir
+.
+equitas
+.
+bank
+.
+in
+/
+reports
+-
+and
+-
+presentations
+/
+.
+These
+disclosures
+have
+not
+been
+subjected to auditor limited
+review
+.
+9
+Disclosure
+under
+resolution
+framework
+for
+COVID
+-
+19
+-
+related
+stress
+as
+on
+September 30
+,
+2026
+,
+as
+per
+the
+Reserve
+Bank of
+India
+(
+Small Finance
+Banks
+-
+Financial
+Statements
+-
+Presentation
+and
+Disclosures
+)
+Directions
+,
+2025
+dated
+November
+28
+, 2025,
+and
+as
+amended
+thereafter
+,
+are
+given below
+:
+10
+(
+?
+in
+Lakh
+)
+Exposure to
+accounts
+classified
+as
+Standard
+consequent
+to
+implementation
+of
+resolution plan
+-
+Position
+as
+at
+the end of
+previous
+half
+-
+year
+i
+.
+e
+.
+March
+31
+,
+2026
+(
+A
+)
+$
+Exposure
+to
+accounts
+classified
+as
+Standard
+consequent
+of
+implementation
+of
+resolution
+plan
+-
+Position
+as
+at
+end of
+this half
+-
+year
+September
+30
+,
+2026
+(
+Of
+(
+A
+)
+amount
+written
+off during
+the
+half
+-
+year
+September
+30
+,
+2026
+#
+)
+Of
+(
+A
+)
+amount
+paid
+bythe
+borrower
+during the
+half
+-
+year
+September
+30
+,
+2026
+##
+Of
+(
+A
+) aggregate
+debt
+that
+slipped
+into
+NPA
+during
+the
+half
+-
+year
+September
+30,
+2026
+Type
+of
+Borrower
+416.0444.03
+0.76
+461.24
+1.17Personal
+Loans
+0.00Corporate persons
+*
+0.00
+Of
+which
+,
+MSMEs
+5
+,
+403.70
+9.83
+909.43
+Others
+6
+,
+544.45
+231.32 5
+,
+819.74
+953.46
+232.49
+10.59
+7
+,
+005.69Total
+*
+As
+defined
+in Section 3
+(
+7
+)
+of
+the
+Insolvency
+and
+Bankruptcy
+Code
+,
+2016
+#
+represents
+debt
+that
+slipped
+into
+NPA
+and
+was
+subsequently
+written
+off
+during
+the
+half
+year
+#
+#
+includes
+change
+in
+the
+balances
+on
+account
+of
+interest
+$
+Excludes
+other
+facilities
+to the
+borrowers
+which
+have
+not
+been restructured
+There
+were
+99
+borrower
+accounts having an aggregate
+exposure
+of
+?
+72.52
+Lakh
+to the Bank
+,
+where
+resolution
+plans
+had
+been
+Implemented
+under
+RBI
+'
+s
+Resolution
+Framework
+1.0 dated August
+6
+,
+2020 and were
+modified
+under
+RBI
+’
+s
+Resolution
+Framework 2.0
+dated
+May
+5
+,
+2021
+Disclosures
+as per
+the
+'
+Reserve
+Bank of
+India
+(
+Small
+Finance
+Banks
+-
+Financial Statements
+:
+Presentation
+and
+Disclosures
+)
+Directions
+,
+2025
+'
+dated
+November
+28
+,
+2025
+,
+and
+as
+amended
+thereafter
+,
+for
+the
+loans
+transferred
+/
+acquired during
+the
+quarter
+ended September 30
+,
+2026
+,
+are
+given
+below:
+1 1
+(
+i
+)
+Details
+of Non
+-
+Performing
+Assets
+(
+NPAs
+)
+transferred
+.
+(
+Amount
+in
+X
+Lakh
+except
+number
+of
+accounts
+and year
+)
+To permitted
+transferees
+To
+other transferees
+To ARCS
+Particulars
+2
+,
+502
+Number
+of
+accounts 11
+,
+000.02
+Aggregate
+principal outstanding of
+loans transferred
+4.97
+Weighted
+average
+residual
+tenor
+of
+the
+loans
+transferred
+(
+in
+years
+)
+2
+,
+537.50
+Net book
+value
+of loans
+transferred
+(
+at the time
+of
+transfer
+) 7
+,
+370.00
+Aggregate
+consideration
+Additional
+consideration
+realized
+in respect of
+accounts
+transferred
+in earlier
+years
+The Bank has
+reversed
+excess
+provision
+of
+^
+8
+,462.52 Lakh
+to
+the Profit and Loss
+account
+on account
+of sale of
+Non performing advances
+to
+ARC
+(
+ii
+)
+Details of
+loans
+not
+in
+default
+transferred
+through assignment
+are
+given
+below
+:
+61,
+865.34
+Aggregate amount of
+loans transferred
+(
+7
+in Lakh
+)
+131.31Weighted
+average residual maturity
+(
+in
+Months
+)
+20.86
+Weighted average
+holding
+period
+of the
+Originator
+(
+in Months
+)
+10
+%Retention
+of
+beneficial economic interest by the
+Originator (
+%
+)
+277%
+Tangible
+security coverage
+(
+%
+)
+Nil
+Rating
+-
+wise
+distribution of rated loans
+o
+Chennai
+\£\\
+t£
+\
+600
+Q
+02
+,
+/
+.§
+T;
+j
+>
+;
+
+[page 8]
+(iii) The Bank has not acquired any loans not in default.
+(iv) The Bank has not acquired any stressed loans (Non-performing assets and Special Mention Account)
+(v) Details of ratings of Security Receipts (SR) as on September 30, 2026 are given below.
+(Amount in ^ Lakh)
+Rating Rating Agency Recovery Rating Gross Value of Outstanding SRs
+RR5 India Ratings Upto 25% 4,033.00
+RR1 India Ratings 100% - 150% 6,027.54
+RR1 CRISIL 100% - 150% 5,400.00
+RR1 CRISIL 100% - 150% 1,105.00
+RR1 CRISIL 100% - 150% 956.00
+Yet to be rated * 2,535.28
+Total 20,056.82
+* Pursuant to regulatory norms, the ARC has time to obtain initial rating of SRs from an approved credit rating agency within a period of six months from the date of
+acquisition of assets by it.
+12 The Bank does not have any project finance exposure as on September 30, 2026 to disclose under 'Reserve Bank of India (Small Finance Banks - Financial Statements :
+Presentation and Disclosures) Directions, 2025' dated November 28, 2025 and as amended thereafter.
+13 During the half year ended September 30, 2026, the Bank has allotted 30,83,857 equity shares, face value of ? 10 each, pursuant to the exercise of options by its employees
+in accordance with the ESFB ESOP Scheme.
+14 During the half year ended September 30, 2026, the Bank has raised Tier II Capital of X 50,000 Lakhs.
+15 Other Income includes fees earned from providing services to customers, selling of third-party products, profit on sale of investments (net), profit / (loss) on revaluation of
+investments, Profit on sale of PSLC certificates, Profit on sale of NPA advances to ARC, recoveries from accounts previously written off, excess interest spread arising from
+securitisation, etc.,
+16 Information required pursuant to Regulation 52(4) of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015:
+a) Methodology for computation of the ratios is as follows:
+Debt - equity ratio Borrowings with residual maturity of more than one year / sum of Capital and Reserves & Surplus
+Total debts to total assets Total borrowings of the Bank / Total Assets
+Networth Calculated as per the Master Circular - Exposure Norms issued by the RBI
+b) Basis nature of Bank's Business, the ratios considered to be not applicable are Current Ratio, Long term debt to working capital, Bad Debts to Account Receivable Ratio,
+Debt service coverage ratio, Interest service coverage ratio, current liability ratio, Debtors’turnover, Inventory turnover, Operating margin % and Net profit margin %.
+17 The Bank does not have any Subsidiary, Associate or Joint venture as on September 30, 2026. Accordingly, the Bank is not required to publish the consolidated financial
+results.
+18 During the half year ended September 30, 2026, the Bank has realised X 487.50 Lakhs from sale of Priority Sector Lending Certificates (‘PSLC’). The same is amortised on a
+straight-line basis over the tenor of the certificate. The Bank has recognised X 244.42 Lakhs as income during the period ended September 30, 2026 and has deferred
+?243.08 Lakhs of PSLC fee income.
+Previous period / year figures have been reclassified/regrouped, wherever necessary, to conform to the current period / year classification/ grouping.19
+For Equitas Small Finance Bank Limited
+P N V^sudpvan
+Managing Director and Chief Executive Officer
+DIN:01550885
+Place: Chennai
+Date : October 29, 2026
+
+[page 9]
+Sundaram & Srinivasan,
+Chartered Accountants,
+New No.4, Old No. 23,
+C P Ramaswamy Road,
+Alwarpet,
+Chennai- 600 018
+Suri & Co.,
+Chartered Accountants,
+No. 443 and 445, 4th Floor,
+Guna Complex main building,
+Anna salai, Teynampet,
+Chennai- 600 018
+Independent Auditors' Limited Review Report on the unaudited financial results of Equitas Small Finance
+Bank Limited for the quarter and half year ended September 30, 2026, pursuant to Regulation 33 and
+Regulation 52 read with Regulation 63(2) of the Securities and Exchange Board of India (Listing Obligations
+and Disclosure Requirements) Regulations, 2015, as amended.
+To
+The Board of Directors
+Equitas Small Finance Bank Limited
+1. We have reviewed the accompanying statement of unaudited financial results ("the Statement") of
+Equitas Small Finance Bank Limited ("the Bank") for the quarter and half year ended September 30, 2026
+attached herewith, being submitted by the Bank pursuant to the requirements of Regulation 33 and
+Regulation 52 read with Regulation 63 (2) of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, as amended ("the Listing Regulations"), except for the disclosures relating to 'Pillar 3
+disclosure under Basel III Capital Regulations as at September 30, 2026, including Leverage Ratio and
+Liquidity Coverage Ratio under Capital Adequacy and Liquidity Standards issued by Reserve Bank of India'
+("RBI") as have been disclosed on the Bank's website and in respect of which a link has been provided in
+Note No. 9 to the statement and, which have not been reviewed by us.
+2. Management responsibility
+This statement is the responsibility of the Bank's Management and has been approved by the Bank's
+Board of Directors. This statement has been prepared in accordance with the recognition and
+measurement principles laid down in Accounting Standard 25, (AS 25) "Interim Financial Reporting"
+prescribed under Section 133 of the Companies Act, 2013 as amended, read with relevant rules issued
+thereunder,in so far as they apply to banks,the relevant provisions of the Banking Regulation Act,1949,
+the circulars, guidelines and directions issued by Reserve Bank of India from time to time ('the RBI
+Guidelines') and other accounting principles generally accepted in India, and in compliance with the
+Listing Regulations. Our responsibility is to issue a report on the statement based on our review.
+3. Auditor's responsibility
+We conducted our review of the Statement in accordance with the Standard on Review Engagements
+('SRE') 2410, "Review of Interim Financial Information Performed by the Independent Auditor of the
+Entity",issued by the Institute of Chartered Accountants of India. This standard requires that we plan and
+perform the review to obtain moderate assurance as to whether the statement is free of material
+misstatement. A review of interim financial information is limited primarily to inquiries of Bank's
+personnel and analytical and other review procedures applied to financial data and thus provides less
+assurance than an audit. A review is substantially less in scope than an audit conducted in accordance
+with Standards on Auditing specified under section 143(10) of the Companies Act,2013 and consequently
+does not enable us to obtain assurance that we would become aware of all significant matters that might
+be identified in an audit. We have not performed an audit and accordingly, we do not express an audit
+opinion.
+
+[page 10]
+Sundaram & Srinivasan,
+Chartered Accountants,
+New No.4, Old No. 23,
+C P Ramaswamy Road,
+Alwarpet,
+Chennai- 600 018
+Suri & Co.,
+Chartered Accountants,
+No. 443 and 445, 4th Floor,
+Guna Complex main building,
+Anna salai, Teynampet,
+Chennai- 600 018
+4. Conclusion
+Based on our review conducted as stated in paragraph 3 above, nothing has come to our attention that
+causes us to believe that the accompanying Statement of unaudited financial results including notes
+thereon prepared in accordance with recognition and measurement principles laid down in AS 25,
+prescribed under Section 133 of the Companies Act, 2013 read with relevant rules issued there under,
+the RBI Guidelines and other accounting principles generally accepted in India has not disclosed the
+information required to be disclosed in terms of Regulation 33 and Regulation 52 read with Regulation
+63 (2) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended,
+including the manner in which it is to be disclosed, or that it contains any material misstatement or that
+it has not been prepared in accordance with the relevant prudential norms issued by the Reserve Bank of
+India in respect of income recognition, asset classification,provisioning and other related matters,except
+for the disclosures relating to 'Pillar 3 disclosure under Basel III Capital Regulations as at September 30,
+2026, including Leverage Ratio and Liquidity Coverage Ratio under Capital Adequacy and Liquidity
+Standards issued by Reserve Bank of India' ('RBI') as have been disclosed on the Bank's website and in
+respect of which a link has been provided in Note No. 9 to the statement and, which have been reviewed
+by us.
+5. Other matter
+One of the joint statutory auditors (M/s Sundaram & Srinivasan,Chartered Accountants) has not audited
+or reviewed the comparative financial information appearing in the statement of the corresponding
+quarter ended 30th June 2026, quarter and half year ended 30th September 2025 and year to date
+financial results for the period 01st April 2025 to 31st March 2026. The earlier periods/years have been
+audited/reviewed by the predecessor Joint Statutory Auditors and their reports expressed unmodified
+conclusion/opinion detailed as under:
+Period / Year ended Date of Report
+30th June 2026 28th July 2026
+30th September 2025 31st October 2025
+30th April 202631st March 2026
+For Suri & Co.,
+Chartered Accountants
+ICAI FRN: 004283S
+For Sundaram & Srinivasan,
+Chartered Accountants
+ICAI FRN: 004207S
+Digitally signed by
+MENAKSHISUNDARAM
+Date: 2026.10.29
+13:17:33 +05'30'
+MENAKSHIS
+UNDARAM
+KONGAN
+CHANDRASEKARAN
+ANNAAHMALAI
+Digitally signed by KONGAN
+CHANDRASEKARAN
+ANNAAHMALAI
+Date: 2026.10.29 13:27:59 +05'30'
+K C Annaahmalai
+Partner
+ICAI Membership No. 223395
+UDIN: 26223395AKRLDF3135
+P Menakshi Sundaram
+Partner
+ICAI Membership No. 217914
+UDIN: 26217914VDZHYO4780
+Place: Coimbatore
+Date: 29th October 2026
+Place: Chennai
+Date: 29th October 2026
+
+[page 11]
+Additional disclosure of related party transactions - applicable only in case the related party transact ori
+relates to loans,inter-corporatc deposits advances or investments made or given by the listed
+entity/subsidiaiy.Ihese details needtobeulsclosed only once,during the reporting period when such
+transaction was undertaken.
+Fermat for Disclosure of Related Party Transactions (applicable only for half-yearly filings i.e., 2nd and 4th quarter)
+Rs.hLakhs
+Type of related
+party
+transaction
+Details of other
+related party'
+transaction
+Value of the
+related party
+transaction as
+approved by
+the audit
+committee
+Remarks cn
+approval by
+audit
+committee
+Value of the
+related party
+transaction
+ratified by the
+audit
+committee
+Date of Audit
+Committee
+Meeting where
+the ratification
+was approved
+Value of
+transaction
+auringthe
+reporting
+period
+In case monies are due to
+either party as a result of the
+transaction
+In case any financial indebtedness is
+.ncurred to make or give loans, inter-
+corporate deposits,advances or
+investments
+Details of the loans, inter-corporatc deposits,advances cr
+investments
+Details of the counterparty'Details ot the party (listed entity
+/subsidiary) entering into the
+transaction
+Sr.
+No.
+Closing
+balance
+Nature Details
+of of other
+indebted indebte
+ness dness
+(loan/
+issuance
+of debt/
+Cost Tenure Nature
+(loan/
+advance/
+interccrpcr
+TenureRelationship of the
+counterparty with
+the listed entity or
+its subsidiary
+Opening
+balance
+Interest
+Rate (%)
+Secured/ Purpose for
+which the
+funds will
+oe utilised
+by the
+ultimate
+recipient of
+funds
+(endusage;
+NotesFAN Name PANName
+unsecure
+d
+ate
+deposit/
+investment
+)any
+other
+etc.)
+AAA1F2352K Entities under the
+Same Management
+Interest paid 20C Interest on
+deposit
+payable
+1.05 0.30 0.32AAACV2544HEqudas Small
+Finance Bank L.mired
+Equitas
+Development
+Initiatives Trust
+1
+Receipt of
+deposits
+(Outsianding
+at any point of
+lime)
+0.89 30.19Entities under the
+Same Management
+Any other
+transaction
+Deposits
+received
+3000 29.30AAACV2544H Equitas
+Development
+Initiatives Trust
+AAATE2952K2 Equitas Smalt
+Finance Bank Limited
+Electricity on
+actuals
+AAATE8977C Entities under the
+Same Management
+Any other
+transaction
+Rent and
+Electricity for
+ATM
+0.54 0.32 0.0G 0.07Equitas
+Healthcare
+Foundation
+Equitas Small
+Finance Bank Limited
+AAACV2544H3
+N.AAAATE8977C Entities under the
+Same Management
+Any other
+transaction
+C3R 0.00 366.00 0.00 0.00Equitas Small
+Finance Ban< Limited
+AAACV2544H Equitas
+Healthcare
+Foundation
+4
+contirbution
+475.00 N.A 316.09 356.25 158.91AAGCI3967H Common
+directorship
+Any other
+transaction
+IPL SponsorshipAAACV2544H Torrent Gujarat
+Titans Private
+Limited
+£ Equitas Small
+Finance Bank Limited fee
+N.A 118.75 356.25 158.91AAGCI3967H Common
+directorship
+Advance IPL Sponsorship
+fee (Advance
+payment)
+475.00AAACV2544H Torrent Gujarat
+Titans Private
+Limited
+6 Equitas Small
+Finance Barn
+* Limited
+Security deposit
+paid for ATM
+N.A 0.00 0.24AAATE6977C Entitles under the
+Same Management
+Any other
+transaction
+o.coEquitas Small
+Finance Bank Limited
+AAACV2544H Equitas
+Healthcare
+Foundation
+0.247
+(I) We decla.e that the acceptance of fixed deposits by the bans/Non-Bank ng Finance Company are at the terms uniformly applicafcle/offered to all shareholders/publ- c
+(II) We declare that the scheduled commercial bank, as per RBI circular hBI/DBR/2015-16/19 dated March 03, 2016, has allowed additional interest of one per cent per annum,ever and above the rate of interest mentioned (n the schedule of interest rales on savings or a term deposits of bank's staff and their exclusive associations as well as on
+Deposits c'Chairman,Chairman & Managing Director,Fxecut.ve Director or such other Executives dppointec tor a fixed tenure.
+803.1C
+12UU9 M3 / Co
+
+[page 12]
+Annexure
+III
+Statement
+of
+utilization
+of
+issue
+proceeds
+If
+8
+is
+Yes
+,
+then
+specify
+thepurpose
+of
+for
+which
+the
+funds
+wereutilized
+ISIN Mode of
+Fund
+Raising
+(
+Public
+Issues
+/
+Privateplacement
+)
+Type
+of
+instrument
+Date of
+raising
+funds
+Amount
+raised
+Funds Any
+utilized
+deviation
+(
+Yes
+/
+No
+)
+Remarks
+,
+if
+any
+Name
+of
+the Issuer
+1
+2 3
+5
+4
+7
+8
+9
+10
+6
+Equitas
+Small
+FinanceBank
+Limited
+1
+NE
+063
+P08112 05
+th
+PrivatePlacement
+Rs
+.
+500
+Crores
+NilNon-
+Convertible
+Debentures
+Rs
+.
+500
+Crores
+No
+NADecember
+,
+2024
+INE
+063
+P08120
+31
+st
+July
+,
+Private
+Placement
+Nil
+Non
+-
+ConvertibleDebentures
+Rs
+. 500
+Crores
+Rs
+.
+500
+Crores
+No NA
+2025
+INE
+063P
+08138
+25
+th
+September
+,
+2026
+NilPrivate
+Placement
+Non
+-
+Convertible
+Debentures
+Rs
+.
+500
+Crores
+Rs
+.
+500
+Crores No
+NA
+a
+V
+2
+^
+(
+M f
+CrferioaiY
+^
+PA
+oQO
+002
+b
+?
+4
+c f c
+|
+When you bank with us
+,
+you contribute towards
+a
+better society.
+Equitas Small Finance Bank Limited
+4*
+Floor
+,
+Phase II
+,
+Spencer Plaza
+,
+No.769
+,
+Mount
+Road
+,
+Anna
+Salai
+,
+Chennai
+,
+Tamil Nadu
+,
+India - 600 002
+T:
++91 44 4299 5000 |
+F
+: +91 44 4299
+50501
+corporate@equitas
+.
+bank
+.
+in | www.
+equitas
+.
+bank
+.in |
+Toll Free
+:
+1800 103
+12221CIN No
+: L65191TN1993PLC025280
+4870125
+
+[page 13]
+Equitas
+Small
+Finance
+Bank
+Annexure
+IV
+Statement
+of
+deviation
+/
+variation
+in
+use
+of
+Issue
+proceeds
+Particulars
+Remarks
+Name
+of
+listed
+entity
+Equitas
+Small Finance
+Bank
+Limited
+Mode
+of
+fund
+raising PublieTssue
+/
+Private
+placement
+Type
+of
+instrument
+N
+on
+-
+convertible
+Securities
+Non
+-
+convertible
+Securities Non
+-
+convertible
+Securities
+Date
+of
+raising
+funds
+05
+th
+December
+,
+2024
+31
+st
+July
+,
+25
+th
+September
+2026
+2025
+Amount raised
+Rs
+.
+500 crores
+Rs
+.
+500
+crores
+Rs
+.500
+crores
+Report filed
+for
+quarter
+ended
+September
+30
+,
+September
+30
+,
+2026
+September
+30
+,
+2026
+2026
+Is
+there a deviation
+/
+variation
+in use
+of
+funds raised
+?
+No No No
+¥
+es
+/
+No
+/
+-
+NAWhether
+any approval
+is
+required
+to
+vary
+the
+objects
+of
+the
+issue
+stated
+in
+the prospectus
+/
+offer
+document
+?
+If
+yes
+,
+details
+of
+the
+approval
+so
+required
+?
+NA
+Date
+of
+approval
+NA
+Explanation
+for the
+deviation
+/
+variation
+NA
+Comments
+of
+the
+audit committee
+after
+review
+NA
+Comments
+of
+the auditors
+,
+if
+any
+NAObjects for
+which funds
+have
+been raised and where there has been
+a deviation
+/
+variation
+,
+in
+the
+following
+table
+: Amount
+of
+deviation
+/
+variation for
+the quarteraccording
+to
+applicableobject
+(
+in
+Rs
+. crore and in
+Modified
+object
+,
+ifany Modifiedallocation
+,
+if
+any
+Original
+object Original
+allocation
+Funds
+utilised
+Remarks
+,
+if any
+/
+„
+)
+Not Applicable
+Deviation could
+mean
+:
+a
+.
+Deviation
+in the
+objects
+or
+purposes
+for
+which the funds have been
+raised
+.b.
+Deviation
+in
+the amount
+of
+funds
+actually utilized
+as
+against what was
+originally
+disclosed
+.
+BEYOND BANKING When
+you bank with us
+,
+you
+contribute towards
+a better society
+.
+Equitas Small Finance Bank Limited
+4th
+Floor
+,
+Phase II
+,
+Spencer Plaza
+,
+No.769
+,Mount
+Road, Anna
+Salai
+,
+Chennai
+,
+Tamil Nadu
+,
+India
+-
+600 002
+T
+:
++91 44 4299 5000 |
+F: +91 44 4299
+50501
+corporate@equitas.bank.in | www.equitas.bank
+.in|
+Toll Free
+:
+1800 103 1222 | CIN No
+:
+L65191TN1993PLC025280
+4870126
