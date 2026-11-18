@@ -5,7 +5,7 @@ A mobile-first agent for a public-markets investor. It does three things:
 - **Research (Pull):** checks what management promised against what it delivered.
 - **Network:** tells you who you know who can explain it.
 
-> **Live demo:** _add Vercel URL here_ · open it on a phone (or "Add to Home Screen")
+> **Live demo:** See the website through the following link : (https://enam-holdings-oa-git-main-shaurya-works.vercel.app/)· open it on a phone (or "Add to Home Screen")
 > Built for the ENAM Holdings Founding AI Engineer build challenge.
 
 ## The idea in one line
