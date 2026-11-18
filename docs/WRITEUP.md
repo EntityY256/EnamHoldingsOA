@@ -1,6 +1,6 @@
 # FINN: covering note
 
-**Prototype:** _Vercel URL_ · **Repo:** https://github.com/EntityY256/EnamHoldingsOA · **Build history:** _Claude Code session export link_
+**Prototype:** https://enam-holdings-oa.vercel.app/ · **Repo:** https://github.com/EntityY256/EnamHoldingsOA · **Build history:** [docs/build-history](build-history/README.md)
 
 ## What I built
 
@@ -86,6 +86,6 @@ Five filings from one results day collapse into one card. Triggered alerts sit o
 
 1. **Live loop:** a 5-minute BSE/NSE poller, then enrichment, then rules, then push to the phone, with the same cards.
 2. **Guidance ledger:** carry every promise forward quarter to quarter across the whole portfolio, so you can see which management teams over-promise.
-3. **Calendar-aware diligence:** "You're meeting the Kaynes CFO tomorrow: here's his career, your two overlaps, and the three numbers to ask about."
+3. **Calendar-aware diligence:** "You're meeting the Kaynes CFO tomorrow: here's the CFO's career, your two overlaps, and the three numbers to ask about."
 4. **Close the loop on the network:** after a call, a voice note updates tie strength and expertise tags, so the network gets smarter with use.
 5. **"Ask FINN":** a tool-using agent over the same engines, with evals on extraction accuracy before it ships.

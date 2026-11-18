@@ -5,7 +5,8 @@ A mobile-first agent for a public-markets investor. It does three things:
 - **Research (Pull):** checks what management promised against what it delivered.
 - **Network:** tells you who you know who can explain it.
 
-> **Live demo:** See the website through the following link : (https://enam-holdings-oa-git-main-shaurya-works.vercel.app/)· open it on a phone (or "Add to Home Screen")
+> **Live demo:** https://enam-holdings-oa.vercel.app/ · open it on a phone (or "Add to Home Screen")
+> **AI build history:** [docs/build-history](docs/build-history/README.md), the Claude Code session that built this, with an index of where it went wrong and how that was caught
 > Built for the ENAM Holdings Founding AI Engineer build challenge.
 
 ## The idea in one line
@@ -65,6 +66,7 @@ web/
 docs/
   ARCHITECTURE.md      pipelines, privacy, models, cloud (with diagram)
   WRITEUP.md           the covering note
+  build-history/       the AI build history (Claude Code session export + index)
 ```
 
 See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for the data pipelines, privacy model, LLM routing and cloud layout.
